@@ -20,6 +20,9 @@ jobs:
         echo "Provider Name,Address1,Address2,City,County,State Code,Zip,National Drug Code,Order Label,Last Order Date,Expected Delivery Date" > orders.csv
         cat download.csv >> orders.csv
         rm download.csv
+    - name: Sort csv by state, county, city, medical center
+      run: python sort.py
+      shell: sh
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
