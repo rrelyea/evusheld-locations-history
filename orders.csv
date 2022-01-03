@@ -1,4 +1,4 @@
-Provider Name,Address1,Address2,City,County,State Code,Zip,National Drug Code,Order Label,Last Order Date,Expected Delivery Date,Quantity,other,other2
+Provider Name,Address1,Address2,City,County,State Code,Zip,National Drug Code,Order Label,Last Order Date,Expected Delivery Date,Total Courses,Courses Available,Courses Available Date
 Alaska RSSC,2000 E 88th Ave,,Anchorage,ANCHORAGE,AK,99507,0310-7442-02,Evusheld,12/27/2021 12:00:00 AM,12/30/2021 12:00:00 AM,96,,
 Alaska RSSC,2000 E 88th Ave,,Anchorage,ANCHORAGE,AK,99507,0310-7442-02,Evusheld,12/27/2021 12:00:00 AM,12/28/2021 12:00:00 AM,96,,
 UAB HOSPITAL,521 19TH ST SOUTH,GEN SVCS BLDG LOADING DOCK,BIRMINGHAM,JEFFERSON,AL,35249,0310-7442-02,Evusheld,12/21/2021 12:00:00 AM,12/28/2021 12:00:00 AM,120,,
