@@ -14,10 +14,12 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD | grep -i "Evusheld" > orders.csv
-    - name: Sort csv by state, county, city, medical center
-      run: python sort.py
-      shell: sh
+        curl https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD | grep -i "Evusheld" > download.csv
+    - name: Add header to csv file
+      run: |-
+        echo "Provider Name,Address1,Address2,City,County,State Code,Zip,National Drug Code,Order Label,Last Order Date,Expected Delivery Date" > orders.csv
+        cat download.csv >> orders.csv
+        rm download.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
