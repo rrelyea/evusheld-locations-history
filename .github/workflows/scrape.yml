@@ -17,13 +17,13 @@ jobs:
         curl https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD | grep -i "Evusheld" > download.csv
     - name: Add header to csv file
       run: |-
-        echo "Provider Name,Address1,Address2,City,County,State Code,Zip,National Drug Code,Order Label,Last Order Date,Expected Delivery Date,Total Courses,Courses Available,Courses Available Date" > orders.csv
-        cat download.csv >> orders.csv
+        echo "Provider Name,Address1,Address2,City,County,State Code,Zip,National Drug Code,Order Label,Last Order Date,Expected Delivery Date,Total Courses,Courses Available,Courses Available Date" > evusheld-data.csv
+        cat download.csv >> evusheld-data.csv
         rm download.csv
     - name: Sort csv by state, county, city, medical center
       run: |-
         pip install pandas
-        python sort.py
+        python src\sort.py
       shell: sh
     - name: Commit and push if it changed
       run: |-
