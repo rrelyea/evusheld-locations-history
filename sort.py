@@ -7,4 +7,4 @@ csvData.sort_values(["State Code", "County", "City", "Provider Name"],
                     ascending=[True, True, True, True], 
                     inplace=True)
   
-csvData.to_csv("orders.csv")
+csvData.to_csv("orders.csv", index=False)
