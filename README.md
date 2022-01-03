@@ -1,2 +1,4 @@
-# evusheld-locations
-data on which medical facilities in US (for now) have (or have ordered) evusheld (PrEP for Covid)
+# evusheld-locations-history from healthdata.gov
+Tracking medical facilities with Evusheld data from https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
+
+This repo archives the latest version of https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD&api_foundry=true every twenty minutes, if it has changed.
