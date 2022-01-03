@@ -23,7 +23,7 @@ jobs:
     - name: Sort csv by state, county, city, medical center
       run: |-
         pip install pandas
-        python src\sort.py
+        python src/sort.py
       shell: sh
     - name: Commit and push if it changed
       run: |-
