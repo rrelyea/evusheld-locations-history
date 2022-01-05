@@ -5,9 +5,11 @@ This repo archives the latest version of https://healthdata.gov/api/views/rxn6-q
 
 # Ways to get this data
 
+- Simple CSV file viewer in webpage: https://github.com/rrelyea/evusheld-locations-history/blob/main/evusheld-data.csv
+  - tip: type county or city name into search "Search this file..." field
 - Excel Spreadsheet: https://1drv.ms/x/s!AhC1RgsYG5Ltv55eBLmCP2tJomHPFQ?e=XbsTzD
 - Google Sheet: https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing
-- CSV File "evusheld-data.csv": https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv
+- download CSV File "evusheld-data.csv": https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv
 
 # Contact/Feedback
 - Rob Relyea is reachable at https://twitter.com/rrelyea
