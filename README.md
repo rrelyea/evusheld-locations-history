@@ -1,7 +1,7 @@
 # evusheld-locations-history from healthdata.gov
 Tracking medical facilities with Evusheld data from https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
 
-This repo archives the latest version of https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD (filtered to only show Evusheld data, and sorted by state, county, city, providerName) every twenty minutes into evusheld-data.csv, if it has changed.
+This repo archives the latest version of https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD (filtered to only show Evusheld data, and sorted by state, county, city, providerName) when it changes into evusheld-data.csv. (HealthData.gov has been updating the data feed 1-2 times per day)
 
 # Ways to get this data
 
