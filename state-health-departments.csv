@@ -24,35 +24,35 @@ https://health.maryland.gov/pages/home.aspx, Maryland, @MDHealthDept
 http://www.mass.gov/eohhs/gov/departments/dph/, Massachusetts, @MassDPH
 http://www.michigan.gov/mdch, Michigan, @MichiganHHS
 http://www.health.state.mn.us/, Minnesota, @MNHealth
-http://www.msdh.state.ms.us/, Mississippi
-http://health.mo.gov/index.php, Missouri
-http://dphhs.mt.gov/, Montana
-http://dhhs.ne.gov/Pages/default.aspx, Nebraska
-http://dhhs.nv.gov/, Nevada
-http://www.dhhs.state.nh.us/, New Hampshire
-http://www.nj.gov/health/, New Jersey
-http://nmhealth.org/, New Mexico
-https://www.health.ny.gov/, New York
-https://www.ncdhhs.gov/, North Carolina
-https://www.ndhealth.gov/, North Dakota
-http://chcc.gov.mp/, Northern Mariana Islands
+http://www.msdh.state.ms.us/, Mississippi, @msdh
+http://health.mo.gov/index.php, Missouri, @HealthyLivingMo
+http://dphhs.mt.gov/, Montana, @DPHHSMT
+http://dhhs.ne.gov/Pages/default.aspx, Nebraska, @NEDHHS
+http://dhhs.nv.gov/, Nevada, @DhhsNevada
+http://www.dhhs.nh.gov/, New Hampshire, @nhdhhspio
+http://www.nj.gov/health/, New Jersey, @NJDeptofHealth
+http://nmhealth.org/, New Mexico, @nmdoh
+https://www.health.ny.gov/, New York, @healthnygov
+https://www.ncdhhs.gov/, North Carolina, @ncdhhs
+https://www.ndhealth.gov/, North Dakota, @nddoh
+http://chcc.gov.mp/, Northern Mariana Islands, @cnmichcc
 https://odh.ohio.gov/wps/portal/gov/odh/home, Ohio, @OHdeptofhealth
-http://www.ok.gov/health/, Oklahoma
-https://public.health.oregon.gov/Pages/Home.aspx, Oregon
-http://www.health.pa.gov/Pages/default.aspx#.VSPjfPnF-aU, Pennsylvania
-http://www.salud.gov.pr/Pages/Home.aspx, Puerto Rico
-http://www.palauhealth.org/, Republic of Palau
+http://www.ok.gov/health/, Oklahoma, @HealthyOklahoma
+https://public.health.oregon.gov/Pages/Home.aspx, Oregon, @OHAOregon
+http://www.health.pa.gov/Pages/default.aspx#.VSPjfPnF-aU, Pennsylvania, @PAHealthDept
+http://www.salud.gov.pr/Pages/Home.aspx, Puerto Rico, @desaludpr
+http://www.palauhealth.org/, Republic of Palau, , mohrop@palauhealth.org
 http://www.rmiembassyus.org/index.php/about/marshall-islands/government, Republic of the Marshall Islands
-http://www.health.ri.gov/, Rhode Island
-http://www.scdhec.gov/, South Carolina
-https://doh.sd.gov/, South Dakota 
-https://www.tn.gov/health.html, Tennessee
-https://www.dshs.state.tx.us/, Texas
-https://doh.vi.gov/, U.S. Virgin Islands
-https://health.utah.gov/, Utah
-http://healthvermont.gov/, Vermont
-https://www.vdh.virginia.gov/, Virginia
-http://www.doh.wa.gov/, Washington
-http://www.dhhr.wv.gov/Pages/default.aspx, West Virginia 
-https://www.dhs.wisconsin.gov/, Wisconsin
-https://health.wyo.gov/, Wyoming
+http://health.ri.gov/, Rhode Island, @rihealth
+http://www.scdhec.gov/, South Carolina, @scdhec
+https://doh.sd.gov/, South Dakota, @SDDOH
+https://www.tn.gov/health.html, Tennessee, @TNDeptofHealth
+https://www.dshs.state.tx.us/, Texas, @TexasDSHS
+https://doh.vi.gov/, U.S. Virgin Islands, @USVIDOH
+https://health.utah.gov/, Utah, @UtahDepOfHealth
+http://healthvermont.gov/, Vermont, @HealthVermont
+https://www.vdh.virginia.gov/, Virginia, @VDHgov
+http://www.doh.wa.gov/, Washington, @WADeptHealth
+http://www.dhhr.wv.gov/Pages/default.aspx, West Virginia, @WV_DHHR
+https://www.dhs.wisconsin.gov/, Wisconsin, @DHSWI
+https://health.wyo.gov/, Wyoming, @health_wyoming
