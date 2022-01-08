@@ -17,7 +17,7 @@ Every 20 minutes, this site:
 HealthData.gov has been updating the data feed about 1 times per weekday)
 
 # How can we improve Evusheld dose flow to people who need it?
-- Read this set of suggestions...and send me comments/improvements: [wiki\evusheld-requests](https://github.com/rrelyea/evusheld-locations-history/wiki/Evusheld-Requests)
+- Read this set of suggestions...and send me comments/improvements: [evusheld-requests](https://github.com/rrelyea/evusheld-locations-history/wiki/Evusheld-Requests)
 
 # Contact info for your state's health department
 - [state-health-departments.csv](https://github.com/rrelyea/evusheld-locations-history/blob/main/state-health-departments.csv) has web page and twitter accounts for most state health departments.
