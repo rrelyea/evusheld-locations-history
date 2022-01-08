@@ -13,10 +13,8 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
-      env:
-        APP_TOKEN: ${{ secrets.HEALTHDATA_APPTOKEN }}
       run: |-
-        curl https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld&$$app_token=$APP_TOKEN > evusheld-data.csv
+        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld > evusheld-data.csv
     - name: Sort csv by state, county, city, medical center
       run: |-
         pip install pandas
