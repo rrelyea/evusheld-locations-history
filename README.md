@@ -1,9 +1,4 @@
-# evusheld-locations-history from healthdata.gov
-Tracking medical facilities with Evusheld data from https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
-
-This repo archives the latest version of https://healthdata.gov/api/views/rxn6-qnx8/rows.csv?accessType=DOWNLOAD (filtered to only show Evusheld data, and sorted by state, county, city, providerName) when it changes into evusheld-data.csv. (HealthData.gov has been updating the data feed 1-2 times per day)
-
-# Ways to get this data
+# Ways to view current Evusheld order/inventory data for all 50 states
 
 - Simple CSV file viewer in webpage: https://github.com/rrelyea/evusheld-locations-history/blob/main/evusheld-data.csv
   - tip: type county or city name into search "Search this file..." field
@@ -11,6 +6,24 @@ This repo archives the latest version of https://healthdata.gov/api/views/rxn6-q
 - Google Sheet: https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing
 - download CSV File "evusheld-data.csv": https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv
 
+# Where does this data comes from?
+HealthData.gov collects all medical facilities with Evusheld orders/inventory and publishes it to https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
+
+Every 20 minutes, this site:
+- gets the latest version of https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld
+- sorts it by state, county, city, providerName
+- saves it as [evusheld-data.csv](https://github.com/rrelyea/evusheld-locations-history/blob/main/evusheld-data.csv)
+
+HealthData.gov has been updating the data feed about 1 times per weekday)
+
+# How can we improve Evusheld dose flow to people who need it?
+- Read this set of suggestions...and send me comments/improvements: [wiki\evusheld-requests](wiki\evusheld-requests)
+
+# Contact info for your state's health department
+- [state-health-departments.csv](https://github.com/rrelyea/evusheld-locations-history/blob/main/state-health-departments.csv) has web page and twitter accounts for most state health departments.
+  - open an issue, PR, or contact me with improvements.
+
 # Contact/Feedback
-- Rob Relyea is reachable at https://twitter.com/rrelyea
-- Also feel free to file an issue in this repro (see Issues)
+- Open an issue or pull request in this repository
+- or contact Rob Relyea at [@rrelyea](https://twitter.com/rrelyea) on twitter
+
