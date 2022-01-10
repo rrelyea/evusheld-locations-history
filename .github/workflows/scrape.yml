@@ -17,7 +17,7 @@ jobs:
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld > evusheld-data.csv
     - name: Fetch latest HHS_IDs
       run: |-
-        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/vz64-k9wr.csv > HHS_IDs.csv
+        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/vz64-k9wr.csv > data/HHS_IDs.csv
     - name: Sort csv by state, county, city, medical center
       run: |-
         pip install pandas
