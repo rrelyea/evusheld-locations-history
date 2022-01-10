@@ -12,13 +12,16 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest data
+    - name: Fetch latest Evusheld data
       run: |-
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld > evusheld-data.csv
+    - name: Fetch latest HHS_IDs
+      run: |-
+        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/vz64-k9wr.csv > HHS_IDs.csv
     - name: Sort csv by state, county, city, medical center
       run: |-
         pip install pandas
-        python src/sort.py
+        python src/get-and-transform-data.py
       shell: sh
     - name: Commit and push if it changed
       run: |-
