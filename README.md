@@ -6,6 +6,8 @@
 - Google Sheet: https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing
 - download CSV File "evusheld-data.csv": https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv
 
+- View source of data on HealthData.gov (not presorted, or filtered to Evusheld only data): https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data
+
 # Where does this data comes from?
 HealthData.gov collects all medical facilities with Evusheld orders/inventory and publishes it to https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
 
