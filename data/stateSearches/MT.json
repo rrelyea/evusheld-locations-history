@@ -1,0 +1,43 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'rZjnsaA6EfoJ',
+            'displayLink': 'dphhs.mt.gov',
+            'formattedUrl': 'https://dphhs.mt.gov/publichealth/cdepi/diseases/.../monoclonalantibody',
+            'htmlFormattedUrl': 'https://dphhs.mt.gov/publichealth/cdepi/diseases/.../monoclonalantibody',
+            'htmlSnippet': 'Dec 1, 2021 <b>...</b> <b>Evusheld</b> (AZD7442) '
+                           'is tixagevimab and cilgavimab, which are '
+                           'neutralizing IgG1 monoclonal antibodies that bind '
+                           'to distinct, non-overlapping&nbsp;...',
+            'htmlTitle': 'Monoclonal Antibody',
+            'kind': 'customsearch#result',
+            'link': 'https://dphhs.mt.gov/publichealth/cdepi/diseases/CoronavirusMT/monoclonalantibody',
+            'pagemap': {'cse_image': [{'src': 'https://dphhs.mt.gov/_files/images/montana-logo-2.png'}],
+                        'cse_thumbnail': [{'height': '106',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8BfbZRwsFaDGJwiEN2cWVC4yQ5caskW5BeIs7vum45ztyeRvsyh5178g',
+                                           'width': '153'}],
+                        'metatags': [{'deeplinking': '91c8b98f0a1601d9024d1a619b9f7004',
+                                      'facebook-domain-verification': 'n7sm9as8gi3ijku34crmts0rp8c10s',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'shrink-to-fit=no'}]},
+            'snippet': 'Dec 1, 2021 ... Evusheld (AZD7442) is tixagevimab and '
+                       'cilgavimab, which are neutralizing IgG1 monoclonal '
+                       'antibodies that bind to distinct, non-overlapping\xa0'
+                       '...',
+            'title': 'Monoclonal Antibody'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 1,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'mt.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '1'}]},
+ 'searchInformation': {'formattedSearchTime': '0.11',
+                       'formattedTotalResults': '1',
+                       'searchTime': 0.113175,
+                       'totalResults': '1'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

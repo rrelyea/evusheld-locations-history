@@ -1,0 +1,324 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'PhoU5IsGNxEJ',
+            'displayLink': 'covid19.ncdhhs.gov',
+            'formattedUrl': 'https://covid19.ncdhhs.gov/information/individuals.../find-evusheld-nc',
+            'htmlFormattedUrl': 'https://covid19.ncdhhs.gov/information/individuals.../find-<b>evusheld</b>-nc',
+            'htmlSnippet': 'Find a provider offering <b>Evusheld</b> for '
+                           'prevention of COVID-19 in near you by searching '
+                           'your zip code or city in the map below. '
+                           'Appointments are required at&nbsp;...',
+            'htmlTitle': 'Find <b>Evusheld</b> in N.C. | NC COVID-19',
+            'kind': 'customsearch#result',
+            'link': 'https://covid19.ncdhhs.gov/information/individuals-families-and-communities/individuals-higher-risk/find-evusheld-nc',
+            'pagemap': {'listitem': [{'item': 'NC COVID-19',
+                                      'name': 'NC COVID-19',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Find a provider offering Evusheld for prevention of '
+                       'COVID-19 in near you by searching your zip code or '
+                       'city in the map below. Appointments are required at\xa0'
+                       '...',
+            'title': 'Find Evusheld in N.C. | NC COVID-19'},
+           {'cacheId': 'cS6qHHIgKysJ',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/.../special-bulletin-covid-19-209-hcpcs-code- '
+                            'q0220-billing-guidelines-tixagevimab-and-cilgavimab',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/.../special-bulletin-covid-19-209-hcpcs-code- '
+                                'q0220-billing-guidelines-tixagevimab-and-cilgavimab',
+            'htmlSnippet': '5 days ago <b>...</b> Emergency use of '
+                           '<b>Evusheld</b> approved by FDA. ... cilgavimab '
+                           'injection, copackaged for intramuscular use '
+                           '(<b>Evusheld</b>™) for use in the '
+                           'Physician&nbsp;...',
+            'htmlTitle': 'SPECIAL BULLETIN COVID-19 #209: HCPCS Code Q0220: '
+                         'Billing ...',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2022/01/06/special-bulletin-covid-19-209-hcpcs-code-q0220-billing-guidelines-tixagevimab-and-cilgavimab',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': '5 days ago ... Emergency use of Evusheld approved by '
+                       'FDA. ... cilgavimab injection, copackaged for '
+                       'intramuscular use (Evusheld™) for use in the '
+                       'Physician\xa0...',
+            'title': 'SPECIAL BULLETIN COVID-19 #209: HCPCS Code Q0220: '
+                     'Billing ...'},
+           {'cacheId': 'l4qavNt2PdQJ',
+            'displayLink': 'covid19.ncdhhs.gov',
+            'formattedUrl': 'https://covid19.ncdhhs.gov/information/...families.../individuals-higher-risk',
+            'htmlFormattedUrl': 'https://covid19.ncdhhs.gov/information/...families.../individuals-higher-risk',
+            'htmlSnippet': '<b>Evusheld</b> is only authorized for people who '
+                           'are not currently infected with COVID-19 and who '
+                           'have not been recently exposed to an infected '
+                           'person. To qualify to&nbsp;...',
+            'htmlTitle': 'Individuals at Higher Risk | NC COVID-19',
+            'kind': 'customsearch#result',
+            'link': 'https://covid19.ncdhhs.gov/information/individuals-families-and-communities/individuals-higher-risk',
+            'pagemap': {'listitem': [{'item': 'NC COVID-19',
+                                      'name': 'NC COVID-19',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Evusheld is only authorized for people who are not '
+                       'currently infected with COVID-19 and who have not been '
+                       'recently exposed to an infected person. To qualify '
+                       'to\xa0...',
+            'title': 'Individuals at Higher Risk | NC COVID-19'},
+           {'cacheId': 'Jl9agwX7gQIJ',
+            'displayLink': 'covid19.ncdhhs.gov',
+            'formattedUrl': 'https://covid19.ncdhhs.gov/personas-de-alto-riesgo',
+            'htmlFormattedUrl': 'https://covid19.ncdhhs.gov/personas-de-alto-riesgo',
+            'htmlSnippet': '<b>Evusheld</b> solo está autorizado para personas '
+                           'que actualmente no están infectadas con COVID-19 y '
+                           'que no han estado expuestas recientemente a una '
+                           'persona infectada&nbsp;...',
+            'htmlTitle': 'Personas de alto riesgo | NC COVID-19',
+            'kind': 'customsearch#result',
+            'link': 'https://covid19.ncdhhs.gov/personas-de-alto-riesgo',
+            'pagemap': {'listitem': [{'item': 'NC COVID-19',
+                                      'name': 'NC COVID-19',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Evusheld solo está autorizado para personas que '
+                       'actualmente no están infectadas con COVID-19 y que no '
+                       'han estado expuestas recientemente a una persona '
+                       'infectada\xa0...',
+            'title': 'Personas de alto riesgo | NC COVID-19'},
+           {'cacheId': '3lT5moVfR_IJ',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/.../provider-survey-electronic-visit-verification',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/.../provider-survey-electronic-visit-verification',
+            'htmlSnippet': 'Dec 17, 2021 <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'Provider Survey for Electronic Visit Verification | '
+                         'NC Medicaid',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2021/12/17/provider-survey-electronic-visit-verification',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': 'Dec 17, 2021 ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': 'Provider Survey for Electronic Visit Verification | NC '
+                     'Medicaid'},
+           {'cacheId': '8poj6qt5-MEJ',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/.../special-bulletin-covid-19-205-change-age- '
+                            'pfizer-biontech-covid-19-booster-vaccine',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/.../special-bulletin-covid-19-205-change-age- '
+                                'pfizer-biontech-covid-19-booster-vaccine',
+            'htmlSnippet': 'Dec 15, 2021 <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'SPECIAL BULLETIN COVID-19 #205: Change in Age for '
+                         'Pfizer ...',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2021/12/15/special-bulletin-covid-19-205-change-age-pfizer-biontech-covid-19-booster-vaccine',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': 'Dec 15, 2021 ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': 'SPECIAL BULLETIN COVID-19 #205: Change in Age for Pfizer '
+                     '...'},
+           {'cacheId': '2xH9gfsnbvIJ',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/.../new-legislation-waives-100-medicaid-and-nc- '
+                            'health-choice-provider-enrollment-fee',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/.../new-legislation-waives-100-medicaid-and-nc- '
+                                'health-choice-provider-enrollment-fee',
+            'htmlSnippet': '1 day ago <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'New Legislation Waives $100 Medicaid and NC Health '
+                         'Choice ...',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2022/01/10/new-legislation-waives-100-medicaid-and-nc-health-choice-provider-enrollment-fee',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': '1 day ago ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': 'New Legislation Waives $100 Medicaid and NC Health '
+                     'Choice ...'},
+           {'cacheId': '-CIZts5ZpCgJ',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/blog/2021/.../new-web-address-pasrr-application',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/blog/2021/.../new-web-address-pasrr-application',
+            'htmlSnippet': 'Nov 23, 2021 <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'New Web Address for PASRR Application | NC Medicaid',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2021/11/23/new-web-address-pasrr-application',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': 'Nov 23, 2021 ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': 'New Web Address for PASRR Application | NC Medicaid'},
+           {'cacheId': 'gHOE_pH4WyIJ',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/.../prior-approval-requirements-resume-childrens '
+                            '-developmental-services-agency-providers',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/.../prior-approval-requirements-resume-childrens '
+                                '-developmental-services-agency-providers',
+            'htmlSnippet': 'Oct 12, 2021 <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'Prior Approval Requirements Resume for '
+                         'Children&#39;s Developmental ...',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2021/10/12/prior-approval-requirements-resume-childrens-developmental-services-agency-providers',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': 'Oct 12, 2021 ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': "Prior Approval Requirements Resume for Children's "
+                     'Developmental ...'},
+           {'cacheId': 'AGZ1Ga8FGU4J',
+            'displayLink': 'medicaid.ncdhhs.gov',
+            'formattedUrl': 'https://medicaid.ncdhhs.gov/.../new-dashboard-tracks-nc-medicaid-managed- '
+                            'care-claim-denials',
+            'htmlFormattedUrl': 'https://medicaid.ncdhhs.gov/.../new-dashboard-tracks-nc-medicaid-managed- '
+                                'care-claim-denials',
+            'htmlSnippet': '5 days ago <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'New Dashboard Tracks NC Medicaid Managed Care Claim '
+                         'Denials ...',
+            'kind': 'customsearch#result',
+            'link': 'https://medicaid.ncdhhs.gov/blog/2022/01/06/new-dashboard-tracks-nc-medicaid-managed-care-claim-denials',
+            'pagemap': {'listitem': [{'item': 'NC Medicaid',
+                                      'name': 'NC Medicaid',
+                                      'position': '0'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}],
+                        'organization': [{'name': 'NC Medicaid Division of '
+                                                  'Health Benefits'}],
+                        'postaladdress': [{'addresslocality': 'Raleigh',
+                                           'addressregion': 'NC',
+                                           'postalcode': '27699-2501',
+                                           'streetaddress': '2501 Mail Service '
+                                                            'Center'}]},
+            'snippet': '5 days ago ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': 'New Dashboard Tracks NC Medicaid Managed Care Claim '
+                     'Denials ...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'nextPage': [{'count': 10,
+                           'cx': '37cfbc896668324c4',
+                           'inputEncoding': 'utf8',
+                           'outputEncoding': 'utf8',
+                           'safe': 'off',
+                           'searchTerms': 'evusheld',
+                           'siteSearch': 'ncdhhs.gov',
+                           'startIndex': 11,
+                           'title': 'Google Custom Search - evusheld',
+                           'totalResults': '853'}],
+             'request': [{'count': 10,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'ncdhhs.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '853'}]},
+ 'searchInformation': {'formattedSearchTime': '0.19',
+                       'formattedTotalResults': '853',
+                       'searchTime': 0.187614,
+                       'totalResults': '853'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

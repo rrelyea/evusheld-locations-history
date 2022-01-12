@@ -1,0 +1,52 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'RuDY57S0NOQJ',
+            'displayLink': 'health.wyo.gov',
+            'formattedUrl': 'https://health.wyo.gov/',
+            'htmlFormattedUrl': 'https://health.wyo.gov/',
+            'htmlSnippet': 'Read the latest WDH news and sign up to receive '
+                           'news directly by email. Learn More. WDH Healthcare '
+                           'Facilities.',
+            'htmlTitle': 'Wyoming Department of Health: Home Page',
+            'kind': 'customsearch#result',
+            'link': 'https://health.wyo.gov/',
+            'pagemap': {'cse_image': [{'src': 'https://health.wyo.gov/wp-content/uploads/2016/01/certificates-icon_lrg.gif'}],
+                        'cse_thumbnail': [{'height': '172',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAFJsfvvUVb9-_kHfIevO8PJh6THY4ehD84pdeKORPL1etlE2vXc-oOX8',
+                                           'width': '172'}],
+                        'metatags': [{'article:modified_time': '2022-01-06T19:23:47+00:00',
+                                      'msapplication-tileimage': 'https://health.wyo.gov/wp-content/uploads/2016/06/cropped-wdh-site-icon-270x270.png',
+                                      'og:locale': 'en_US',
+                                      'og:site_name': 'Wyoming Department of '
+                                                      'Health',
+                                      'og:title': 'Home Page - Wyoming '
+                                                  'Department of Health',
+                                      'og:type': 'website',
+                                      'og:url': 'https://health.wyo.gov/',
+                                      'twitter:card': 'summary',
+                                      'twitter:data1': '5 minutes',
+                                      'twitter:label1': 'Est. reading time',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0, '
+                                                  'maximum-scale=1.0, '
+                                                  'user-scalable=0'}]},
+            'snippet': 'Read the latest WDH news and sign up to receive news '
+                       'directly by email. Learn More. WDH Healthcare '
+                       'Facilities.',
+            'title': 'Wyoming Department of Health: Home Page'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 1,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'wyo.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '1'}]},
+ 'searchInformation': {'formattedSearchTime': '0.13',
+                       'formattedTotalResults': '1',
+                       'searchTime': 0.133731,
+                       'totalResults': '1'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

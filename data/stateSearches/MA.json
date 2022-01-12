@@ -1,0 +1,348 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'tKaUuIw4HW8J',
+            'displayLink': 'www.mass.gov',
+            'formattedUrl': 'https://www.mass.gov/orgs/executive-office-of-health-and-human-services',
+            'htmlFormattedUrl': 'https://www.mass.gov/orgs/executive-office-of-health-and-human-services',
+            'htmlSnippet': 'The Executive Office of Health and Human Services '
+                           'is the largest secretariat in state government and '
+                           'is comprised of 12 agencies, in addition to 2 '
+                           'soldiers&#39;&nbsp;...',
+            'htmlTitle': 'Executive Office of Health and Human Services | '
+                         'Mass.gov',
+            'kind': 'customsearch#result',
+            'link': 'https://www.mass.gov/orgs/executive-office-of-health-and-human-services',
+            'pagemap': {'WebPage': [{'mainEntityOfPage': 'Executive Office of '
+                                                         'Health and Human '
+                                                         'Services (EOHHS)'}],
+                        'cse_image': [{'src': 'https://www.mass.gov/files/2020-01/state-house-dome-400x300.jpg'}],
+                        'cse_thumbnail': [{'height': '194',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8IZdHmigh_ue7oHMm6AYpc0-JDn5mQDg3BIDwMCEjoH2OiPYhPc6EtETT',
+                                           'width': '259'}],
+                        'metatags': [{'category': 'state-organizations',
+                                      'handheldfriendly': 'true',
+                                      'mg_address': '1 Ashburton Place\n'
+                                                    'Boston, MA 02108\n'
+                                                    'United States',
+                                      'mg_body_preview': 'The Executive Office '
+                                                         'of Health and Human '
+                                                         'Services is the '
+                                                         'largest secretariat '
+                                                         'in state government '
+                                                         'and is comprised of '
+                                                         '12 agencies, in '
+                                                         'addition to 2 '
+                                                         'soldiers’ homes and '
+                                                         'the MassHealth '
+                                                         'program. Our efforts '
+                                                         'are focused on the '
+                                                         'health, resilience, '
+                                                         'and independence of '
+                                                         'the one in four '
+                                                         'residents of the '
+                                                         'Commonwealth we '
+                                                         'serve. Our public '
+                                                         'health programs '
+                                                         'touch every '
+                                                         'community in the '
+                                                         'Commonwealth.',
+                                      'mg_directions_url': 'https://maps.google.com/?q=1+Ashburton+Place%2C+Boston%2C+MA+02108',
+                                      'mg_location_listing_url': '[{"name":"Executive '
+                                                                 'Office of '
+                                                                 'Health and '
+                                                                 'Human '
+                                                                 'Services '
+                                                                 'Locations","url":"https:\\/\\/www.mass.gov\\/orgs\\/executive-office-of-health-and-human-services\\/locations"}]',
+                                      'mg_logo_url': 'https://www.mass.gov/files/styles/organization_logo/public/2021-08/EOHHS_massgov_transparent.png?itok=BSwvSuJO',
+                                      'mg_online_contact_url': '[{"name":"Contact '
+                                                               'EOHHS online '
+                                                               'via our web '
+                                                               'form","url":"https:\\/\\/www.mass.gov\\/forms\\/executive-office-of-health-and-human-services-contact-form"}]',
+                                      'mg_organization': 'executiveofficeofhealthandhumanservices',
+                                      'mg_phone_number': '(617) 573-1600',
+                                      'mg_stakeholder_org': 'Executive Office '
+                                                            'of Health and '
+                                                            'Human Services '
+                                                            '(EOHHS)',
+                                      'mg_title': 'Executive Office of Health '
+                                                  'and Human Services',
+                                      'mg_url': 'https://www.mass.gov/orgs/executive-office-of-health-and-human-services',
+                                      'mobileoptimized': 'width',
+                                      'og:description': 'The Executive Office '
+                                                        'of Health and Human '
+                                                        'Services is the '
+                                                        'largest secretariat '
+                                                        'in state government '
+                                                        'and is comprised of '
+                                                        '12 agencies, in '
+                                                        'addition to 2 '
+                                                        'soldiers’ homes and '
+                                                        'the MassHealth '
+                                                        'program. Our efforts '
+                                                        'are focused on the '
+                                                        'health, resilience, '
+                                                        'and independence of '
+                                                        'the one in four '
+                                                        'residents of the '
+                                                        'Commonwealth we '
+                                                        'serve. Our public '
+                                                        'health programs touch '
+                                                        'every community in '
+                                                        'the Commonwealth.',
+                                      'og:site_name': 'Mass.gov',
+                                      'og:title': 'Executive Office of Health '
+                                                  'and Human Services',
+                                      'og:type': 'website',
+                                      'og:url': 'https://www.mass.gov/orgs/executive-office-of-health-and-human-services',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:description': 'The Executive '
+                                                             'Office of Health '
+                                                             'and Human '
+                                                             'Services is the '
+                                                             'largest '
+                                                             'secretariat in '
+                                                             'state government '
+                                                             'and is comprised '
+                                                             'of 12 agencies, '
+                                                             'in addition to 2 '
+                                                             'soldiers’ homes '
+                                                             'and the '
+                                                             'MassHealth '
+                                                             'program. Our '
+                                                             'efforts are '
+                                                             'focused on the '
+                                                             'health, '
+                                                             'resilience, and '
+                                                             'independence of '
+                                                             'the one in four '
+                                                             'residents of the '
+                                                             'Commonwealth we '
+                                                             'serve. Our '
+                                                             'public health '
+                                                             'programs touch '
+                                                             'every community '
+                                                             'in the '
+                                                             'Commonwealth.',
+                                      'twitter:image': 'https://www.mass.gov/files/styles/large/public/2017-05/1-6Iomd4ucXXLmLu6gGt2NYQ.jpeg?itok=GZ8Nkyqj',
+                                      'twitter:site': '@massgov',
+                                      'twitter:site:id': '16264003',
+                                      'twitter:title': 'Executive Office of '
+                                                       'Health and Human '
+                                                       'Services',
+                                      'twitter:url': 'https://www.mass.gov/orgs/executive-office-of-health-and-human-services',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'The Executive Office of Health and Human Services is '
+                       'the largest secretariat in state government and is '
+                       'comprised of 12 agencies, in addition to 2 '
+                       "soldiers'\xa0...",
+            'title': 'Executive Office of Health and Human Services | '
+                     'Mass.gov'},
+           {'cacheId': '0x9fkzACRa8J',
+            'displayLink': 'www.mass.gov',
+            'formattedUrl': 'https://www.mass.gov/info-details/therapeutic-treatments-for-covid-19',
+            'htmlFormattedUrl': 'https://www.mass.gov/info-details/therapeutic-treatments-for-covid-19',
+            'htmlSnippet': 'Sotrovimab – sotrovimab is a monoclonal antibody '
+                           'treatment which is administered by an intravenous '
+                           '(IV) infusion and should be given as early as '
+                           'possible after&nbsp;...',
+            'htmlTitle': 'Therapeutic treatments for COVID-19 | Mass.gov',
+            'kind': 'customsearch#result',
+            'link': 'https://www.mass.gov/info-details/therapeutic-treatments-for-covid-19',
+            'pagemap': {'metatags': [{'category': 'services',
+                                      'handheldfriendly': 'true',
+                                      'mg_labels': 'covid19content,reviewmultipleparents',
+                                      'mg_organization': 'departmentofpublichealth,executiveofficeofhealthandhumanservices',
+                                      'mg_stakeholder_org': 'Mass Digital',
+                                      'mg_title': 'Therapeutic treatments for '
+                                                  'COVID-19',
+                                      'mg_url': 'https://www.mass.gov/info-details/therapeutic-treatments-for-covid-19',
+                                      'mobileoptimized': 'width',
+                                      'og:description': 'For patients recently '
+                                                        'diagnosed with '
+                                                        'COVID-19',
+                                      'og:site_name': 'Mass.gov',
+                                      'og:title': 'Therapeutic treatments for '
+                                                  'COVID-19',
+                                      'og:type': 'website',
+                                      'og:url': 'https://www.mass.gov/info-details/therapeutic-treatments-for-covid-19',
+                                      'twitter:card': 'summary',
+                                      'twitter:description': 'For patients '
+                                                             'recently '
+                                                             'diagnosed with '
+                                                             'COVID-19',
+                                      'twitter:site': '@massgov',
+                                      'twitter:site:id': '16264003',
+                                      'twitter:title': 'Therapeutic treatments '
+                                                       'for COVID-19',
+                                      'twitter:url': 'https://www.mass.gov/info-details/therapeutic-treatments-for-covid-19',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Sotrovimab – sotrovimab is a monoclonal antibody '
+                       'treatment which is administered by an intravenous (IV) '
+                       'infusion and should be given as early as possible '
+                       'after\xa0...',
+            'title': 'Therapeutic treatments for COVID-19 | Mass.gov'},
+           {'cacheId': 'zZo3u4FecrUJ',
+            'displayLink': 'www.mass.gov',
+            'formattedUrl': 'https://www.mass.gov/.../baker-polito-administration-announces-state- '
+                            'supported-monoclonal-antibody-treatment-sites-in-massachusetts',
+            'htmlFormattedUrl': 'https://www.mass.gov/.../baker-polito-administration-announces-state- '
+                                'supported-monoclonal-antibody-treatment-sites-in-massachusetts',
+            'htmlSnippet': 'Nov 30, 2021 <b>...</b> Two of the new mobile '
+                           'units, currently in Fall River and Holyoke, began '
+                           'administering monoclonal antibody treatment (mAb) '
+                           'to patients on&nbsp;...',
+            'htmlTitle': 'Baker-Polito Administration Announces State '
+                         'Supported Monoclonal ...',
+            'kind': 'customsearch#result',
+            'link': 'https://www.mass.gov/news/baker-polito-administration-announces-state-supported-monoclonal-antibody-treatment-sites-in-massachusetts',
+            'pagemap': {'metatags': [{'category': 'news',
+                                      'handheldfriendly': 'true',
+                                      'mg_date': '20211130',
+                                      'mg_organization': 'departmentofpublichealth,executiveofficeofhealthandhumanservices',
+                                      'mg_stakeholder_org': 'Department of '
+                                                            'Public Health',
+                                      'mg_title': 'Baker-Polito Administration '
+                                                  'Announces State Supported '
+                                                  'Monoclonal Antibody '
+                                                  'Treatment Sites in '
+                                                  'Massachusetts',
+                                      'mg_type': 'press-release',
+                                      'mg_url': 'https://www.mass.gov/news/baker-polito-administration-announces-state-supported-monoclonal-antibody-treatment-sites-in-massachusetts',
+                                      'mobileoptimized': 'width',
+                                      'og:description': 'Three new mobile '
+                                                        'units will expand '
+                                                        'access to treat '
+                                                        'COVID-19 positive or '
+                                                        'exposed individuals',
+                                      'og:site_name': 'Mass.gov',
+                                      'og:title': 'Baker-Polito Administration '
+                                                  'Announces State Supported '
+                                                  'Monoclonal Antibody '
+                                                  'Treatment Sites in '
+                                                  'Massachusetts',
+                                      'og:type': 'article',
+                                      'og:url': 'https://www.mass.gov/news/baker-polito-administration-announces-state-supported-monoclonal-antibody-treatment-sites-in-massachusetts',
+                                      'twitter:card': 'summary',
+                                      'twitter:description': 'Three new mobile '
+                                                             'units will '
+                                                             'expand access to '
+                                                             'treat COVID-19 '
+                                                             'positive or '
+                                                             'exposed '
+                                                             'individuals',
+                                      'twitter:site': '@massgov',
+                                      'twitter:site:id': '16264003',
+                                      'twitter:title': 'Baker-Polito '
+                                                       'Administration '
+                                                       'Announces State '
+                                                       'Supported Monoclonal '
+                                                       'Antibody Treatment '
+                                                       'Sites in Massachusetts',
+                                      'twitter:url': 'https://www.mass.gov/news/baker-polito-administration-announces-state-supported-monoclonal-antibody-treatment-sites-in-massachusetts',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Nov 30, 2021 ... Two of the new mobile units, '
+                       'currently in Fall River and Holyoke, began '
+                       'administering monoclonal antibody treatment (mAb) to '
+                       'patients on\xa0...',
+            'title': 'Baker-Polito Administration Announces State Supported '
+                     'Monoclonal ...'},
+           {'cacheId': 'gqhMycIrRYkJ',
+            'displayLink': 'www.mass.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://www.mass.gov/doc/joint-policy-2020-13...of.../download',
+            'htmlFormattedUrl': 'https://www.mass.gov/doc/joint-policy-2020-13...of.../download',
+            'htmlSnippet': 'Nov 10, 2020 <b>...</b> The Massachusetts '
+                           'Department of Public Health (“DPH or the '
+                           'Department”), through the Board of Registration in '
+                           'Pharmacy, Drug Control Program&nbsp;...',
+            'htmlTitle': 'The Commonwealth of Massachusetts',
+            'kind': 'customsearch#result',
+            'link': 'https://www.mass.gov/doc/joint-policy-2020-13-administration-of-fda-authorized-fda-licensed-and-investigational-covid-19/download',
+            'mime': 'application/pdf',
+            'pagemap': {'metatags': [{'mg_date': '20201127',
+                                      'mg_organization': 'boardofregistrationinpharmacy,bureauofhealthprofessionslicensure,departmentofpublichealth,executiveofficeofhealthandhumanservices',
+                                      'mg_title': 'Joint Policy 2020-13: '
+                                                  'Administration of  '
+                                                  'FDA-Authorized, '
+                                                  'FDA-Licensed, and '
+                                                  'Investigational COVID-19 '
+                                                  'Vaccines'},
+                                     {'author': 'Westgate, Traci (DPH)',
+                                      'company': 'Commonwealth of '
+                                                 'Massachusetts',
+                                      'creationdate': "D:20201127130135-05'00'",
+                                      'creator': 'Acrobat PDFMaker 11 for Word',
+                                      'moddate': "D:20201127130135-05'00'",
+                                      'producer': 'Adobe PDF Library 11.0',
+                                      'sourcemodified': 'D:20201127180126'}]},
+            'snippet': 'Nov 10, 2020 ... The Massachusetts Department of '
+                       'Public Health (“DPH or the Department”), through the '
+                       'Board of Registration in Pharmacy, Drug Control '
+                       'Program\xa0...',
+            'title': 'The Commonwealth of Massachusetts'},
+           {'cacheId': '28hxk2CjPL0J',
+            'displayLink': 'www.mass.gov',
+            'fileFormat': 'Microsoft Word',
+            'formattedUrl': 'https://www.mass.gov/doc/use-of-therapeutics-for-treatment.../download',
+            'htmlFormattedUrl': 'https://www.mass.gov/doc/use-of-therapeutics-for-treatment.../download',
+            'htmlSnippet': 'Dec 23, 2021 <b>...</b> The long-acting mAb '
+                           'tixagevimab/cilgavimab (<b>EVUSHELD</b>) is '
+                           'authorized for pre-exposure prophylaxis of '
+                           'COVID-19 in adults and pediatric&nbsp;...',
+            'htmlTitle': 'The Commonwealth of Massachusetts Executive Office '
+                         'of Health ...',
+            'kind': 'customsearch#result',
+            'link': 'https://www.mass.gov/doc/use-of-therapeutics-for-treatment-of-covid-19/download',
+            'mime': 'application/msword',
+            'pagemap': {'metatags': [{'mg_date': '20211224',
+                                      'mg_organization': 'departmentofpublichealth,executiveofficeofhealthandhumanservices',
+                                      'mg_title': 'Use of Therapeutics for '
+                                                  'Treatment of COVID-19'},
+                                     {'author': 'Kyle Marshall',
+                                      'character count': '15382',
+                                      'company': 'Commonwealth of '
+                                                 'Massachusetts',
+                                      'count characters with space': '18044',
+                                      'count lines': '128',
+                                      'count paragraphs': '36',
+                                      'creation date': '12/24/2021 12:51:00',
+                                      'document template': 'DPH Letterhead',
+                                      'dttm created': '12/24/2021 07:51:00',
+                                      'dttm last print': '8/12/2020 17:19:00',
+                                      'dttm revised': '12/24/2021 07:51:00',
+                                      'edit minutes': '1',
+                                      'last print date': '8/12/2020 21:19:00',
+                                      'last saved by': 'Jacob, John (DPH)',
+                                      'last saved date': '12/24/2021 12:51:00',
+                                      'links dirty': 'no',
+                                      'page count': '7',
+                                      'revision number': '2',
+                                      'scale crop': 'no',
+                                      'security': '0',
+                                      'source': 'Microsoft Office Word',
+                                      'word count': '2698'}]},
+            'snippet': 'Dec 23, 2021 ... The long-acting mAb '
+                       'tixagevimab/cilgavimab (EVUSHELD) is authorized for '
+                       'pre-exposure prophylaxis of COVID-19 in adults and '
+                       'pediatric\xa0...',
+            'title': 'The Commonwealth of Massachusetts Executive Office of '
+                     'Health ...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 5,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'mass.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '5'}]},
+ 'searchInformation': {'formattedSearchTime': '0.13',
+                       'formattedTotalResults': '5',
+                       'searchTime': 0.13467,
+                       'totalResults': '5'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

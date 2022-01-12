@@ -1,0 +1,119 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': '1ut7N9a2KqQJ',
+            'displayLink': 'health.mo.gov',
+            'formattedUrl': 'https://health.mo.gov/living/healthcondiseases/.../covid-therapeutics.php',
+            'htmlFormattedUrl': 'https://health.mo.gov/living/healthcondiseases/.../covid-therapeutics.php',
+            'htmlSnippet': 'Sotrovimab, <b>Evusheld</b>, Paxlovid and '
+                           'Molnupiravir are available for ordering through '
+                           'the DHSS portal. Monoclonal Antibody Treatment '
+                           '(Symptomatic).',
+            'htmlTitle': 'COVID Therapeutics | COVID-19 Outbreak | Health '
+                         '&amp; Senior Services',
+            'kind': 'customsearch#result',
+            'link': 'https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/covid-therapeutics.php',
+            'pagemap': {'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                                      'apple-mobile-web-app-status-bar-style': 'black-translucent',
+                                      'mobile-web-app-capable': 'yes',
+                                      'msapplication-navbutton-color': '#3a5170',
+                                      'theme-color': '#3a5170',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Sotrovimab, Evusheld, Paxlovid and Molnupiravir are '
+                       'available for ordering through the DHSS portal. '
+                       'Monoclonal Antibody Treatment (Symptomatic).',
+            'title': 'COVID Therapeutics | COVID-19 Outbreak | Health & Senior '
+                     'Services'},
+           {'cacheId': 'ggFM3oO3MUEJ',
+            'displayLink': 'health.mo.gov',
+            'formattedUrl': 'https://health.mo.gov/living/healthcondiseases/.../statewide-orders.php',
+            'htmlFormattedUrl': 'https://health.mo.gov/living/healthcondiseases/.../statewide-orders.php',
+            'htmlSnippet': 'Statewide Orders &middot; Vaccines &middot; '
+                           'Treatment &middot; Testing &middot; Contact '
+                           'Tracing and Reporting &middot; COVID-19 &middot; '
+                           'Contact &middot; About DHSS &middot; Useful Links.',
+            'htmlTitle': 'Statewide Orders | COVID-19 Outbreak | Health &amp; '
+                         'Senior Services',
+            'kind': 'customsearch#result',
+            'link': 'https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/statewide-orders.php',
+            'pagemap': {'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                                      'apple-mobile-web-app-status-bar-style': 'black-translucent',
+                                      'mobile-web-app-capable': 'yes',
+                                      'msapplication-navbutton-color': '#3a5170',
+                                      'theme-color': '#3a5170',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Statewide Orders · Vaccines · Treatment · Testing · '
+                       'Contact Tracing and Reporting · COVID-19 · Contact · '
+                       'About DHSS · Useful Links.',
+            'title': 'Statewide Orders | COVID-19 Outbreak | Health & Senior '
+                     'Services'},
+           {'cacheId': '0mPIF35EJoQJ',
+            'displayLink': 'health.mo.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://health.mo.gov/emergencies/ert/.../pdf/cdc-advisory123121.pdf',
+            'htmlFormattedUrl': 'https://health.mo.gov/emergencies/ert/.../pdf/cdc-advisory123121.pdf',
+            'htmlSnippet': 'Dec 31, 2021 <b>...</b> <b>EVUSHELD</b> is '
+                           'indicated for pre-exposure prophylaxis only and '
+                           'not for treatment of patients with COVID-19. '
+                           'Recommendations for Healthcare&nbsp;...',
+            'htmlTitle': 'Using Therapeutics to Prevent and Treat COVID-19',
+            'kind': 'customsearch#result',
+            'link': 'https://health.mo.gov/emergencies/ert/alertsadvisories/pdf/cdc-advisory123121.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'metatags': [{'author': 'nrb0',
+                                      'creationdate': "D:20220102075232-06'00'",
+                                      'creator': 'Microsoft® Word 2016',
+                                      'moddate': "D:20220102075232-06'00'",
+                                      'producer': 'Microsoft® Word 2016',
+                                      'title': 'Using Therapeutics to Prevent '
+                                               'and Treat COVID-19'}]},
+            'snippet': 'Dec 31, 2021 ... EVUSHELD is indicated for '
+                       'pre-exposure prophylaxis only and not for treatment of '
+                       'patients with COVID-19. Recommendations for '
+                       'Healthcare\xa0...',
+            'title': 'Using Therapeutics to Prevent and Treat COVID-19'},
+           {'cacheId': 'GL6ucbPd9BQJ',
+            'displayLink': 'governor.mo.gov',
+            'formattedUrl': 'https://governor.mo.gov/.../state-extends-monoclonal-antibody-treatment- '
+                            'contract',
+            'htmlFormattedUrl': 'https://governor.mo.gov/.../state-extends-monoclonal-antibody-treatment- '
+                                'contract',
+            'htmlSnippet': 'Sep 21, 2021 <b>...</b> Today, Governor Mike '
+                           'Parson announced that Missouri&#39;s six '
+                           'state-contracted monoclonal antibody treatment '
+                           'sites will be operational for an&nbsp;...',
+            'htmlTitle': 'State Extends Monoclonal Antibody Treatment Contract '
+                         '| Governor ...',
+            'kind': 'customsearch#result',
+            'link': 'https://governor.mo.gov/press-releases/archive/state-extends-monoclonal-antibody-treatment-contract',
+            'pagemap': {'cse_image': [{'src': 'https://governor.mo.gov/sites/gov/files/styles/landscape_lg_scale_fit/public/media/image/2018/09/news-default.jpg?itok=mijhms_m'}],
+                        'cse_thumbnail': [{'height': '175',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyPuQSP-7oQXyxfPLL3YI87A5BZp-YIpI7yka3E_x2HVOkOU-wfMh64Nvx',
+                                           'width': '289'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Sep 21, 2021 ... Today, Governor Mike Parson announced '
+                       "that Missouri's six state-contracted monoclonal "
+                       'antibody treatment sites will be operational for an\xa0'
+                       '...',
+            'title': 'State Extends Monoclonal Antibody Treatment Contract | '
+                     'Governor ...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 4,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'mo.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '4'}]},
+ 'searchInformation': {'formattedSearchTime': '0.22',
+                       'formattedTotalResults': '4',
+                       'searchTime': 0.221484,
+                       'totalResults': '4'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

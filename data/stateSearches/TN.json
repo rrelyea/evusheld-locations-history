@@ -1,0 +1,235 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': '_F-cit47c2gJ',
+            'displayLink': 'www.tn.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://www.tn.gov/content/dam/tn/health/.../Evusheld-12-30-2021-b.pdf',
+            'htmlFormattedUrl': 'https://www.tn.gov/content/dam/tn/health/.../<b>Evusheld</b>-12-30-2021-b.pdf',
+            'htmlSnippet': 'Dec 30, 2021 <b>...</b> AstraZeneca&#39;s '
+                           '<b>Evusheld</b> is a therapeutic treatment option '
+                           'for certain individuals to help protect them from. '
+                           'COVID-19 infection.',
+            'htmlTitle': 'COVID-19 Headers',
+            'kind': 'customsearch#result',
+            'link': 'https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/Evusheld-12-30-2021-b.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'metatags': [{'author': 'dilaning',
+                                      'creationdate': "D:20211230151809-06'00'",
+                                      'creator': 'Microsoft® Word for '
+                                                 'Microsoft 365',
+                                      'moddate': "D:20211230151809-06'00'",
+                                      'producer': 'Microsoft® Word for '
+                                                  'Microsoft 365',
+                                      'title': 'COVID-19 Headers'}]},
+            'snippet': "Dec 30, 2021 ... AstraZeneca's Evusheld is a "
+                       'therapeutic treatment option for certain individuals '
+                       'to help protect them from. COVID-19 infection.',
+            'title': 'COVID-19 Headers'},
+           {'cacheId': '162FEdbBhkoJ',
+            'displayLink': 'www.tn.gov',
+            'formattedUrl': 'https://www.tn.gov/health.html',
+            'htmlFormattedUrl': 'https://www.tn.gov/health.html',
+            'htmlSnippet': 'Information from TN Dept of Health about the '
+                           'Ongoing Novel Coronavirus Outbreak. Health. '
+                           'COVID-19 PSA “Give It A Shot&quot; &middot; Our '
+                           'Voices Campaign&nbsp;...',
+            'htmlTitle': 'Health',
+            'kind': 'customsearch#result',
+            'link': 'https://www.tn.gov/health.html',
+            'pagemap': {'metatags': [{'lastmodified': '9 Jul 2021 09:56:00 CDT',
+                                      'og:title': 'Health',
+                                      'og:url': 'https://www.tn.gov/health.html',
+                                      'pagepath': '/content/tn/health',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:title': 'Health',
+                                      'twitter:url': 'https://www.tn.gov/health.html',
+                                      'url': 'https://www.tn.gov/health.html',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Information from TN Dept of Health about the Ongoing '
+                       'Novel Coronavirus Outbreak. Health. COVID-19 PSA “Give '
+                       'It A Shot" · Our Voices Campaign\xa0...',
+            'title': 'Health'},
+           {'cacheId': '6SkeU85NmkQJ',
+            'displayLink': 'covid19.tn.gov',
+            'fileFormat': 'text/xml',
+            'formattedUrl': 'https://covid19.tn.gov/stay-informed/blogs/author/joseph-greentn.../feed/',
+            'htmlFormattedUrl': 'https://covid19.tn.gov/stay-informed/blogs/author/joseph-greentn.../feed/',
+            'htmlSnippet': 'older weighing at least 88 pounds). '
+                           '<b>Evusheld</b> is not a substitute for the '
+                           'COVID-19 vaccine and is only authorized for '
+                           'individuals who are not currently '
+                           'infected&nbsp;...',
+            'htmlTitle': 'Joseph Green – TN COVID-19 Hub',
+            'kind': 'customsearch#result',
+            'link': 'https://covid19.tn.gov/stay-informed/blogs/author/joseph-greentn-gov/feed/',
+            'mime': 'text/xml',
+            'snippet': 'older weighing at least 88 pounds). Evusheld is not a '
+                       'substitute for the COVID-19 vaccine and is only '
+                       'authorized for individuals who are not currently '
+                       'infected\xa0...',
+            'title': 'Joseph Green – TN COVID-19 Hub'},
+           {'cacheId': 'GrE8DUSSYtsJ',
+            'displayLink': 'covid19.tn.gov',
+            'formattedUrl': 'https://covid19.tn.gov/antibody-infusion-locations/',
+            'htmlFormattedUrl': 'https://covid19.tn.gov/antibody-infusion-locations/',
+            'htmlSnippet': 'Monoclonal antibody treatments are in extremely '
+                           'low supply in the state right now. Please talk to '
+                           'your individual health care provider about your '
+                           'risk factors.',
+            'htmlTitle': 'Monoclonal Antibody Infusion Locations in Tennessee '
+                         '| TN COVID ...',
+            'kind': 'customsearch#result',
+            'link': 'https://covid19.tn.gov/antibody-infusion-locations/',
+            'pagemap': {'cse_image': [{'src': 'https://covid19.tn.gov/wp-content/uploads/2021/09/TN_SocialSharing_Monoclonal-Antibodies.jpg'}],
+                        'cse_thumbnail': [{'height': '168',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnCMdS1vgmEUyJnNNy3DfWsm18wNhKXM8fNNgAEW1kgOWJnP7wUJYo5p0',
+                                           'width': '300'}],
+                        'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                                      'apple-mobile-web-app-title': 'TN '
+                                                                    'COVID-19 '
+                                                                    'Hub - '
+                                                                    'Find '
+                                                                    'COVID-19 '
+                                                                    'Information '
+                                                                    'in TN',
+                                      'application-name': 'Tennessee Covid',
+                                      'article:modified_time': '2021-12-22T16:43:09+00:00',
+                                      'facebook-domain-verification': '3fipoprk5b2pwifbwas5voimxi4lv8',
+                                      'mobile-web-app-capable': 'yes',
+                                      'msapplication-tilecolor': '#FFFFFF',
+                                      'msapplication-tileimage': 'https://covid19.tn.gov/wp-content/themes/tncovid/img/favicon/mstile-144x144.png',
+                                      'og:description': 'Use this page to find '
+                                                        'Monoclonal antibody '
+                                                        'infusion locations '
+                                                        'near you.',
+                                      'og:image': 'https://covid19.tn.gov/wp-content/uploads/2021/09/TN_SocialSharing_Monoclonal-Antibodies.jpg',
+                                      'og:image:height': '1080',
+                                      'og:image:width': '1920',
+                                      'og:locale': 'en_US',
+                                      'og:site_name': 'TN COVID-19 Hub',
+                                      'og:title': 'Monoclonal Antibody '
+                                                  'Infusion Locations in '
+                                                  'Tennessee | TN COVID-19 Hub',
+                                      'og:type': 'article',
+                                      'og:url': 'https://covid19.tn.gov/antibody-infusion-locations/',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:image': 'https://covid19.tn.gov/wp-content/uploads/2021/08/Monoclonal-Antibodies-Image.jpg',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'shrink-to-fit=no'}]},
+            'snippet': 'Monoclonal antibody treatments are in extremely low '
+                       'supply in the state right now. Please talk to your '
+                       'individual health care provider about your risk '
+                       'factors.',
+            'title': 'Monoclonal Antibody Infusion Locations in Tennessee | TN '
+                     'COVID ...'},
+           {'cacheId': 'oxmYtbVHjEoJ',
+            'displayLink': 'covid19.tn.gov',
+            'formattedUrl': 'https://covid19.tn.gov/monoclonal-antibodies-infusion-therapy/',
+            'htmlFormattedUrl': 'https://covid19.tn.gov/monoclonal-antibodies-infusion-therapy/',
+            'htmlSnippet': 'A safe, effective COVID-19 vaccine will help slow '
+                           'to the spread across Tennessee communities. This '
+                           'page answers common vaccine questions.',
+            'htmlTitle': 'Monoclonal Antibody Treatment',
+            'kind': 'customsearch#result',
+            'link': 'https://covid19.tn.gov/monoclonal-antibodies-infusion-therapy/',
+            'pagemap': {'cse_image': [{'src': 'https://covid19.tn.gov/wp-content/uploads/2021/08/MonoclonalAntibodies2Artboard-2.jpg'}],
+                        'cse_thumbnail': [{'height': '168',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_tY39hTYHHDJjMpm0PVEVDAThSiU_LDieOTb68qjz7Q-K0zxg5sUWOro',
+                                           'width': '300'}],
+                        'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                                      'apple-mobile-web-app-title': 'TN '
+                                                                    'COVID-19 '
+                                                                    'Hub - '
+                                                                    'Find '
+                                                                    'COVID-19 '
+                                                                    'Information '
+                                                                    'in TN',
+                                      'application-name': 'Tennessee Covid',
+                                      'article:modified_time': '2022-01-05T15:25:34+00:00',
+                                      'facebook-domain-verification': '3fipoprk5b2pwifbwas5voimxi4lv8',
+                                      'mobile-web-app-capable': 'yes',
+                                      'msapplication-tilecolor': '#FFFFFF',
+                                      'msapplication-tileimage': 'https://covid19.tn.gov/wp-content/themes/tncovid/img/favicon/mstile-144x144.png',
+                                      'og:description': 'A safe, effective '
+                                                        'COVID-19 vaccine will '
+                                                        'help slow to the '
+                                                        'spread across '
+                                                        'Tennessee '
+                                                        'communities. This '
+                                                        'page answers common '
+                                                        'vaccine questions.',
+                                      'og:image': 'https://covid19.tn.gov/wp-content/uploads/2021/08/MonoclonalAntibodies2Artboard-2.jpg',
+                                      'og:image:height': '1080',
+                                      'og:image:type': 'image/jpeg',
+                                      'og:image:width': '1920',
+                                      'og:locale': 'en_US',
+                                      'og:site_name': 'TN COVID-19 Hub',
+                                      'og:title': 'Monoclonal Antibody '
+                                                  'Treatment',
+                                      'og:type': 'article',
+                                      'og:url': 'https://covid19.tn.gov/monoclonal-antibodies-infusion-therapy/',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:data1': '2 minutes',
+                                      'twitter:image': 'https://covid19.tn.gov/wp-content/uploads/2021/08/MonoclonalAntibodies2Artboard-2.jpg',
+                                      'twitter:label1': 'Est. reading time',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'shrink-to-fit=no'}]},
+            'snippet': 'A safe, effective COVID-19 vaccine will help slow to '
+                       'the spread across Tennessee communities. This page '
+                       'answers common vaccine questions.',
+            'title': 'Monoclonal Antibody Treatment'},
+           {'cacheId': 'YH_CaMyDatkJ',
+            'displayLink': 'www.tn.gov',
+            'formattedUrl': 'https://www.tn.gov/health/cedep/ncov/healthcare-providers.html',
+            'htmlFormattedUrl': 'https://www.tn.gov/health/cedep/ncov/healthcare-providers.html',
+            'htmlSnippet': 'Healthcare Providers &amp; Laboratories &middot; '
+                           '<b>Evusheld</b> &middot; Monoclonal Antibody '
+                           'Administration Locations &middot; TDH Letter to '
+                           'Current COVID mAb Providers (9/23/2021) &middot; '
+                           'TDH Letter&nbsp;...',
+            'htmlTitle': 'Healthcare Providers &amp; Laboratories',
+            'kind': 'customsearch#result',
+            'link': 'https://www.tn.gov/health/cedep/ncov/healthcare-providers.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.tn.gov/content/tn/health/cedep/ncov/healthcare-providers/jcr%3Acontent/content/tn_panel/content/tn_image.img.gif/1587241876632.gif'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTvvyfc1DR6endY9QiRdCBMxUu2bDONSUA8zpMcYuR7Rx46nYIYcWZAMo',
+                                           'width': '224'}],
+                        'metatags': [{'lastmodified': '30 Dec 2021 15:21:51 '
+                                                      'CST',
+                                      'og:title': 'Healthcare Providers & '
+                                                  'Laboratories',
+                                      'og:url': 'https://www.tn.gov/health/cedep/ncov/healthcare-providers.html',
+                                      'pagedepartment': 'health',
+                                      'pagedivision': 'cedep',
+                                      'pagepath': '/content/tn/health/cedep/ncov/healthcare-providers',
+                                      'twitter:card': 'summary_large_image',
+                                      'twitter:title': 'Healthcare Providers & '
+                                                       'Laboratories',
+                                      'twitter:url': 'https://www.tn.gov/health/cedep/ncov/healthcare-providers.html',
+                                      'url': 'https://www.tn.gov/health/cedep/ncov/healthcare-providers.html',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Healthcare Providers & Laboratories · Evusheld · '
+                       'Monoclonal Antibody Administration Locations · TDH '
+                       'Letter to Current COVID mAb Providers (9/23/2021) · '
+                       'TDH Letter\xa0...',
+            'title': 'Healthcare Providers & Laboratories'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 6,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'tn.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '6'}]},
+ 'searchInformation': {'formattedSearchTime': '0.14',
+                       'formattedTotalResults': '6',
+                       'searchTime': 0.137481,
+                       'totalResults': '6'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

@@ -1,0 +1,72 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': '5DhcnEhc5rwJ',
+            'displayLink': 'dhss.alaska.gov',
+            'formattedUrl': 'https://dhss.alaska.gov/dph/epi/id/pages/covid-19/clinicalupdate.aspx',
+            'htmlFormattedUrl': 'https://dhss.alaska.gov/dph/epi/id/pages/covid-19/clinicalupdate.aspx',
+            'htmlSnippet': 'The previous week it accounted for only 12.6% of '
+                           'all infections. As of publication, Alaska has '
+                           'still only identified one case of the Omicron '
+                           'variant in an&nbsp;...',
+            'htmlTitle': 'COVID-19 Clinical Update, Alaska Department of '
+                         'Health and Social ...',
+            'kind': 'customsearch#result',
+            'link': 'https://dhss.alaska.gov/dph/epi/id/pages/covid-19/clinicalupdate.aspx',
+            'pagemap': {'cse_image': [{'src': 'https://content.govdelivery.com/attachments/fancy_images/AKDHSS/2021/12/5343329/1_original.png'}],
+                        'cse_thumbnail': [{'height': '127',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8nSOz2aUnkCbna9xQhhCxfCBfG1F1gzyv-IU439u8xntt0K9gyJg3uQ',
+                                           'width': '396'}]},
+            'snippet': 'The previous week it accounted for only 12.6% of all '
+                       'infections. As of publication, Alaska has still only '
+                       'identified one case of the Omicron variant in an\xa0'
+                       '...',
+            'title': 'COVID-19 Clinical Update, Alaska Department of Health '
+                     'and Social ...'},
+           {'cacheId': 'eJKVFQzm00cJ',
+            'displayLink': 'dhss.alaska.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://dhss.alaska.gov/dph/Epi/id/SiteAssets/.../flyer_InfusionTherapy.pdf',
+            'htmlFormattedUrl': 'https://dhss.alaska.gov/dph/Epi/id/SiteAssets/.../flyer_InfusionTherapy.pdf',
+            'htmlSnippet': 'Did you recently test positive for COVID-19? If '
+                           'you are 12 and older, you may be eligible for '
+                           'monoclonal antibody treatment. This can help '
+                           'prevent severe&nbsp;...',
+            'htmlTitle': 'Monoclonal Antibody COVID -19 Treatment',
+            'kind': 'customsearch#result',
+            'link': 'https://dhss.alaska.gov/dph/Epi/id/SiteAssets/Pages/HumanCoV/flyer_InfusionTherapy.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'cse_image': [{'src': 'x-raw-image:///0559971231e5e9940b9604beac5245cee6ce1194073f71581fd70836d86bb93f'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWa5CWmO5fSjUpZ3Fp_KILn2D2xRE_XV2R8DYNK7__Z3tAycyzYFq27D9l',
+                                           'width': '225'}],
+                        'metatags': [{'author': 'Alaska Department of Health '
+                                                'and Social Services',
+                                      'creationdate': "D:20210819102618-08'00'",
+                                      'creator': 'Adobe InDesign 15.1 '
+                                                 '(Windows)',
+                                      'moddate': "D:20210819102922-08'00'",
+                                      'producer': 'Adobe PDF Library 15.0',
+                                      'title': 'Is Monoclonal Antibodies '
+                                               'COVID-19 infusion theraphy '
+                                               'right for you?'}]},
+            'snippet': 'Did you recently test positive for COVID-19? If you '
+                       'are 12 and older, you may be eligible for monoclonal '
+                       'antibody treatment. This can help prevent severe\xa0'
+                       '...',
+            'title': 'Monoclonal Antibody COVID -19 Treatment'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 2,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'dhss.alaska.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '2'}]},
+ 'searchInformation': {'formattedSearchTime': '0.11',
+                       'formattedTotalResults': '2',
+                       'searchTime': 0.108066,
+                       'totalResults': '2'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

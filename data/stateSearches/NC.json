@@ -1,0 +1,43 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'STu71argxTYJ',
+            'displayLink': 'www.nctracks.nc.gov',
+            'formattedUrl': 'https://www.nctracks.nc.gov/.../SPECIAL-BULLETIN-COVID-19--208-209- '
+                            'Now-Available.html',
+            'htmlFormattedUrl': 'https://www.nctracks.nc.gov/.../SPECIAL-BULLETIN-COVID-19--208-209- '
+                                'Now-Available.html',
+            'htmlSnippet': '4 days ago <b>...</b> SPECIAL BULLETIN COVID-19 '
+                           '#209: HCPCS Code Q0220: Billing Guidelines for '
+                           'Tixagevimab and Cilgavimab, Copackaged as '
+                           '<b>Evusheld</b>.',
+            'htmlTitle': 'SPECIAL BULLETIN COVID-19 #208-209 Now Available - '
+                         'SPECIAL ...',
+            'kind': 'customsearch#result',
+            'link': 'https://www.nctracks.nc.gov/content/public/providers/provider-communications/2022-Announcements0/SPECIAL-BULLETIN-COVID-19--208-209-Now-Available.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.nctracks.nc.gov/content/dam/jcr:da9ad58c-3d58-43c3-a97c-46e6a69af443/nctracksLogo_web.png'}],
+                        'cse_thumbnail': [{'height': '85',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa4L-NFyyGD96Ro4da2J6Ccdhkc8-x-0Vo9hbbNm_j-LSmLvz3xTc6Pg',
+                                           'width': '178'}],
+                        'metatags': [{'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': '4 days ago ... SPECIAL BULLETIN COVID-19 #209: HCPCS '
+                       'Code Q0220: Billing Guidelines for Tixagevimab and '
+                       'Cilgavimab, Copackaged as Evusheld.',
+            'title': 'SPECIAL BULLETIN COVID-19 #208-209 Now Available - '
+                     'SPECIAL ...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 1,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'nc.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '1'}]},
+ 'searchInformation': {'formattedSearchTime': '0.12',
+                       'formattedTotalResults': '1',
+                       'searchTime': 0.117188,
+                       'totalResults': '1'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

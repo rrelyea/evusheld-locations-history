@@ -1,0 +1,89 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'femjmd_jqqUJ',
+            'displayLink': 'odh.ohio.gov',
+            'formattedUrl': 'https://odh.ohio.gov/wps/portal/gov/odh/home',
+            'htmlFormattedUrl': 'https://odh.ohio.gov/wps/portal/gov/odh/home',
+            'htmlSnippet': 'ODH&#39;s mission is to protect and improve the '
+                           'health of all Ohioans by preventing disease, '
+                           'promoting good health, and assuring access to '
+                           'quality health care.',
+            'htmlTitle': 'Ohio Department of Health',
+            'kind': 'customsearch#result',
+            'link': 'https://odh.ohio.gov/wps/portal/gov/odh/home',
+            'pagemap': {'cse_image': [{'src': 'https://odh.ohio.gov/wps/wcm/connect/gov/40b9d69d-7c53-4773-b142-7931794479c7/director-odh-240x240.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-40b9d69d-7c53-4773-b142-7931794479c7-nOuk2cQ'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWJtA5nBuO2jwlRKP2tbHIqDEyGP0sCnmRo86ELMQNCE5_CmVsbORRPC5D',
+                                           'width': '225'}],
+                        'metatags': [{'viewport': 'initial-scale=1, '
+                                                  'minimum-scale=1, '
+                                                  'width=device-width, '
+                                                  'target-densitydpi=device-dpi'}]},
+            'snippet': "ODH's mission is to protect and improve the health of "
+                       'all Ohioans by preventing disease, promoting good '
+                       'health, and assuring access to quality health care.',
+            'title': 'Ohio Department of Health'},
+           {'cacheId': 'YDA4e5VgBrQJ',
+            'displayLink': 'www.pharmacy.ohio.gov',
+            'formattedUrl': 'https://www.pharmacy.ohio.gov/',
+            'htmlFormattedUrl': 'https://www.pharmacy.ohio.gov/',
+            'htmlSnippet': 'Board Meeting Update. The January Board Meeting is '
+                           'scheduled to take place on the 17th floor of the '
+                           'Vern Riffe Center January 10-12, 2022.',
+            'htmlTitle': 'State of Ohio Board of Pharmacy',
+            'kind': 'customsearch#result',
+            'link': 'https://www.pharmacy.ohio.gov/',
+            'pagemap': {'cse_image': [{'src': 'https://www.pharmacy.ohio.gov/images/logo_new.png'}],
+                        'cse_thumbnail': [{'height': '192',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJxcmVaoXu1_maPFzTMgk7-DkAn7ZlpknoQW60y_o6OuPlSIQgKbpjxq0',
+                                           'width': '192'}],
+                        'metatags': [{'author': 'State of Ohio Board of '
+                                                'Pharmacy',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Board Meeting Update. The January Board Meeting is '
+                       'scheduled to take place on the 17th floor of the Vern '
+                       'Riffe Center January 10-12, 2022.',
+            'title': 'State of Ohio Board of Pharmacy'},
+           {'cacheId': 'EiIq_8rSC7IJ',
+            'displayLink': 'dodd.ohio.gov',
+            'formattedUrl': 'https://dodd.ohio.gov/wps/portal/gov/dodd/about.../monoclonal-antibodies',
+            'htmlFormattedUrl': 'https://dodd.ohio.gov/wps/portal/gov/dodd/about.../monoclonal-antibodies',
+            'htmlSnippet': 'Jan 22, 2021 <b>...</b> Additional Dose COVID-19 '
+                           'Vaccine for those who are Immunocompromised. '
+                           'According to the US Food and Drug Administration '
+                           '(FDA) and the CDC,&nbsp;...',
+            'htmlTitle': 'Monoclonal Antibodies | Department of Developmental '
+                         'Disabilities',
+            'kind': 'customsearch#result',
+            'link': 'https://dodd.ohio.gov/wps/portal/gov/dodd/about-us/resources/monoclonal-antibodies',
+            'pagemap': {'cse_image': [{'src': 'https://dodd.ohio.gov/wps/wcm/connect/gov/9cde7db1-841e-4388-88e7-15b2b1927e1e/DODD-2019low.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-9cde7db1-841e-4388-88e7-15b2b1927e1e-mJO1fhu'}],
+                        'cse_thumbnail': [{'height': '174',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTksoK26HKeP73TxzYozv_VP4i0Lt5Lsg2qAvjrRFLOnZtl2irakd2Krc-n',
+                                           'width': '290'}],
+                        'metatags': [{'og:image': 'https://dodd.ohio.gov/wps/wcm/connect/gov/9cde7db1-841e-4388-88e7-15b2b1927e1e/DODD-2019low.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-9cde7db1-841e-4388-88e7-15b2b1927e1e-mJO1fhu',
+                                      'viewport': 'initial-scale=1, '
+                                                  'minimum-scale=1, '
+                                                  'width=device-width, '
+                                                  'target-densitydpi=device-dpi'}]},
+            'snippet': 'Jan 22, 2021 ... Additional Dose COVID-19 Vaccine for '
+                       'those who are Immunocompromised. According to the US '
+                       'Food and Drug Administration (FDA) and the CDC,\xa0...',
+            'title': 'Monoclonal Antibodies | Department of Developmental '
+                     'Disabilities'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 3,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'ohio.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '3'}]},
+ 'searchInformation': {'formattedSearchTime': '0.13',
+                       'formattedTotalResults': '3',
+                       'searchTime': 0.133345,
+                       'totalResults': '3'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

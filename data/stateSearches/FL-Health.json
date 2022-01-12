@@ -1,0 +1,341 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': '2fQql5UgKtgJ',
+            'displayLink': 'marion.floridahealth.gov',
+            'formattedUrl': 'https://marion.floridahealth.gov/newsroom/2021/12/12-17.html',
+            'htmlFormattedUrl': 'https://marion.floridahealth.gov/newsroom/2021/12/12-17.html',
+            'htmlSnippet': 'Dec 17, 2021 <b>...</b> A list of locations that '
+                           'will provide <b>Evusheld</b> can be found at '
+                           'FloridaHealthCOVID19.gov. The Department of Health '
+                           'will update the public as more&nbsp;...',
+            'htmlTitle': 'Marion County&#39;s COVID-19 positivity rate rises '
+                         'slightly | Florida ...',
+            'kind': 'customsearch#result',
+            'link': 'https://marion.floridahealth.gov/newsroom/2021/12/12-17.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/marion-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH0BQsh5Pucpv_TcfnZ_E70oJBDS97UIfLNH6QLPA9ZyuHeLkKgnWZyqUu',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/marion-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': 'ca8d87cd0a054d7b2007890423d65886',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Marion'}]},
+            'snippet': 'Dec 17, 2021 ... A list of locations that will provide '
+                       'Evusheld can be found at FloridaHealthCOVID19.gov. The '
+                       'Department of Health will update the public as more\xa0'
+                       '...',
+            'title': "Marion County's COVID-19 positivity rate rises slightly "
+                     '| Florida ...'},
+           {'cacheId': 'ZsTF0avUgWoJ',
+            'displayLink': 'www.floridahealth.gov',
+            'formattedUrl': 'www.floridahealth.gov/',
+            'htmlFormattedUrl': 'www.floridahealth.gov/',
+            'htmlSnippet': 'The Food &amp; Drug Administration has approved '
+                           'the Pfizer COVID-19 vaccine for individuals 5 '
+                           'years of age or older. To obtain the vaccine in '
+                           'Florida, individuals 5&nbsp;...',
+            'htmlTitle': 'Florida Department of Health',
+            'kind': 'customsearch#result',
+            'link': 'http://www.floridahealth.gov/',
+            'pagemap': {'cse_image': [{'src': 'http://www.floridahealth.gov/_documents/newsroom/press-releases/2021/01/012721-vaccine-locator.png'}],
+                        'cse_thumbnail': [{'height': '168',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oJ3EvB9OS_QjhJg5e10h6nkynVyJTZWxWZHum-fuE_VL2o3aXloeoGk',
+                                           'width': '299'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': '_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': '_new/_files/images/hi-res-images/fl-health-hi-res.jpg',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '5c89dc91a74e013346938420bb7b265e',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'The Food & Drug Administration has approved the Pfizer '
+                       'COVID-19 vaccine for individuals 5 years of age or '
+                       'older. To obtain the vaccine in Florida, individuals '
+                       '5\xa0...',
+            'title': 'Florida Department of Health'},
+           {'cacheId': 'xHd9hxftJdsJ',
+            'displayLink': 'okeechobee.floridahealth.gov',
+            'formattedUrl': 'okeechobee.floridahealth.gov/newsroom/featured-topic.html',
+            'htmlFormattedUrl': 'okeechobee.floridahealth.gov/newsroom/featured-topic.html',
+            'htmlSnippet': '... at numerous health care provider locations in '
+                           'Florida, upon allocation from the federal '
+                           'government. A one pager about <b>Evusheld</b> can '
+                           'be found here.',
+            'htmlTitle': 'Featured Topic | Florida Department of Health in '
+                         'Okeechobee',
+            'kind': 'customsearch#result',
+            'link': 'http://okeechobee.floridahealth.gov/newsroom/featured-topic.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/okeechobee-chd.png'}],
+                        'cse_thumbnail': [{'height': '200',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3EdZw7EPXYN_j8cuvjzPtbFQ1_C4xjiGPH5jOMw1ef9p1tdhTPcMNW4Ug',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/okeechobee-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '1d20d401a74e01331199bca3da93d5bb',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Okeechobee'}]},
+            'snippet': '... at numerous health care provider locations in '
+                       'Florida, upon allocation from the federal government. '
+                       'A one pager about Evusheld can be found here.',
+            'title': 'Featured Topic | Florida Department of Health in '
+                     'Okeechobee'},
+           {'cacheId': 'N12wZXqyn1kJ',
+            'displayLink': 'palmbeach.floridahealth.gov',
+            'formattedUrl': 'palmbeach.floridahealth.gov/programs-and-services/.../covid-19.html',
+            'htmlFormattedUrl': 'palmbeach.floridahealth.gov/programs-and-services/.../covid-19.html',
+            'htmlSnippet': '6 days ago <b>...</b> At this time the following '
+                           'groups can receive a COVID-19 vaccination by any '
+                           'available options in Palm Beach County:.',
+            'htmlTitle': 'COVID-19 Vaccine For Palm Beach County | Florida '
+                         'Department of ...',
+            'kind': 'customsearch#result',
+            'link': 'http://palmbeach.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/immunizations/covid-19.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/palmbeach-chd.png'}],
+                        'cse_thumbnail': [{'height': '200',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS02hwGD7dZhajDVjt00z42KEcAEybfAg3524Lywv2WkdU-_0mWYMw7fj8',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/palmbeach-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '0d19c0de0a054d7b08485ef447973394',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'PalmBeach'}]},
+            'snippet': '6 days ago ... At this time the following groups can '
+                       'receive a COVID-19 vaccination by any available '
+                       'options in Palm Beach County:.',
+            'title': 'COVID-19 Vaccine For Palm Beach County | Florida '
+                     'Department of ...'},
+           {'cacheId': 'JeT-9XvtZA4J',
+            'displayLink': 'brevard.floridahealth.gov',
+            'formattedUrl': 'brevard.floridahealth.gov/',
+            'htmlFormattedUrl': 'brevard.floridahealth.gov/',
+            'htmlSnippet': 'DOH-Brevard has teams to vaccinate homebound '
+                           'seniors in Brevard County. Seniors and/or their '
+                           'caregivers can sign up to receive a COVID-19 '
+                           'vaccine in their home&nbsp;...',
+            'htmlTitle': 'Florida Department of Health in Brevard',
+            'kind': 'customsearch#result',
+            'link': 'http://brevard.floridahealth.gov/',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/brevard-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgsgM1ZDD8ukmO_Z8jqfM5u3cQNgfZ8o0zqcwrROBtpE3qh7k0UkocFFIX',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/brevard-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '8aae84e3a74e0133681e731c0cd1027f',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Brevard'}]},
+            'snippet': 'DOH-Brevard has teams to vaccinate homebound seniors '
+                       'in Brevard County. Seniors and/or their caregivers can '
+                       'sign up to receive a COVID-19 vaccine in their home\xa0'
+                       '...',
+            'title': 'Florida Department of Health in Brevard'},
+           {'cacheId': 'Dvn-CS5vJsoJ',
+            'displayLink': 'alachua.floridahealth.gov',
+            'formattedUrl': 'alachua.floridahealth.gov/.../2021/.../11-8-Alachua-Monoclonal-Update.html',
+            'htmlFormattedUrl': 'alachua.floridahealth.gov/.../2021/.../11-8-Alachua-Monoclonal-Update.html',
+            'htmlSnippet': 'Nov 9, 2021 <b>...</b> The Florida Department of '
+                           'Health will continue to allocate doses of '
+                           'monoclonal antibodies to health care providers '
+                           'with high utilization rates&nbsp;...',
+            'htmlTitle': 'Alachua County Monoclonal Antibody Therapy Treatment '
+                         'Site Update',
+            'kind': 'customsearch#result',
+            'link': 'http://alachua.floridahealth.gov/newsroom/2021/11/11-8-Alachua-Monoclonal-Update.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/alachua-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPICD0PTUg0kjaPgH-lFf5K9eAvbpofapfoQblR2ziNV0XddjVyAbMHHbZ',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/alachua-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '054dd6260a054d7b46562161685dbad2',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Alachua'}]},
+            'snippet': 'Nov 9, 2021 ... The Florida Department of Health will '
+                       'continue to allocate doses of monoclonal antibodies to '
+                       'health care providers with high utilization rates\xa0'
+                       '...',
+            'title': 'Alachua County Monoclonal Antibody Therapy Treatment '
+                     'Site Update'},
+           {'cacheId': 'wn1tYniXpyIJ',
+            'displayLink': 'charlotte.floridahealth.gov',
+            'formattedUrl': 'https://charlotte.floridahealth.gov/events/2021/01/InfusionSites.html',
+            'htmlFormattedUrl': 'https://charlotte.floridahealth.gov/events/2021/01/InfusionSites.html',
+            'htmlSnippet': 'Jan 3, 2022 <b>...</b> Monoclonal antibody '
+                           'treatments can prevent hospitalization or death in '
+                           'patients with COVID-19 and are widely available in '
+                           'Florida. Learn More&nbsp;...',
+            'htmlTitle': 'Monoclonal Antibody Therapy | Florida Department of '
+                         'Health in ...',
+            'kind': 'customsearch#result',
+            'link': 'https://charlotte.floridahealth.gov/events/2021/01/InfusionSites.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/charlotte-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjtlWezdF0GnbVKk_VGT8WjGnXTq0W4mJMRU63UCeL7dKd7GV4G1Wkw4TI',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/charlotte-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '5476c4580a054d7b329dfe07e2ef0949',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Charlotte'}]},
+            'snippet': 'Jan 3, 2022 ... Monoclonal antibody treatments can '
+                       'prevent hospitalization or death in patients with '
+                       'COVID-19 and are widely available in Florida. Learn '
+                       'More\xa0...',
+            'title': 'Monoclonal Antibody Therapy | Florida Department of '
+                     'Health in ...'},
+           {'cacheId': 'aqLyURfl96IJ',
+            'displayLink': 'pinellas.floridahealth.gov',
+            'formattedUrl': 'https://pinellas.floridahealth.gov/.../monoclonal-antibody-site-in-pinellas.html',
+            'htmlFormattedUrl': 'https://pinellas.floridahealth.gov/.../monoclonal-antibody-site-in-pinellas.html',
+            'htmlSnippet': 'Aug 25, 2021 <b>...</b> Monoclonal antibodies help '
+                           'the immune system recognize and respond more '
+                           'effectively to the COVID-19 virus. Monoclonal '
+                           'antibodies are a treatment&nbsp;...',
+            'htmlTitle': 'Monoclonal Antibody Site in Pinellas | Florida '
+                         'Department of Health ...',
+            'kind': 'customsearch#result',
+            'link': 'https://pinellas.floridahealth.gov/newsroom/2021/08/monoclonal-antibody-site-in-pinellas.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/pinellas-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5LV3LYzHYd4-OkyoaEJGFA6etMz6r3Y_ZdITHg95RxSh4hPS223hnTmY',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/pinellas-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '79efd9660a054d7b329dfe07b4e77382',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Pinellas'}]},
+            'snippet': 'Aug 25, 2021 ... Monoclonal antibodies help the immune '
+                       'system recognize and respond more effectively to the '
+                       'COVID-19 virus. Monoclonal antibodies are a '
+                       'treatment\xa0...',
+            'title': 'Monoclonal Antibody Site in Pinellas | Florida '
+                     'Department of Health ...'},
+           {'cacheId': '2zlEZ0twnTUJ',
+            'displayLink': 'escambia.floridahealth.gov',
+            'formattedUrl': 'https://escambia.floridahealth.gov/.../2021-11-29-escambia-county-mab-site- '
+                            'demob.html',
+            'htmlFormattedUrl': 'https://escambia.floridahealth.gov/.../2021-11-29-escambia-county-mab-site- '
+                                'demob.html',
+            'htmlSnippet': 'Nov 29, 2021 <b>...</b> The Florida Department of '
+                           'Health will continue to allocate doses of '
+                           'monoclonal antibodies to health care providers '
+                           'with high utilization rates&nbsp;...',
+            'htmlTitle': 'escambia county monoclonal antibody therapy '
+                         'treatment site update',
+            'kind': 'customsearch#result',
+            'link': 'https://escambia.floridahealth.gov/newsroom/2021/11/2021-11-29-escambia-county-mab-site-demob.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/escambia-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdVwdrs6ChFr1OeYGDusvO3Aa1AIoyzOBGjtsIh3p8bOaIhOB9lRpYnNvr',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/escambia-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': '6da7c4680a054d7b01e72d8d32e71f55',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Escambia'}]},
+            'snippet': 'Nov 29, 2021 ... The Florida Department of Health will '
+                       'continue to allocate doses of monoclonal antibodies to '
+                       'health care providers with high utilization rates\xa0'
+                       '...',
+            'title': 'escambia county monoclonal antibody therapy treatment '
+                     'site update'},
+           {'cacheId': 'lhltV6Pc9mgJ',
+            'displayLink': 'manatee.floridahealth.gov',
+            'formattedUrl': 'manatee.floridahealth.gov/newsroom/.../MONOCLONALANTIBODY.html',
+            'htmlFormattedUrl': 'manatee.floridahealth.gov/newsroom/.../MONOCLONALANTIBODY.html',
+            'htmlSnippet': 'Dec 22, 2021 <b>...</b> Bradenton, Fla. — The '
+                           'State of Florida successfully deployed and '
+                           'expanded state-run, lifesaving monoclonal antibody '
+                           'therapy treatment sites&nbsp;...',
+            'htmlTitle': 'manatee county monoclonal antibody therapy treatment '
+                         'site update',
+            'kind': 'customsearch#result',
+            'link': 'http://manatee.floridahealth.gov/newsroom/2021/12/MONOCLONALANTIBODY.html',
+            'pagemap': {'cse_image': [{'src': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/manatee-chd.png'}],
+                        'cse_thumbnail': [{'height': '201',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdelZPmksmcHbbu6xULUtIP4su2KYbjKwqmtufUhkKKdfX9o1jC7lB-f-n',
+                                           'width': '151'}],
+                        'metatags': [{'msapplication-tilecolor': '#f78f1e',
+                                      'msapplication-tileimage': 'https://www.floridahealth.gov/_new/_files/images/favicons/mstile-144x144.png',
+                                      'og:image': 'https://www.floridahealth.gov/_new/_files/images/chd_logos/manatee-chd.png',
+                                      'og:image:height': '400',
+                                      'og:image:width': '400',
+                                      'si-pageid': 'e27515870a054d7b20078904943dae6b',
+                                      'twitter:dnt': 'on',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1',
+                                      'zoomsite': 'Manatee'}]},
+            'snippet': 'Dec 22, 2021 ... Bradenton, Fla. — The State of '
+                       'Florida successfully deployed and expanded state-run, '
+                       'lifesaving monoclonal antibody therapy treatment '
+                       'sites\xa0...',
+            'title': 'manatee county monoclonal antibody therapy treatment '
+                     'site update'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'nextPage': [{'count': 10,
+                           'cx': '37cfbc896668324c4',
+                           'inputEncoding': 'utf8',
+                           'outputEncoding': 'utf8',
+                           'safe': 'off',
+                           'searchTerms': 'evusheld',
+                           'siteSearch': 'floridahealth.gov',
+                           'startIndex': 11,
+                           'title': 'Google Custom Search - evusheld',
+                           'totalResults': '23'}],
+             'request': [{'count': 10,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'floridahealth.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '23'}]},
+ 'searchInformation': {'formattedSearchTime': '0.17',
+                       'formattedTotalResults': '23',
+                       'searchTime': 0.169007,
+                       'totalResults': '23'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

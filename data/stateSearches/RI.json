@@ -1,0 +1,144 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'gPI7XzY7SFcJ',
+            'displayLink': 'covid.ri.gov',
+            'formattedUrl': 'https://covid.ri.gov/vaccination/covid-19-vaccine-faqs',
+            'htmlFormattedUrl': 'https://covid.ri.gov/vaccination/covid-19-vaccine-faqs',
+            'htmlSnippet': 'Can I receive <b>Evusheld</b> if I recently '
+                           'received a COVID-19 vaccine?',
+            'htmlTitle': 'COVID-19 Vaccine FAQs | RI COVID-19 Information '
+                         'Portal',
+            'kind': 'customsearch#result',
+            'link': 'https://covid.ri.gov/vaccination/covid-19-vaccine-faqs',
+            'pagemap': {'cse_image': [{'src': 'https://covid.ri.gov/sites/g/files/xkgbur176/files/doh_white_logo.svg'}],
+                        'cse_thumbnail': [{'height': '224',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8UiI_anb8cBdHp-4sO3Afb6xGDqZsKpH82ToeDlf0ahW6HiIQ9uaDijAh',
+                                           'width': '224'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Can I receive Evusheld if I recently received a '
+                       'COVID-19 vaccine?',
+            'title': 'COVID-19 Vaccine FAQs | RI COVID-19 Information Portal'},
+           {'cacheId': 'BLq5iSE_-ysJ',
+            'displayLink': 'health.ri.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://health.ri.gov/publications/guidance/MABS-Provider-Guidance.pdf',
+            'htmlFormattedUrl': 'https://health.ri.gov/publications/guidance/MABS-Provider-Guidance.pdf',
+            'htmlSnippet': 'Dec 23, 2021 <b>...</b> Omicron variant as does '
+                           '<b>Evusheld</b> (AstraZeneca, approved only for '
+                           'pre-exposure prophylaxis). Data are still.',
+            'htmlTitle': 'Guidance for Providers About Monoclonal Antibody '
+                         'Administration ...',
+            'kind': 'customsearch#result',
+            'link': 'https://health.ri.gov/publications/guidance/MABS-Provider-Guidance.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'cse_image': [{'src': 'x-raw-image:///cb64a6781b90e83b2fef0fc482ba367ad6bb793dc95dcd658c2da0c5b2ef0c57'}],
+                        'cse_thumbnail': [{'height': '255',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1RBv4NPuBqb3f2ZjyximYy2BH79ZzHHspaoH22JdM7aQtQhPlMMfStAVn',
+                                           'width': '197'}],
+                        'metatags': [{'author': 'Diane Borhani',
+                                      'created': 'D:20211216',
+                                      'creationdate': "D:20211223151637-05'00'",
+                                      'creator': 'Acrobat PDFMaker 21 for Word',
+                                      'lastsaved': 'D:20211219',
+                                      'moddate': "D:20211223152951-05'00'",
+                                      'producer': 'Adobe PDF Library 21.7.131',
+                                      'title': 'Guidance for Providers About '
+                                               'Monoclonal Antibody '
+                                               'Administration and the Omicron '
+                                               'Variant'}]},
+            'snippet': 'Dec 23, 2021 ... Omicron variant as does Evusheld '
+                       '(AstraZeneca, approved only for pre-exposure '
+                       'prophylaxis). Data are still.',
+            'title': 'Guidance for Providers About Monoclonal Antibody '
+                     'Administration ...'},
+           {'cacheId': '7iY9PEYPAPYJ',
+            'displayLink': 'covid.ri.gov',
+            'formattedUrl': 'https://covid.ri.gov/mabs-infusion-services',
+            'htmlFormattedUrl': 'https://covid.ri.gov/mabs-infusion-services',
+            'htmlSnippet': 'The listings below reflect the latest updates '
+                           'provided by infusion centers and services, so may '
+                           'not be current. If you&#39;ve tested positive for '
+                           'COVID-19,&nbsp;...',
+            'htmlTitle': 'MABS (Monoclonal Antibodies) Infusion Centers &amp; '
+                         'Services | RI ...',
+            'kind': 'customsearch#result',
+            'link': 'https://covid.ri.gov/mabs-infusion-services',
+            'pagemap': {'cse_image': [{'src': 'https://covid.ri.gov/sites/g/files/xkgbur176/files/doh_white_logo.svg'}],
+                        'cse_thumbnail': [{'height': '224',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8UiI_anb8cBdHp-4sO3Afb6xGDqZsKpH82ToeDlf0ahW6HiIQ9uaDijAh',
+                                           'width': '224'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'The listings below reflect the latest updates provided '
+                       'by infusion centers and services, so may not be '
+                       "current. If you've tested positive for COVID-19,\xa0"
+                       '...',
+            'title': 'MABS (Monoclonal Antibodies) Infusion Centers & Services '
+                     '| RI ...'},
+           {'cacheId': 'aGHl2Pi1WjMJ',
+            'displayLink': 'covid.ri.gov',
+            'formattedUrl': 'https://covid.ri.gov/healthcare.../information-healthcare-providers',
+            'htmlFormattedUrl': 'https://covid.ri.gov/healthcare.../information-healthcare-providers',
+            'htmlSnippet': 'Tixagevimab and cilgavimab (<b>EVUSHELD</b>) – '
+                           '(age 12 and older) EUA | EUA Provider Fact Sheet | '
+                           'EUA Patient Fact Sheet. To refer a patient for '
+                           'pre-exposure&nbsp;...',
+            'htmlTitle': 'Healthcare Providers | RI COVID-19 Information '
+                         'Portal',
+            'kind': 'customsearch#result',
+            'link': 'https://covid.ri.gov/healthcare-professionals/information-healthcare-providers',
+            'pagemap': {'cse_image': [{'src': 'https://covid.ri.gov/sites/g/files/xkgbur176/files/doh_white_logo.svg'}],
+                        'cse_thumbnail': [{'height': '224',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8UiI_anb8cBdHp-4sO3Afb6xGDqZsKpH82ToeDlf0ahW6HiIQ9uaDijAh',
+                                           'width': '224'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Tixagevimab and cilgavimab (EVUSHELD) – (age 12 and '
+                       'older) EUA | EUA Provider Fact Sheet | EUA Patient '
+                       'Fact Sheet. To refer a patient for pre-exposure\xa0...',
+            'title': 'Healthcare Providers | RI COVID-19 Information Portal'},
+           {'cacheId': 'ok6-kcGFpr8J',
+            'displayLink': 'covid.ri.gov',
+            'formattedUrl': 'https://covid.ri.gov/vaccination/covid-19-vaccine-faqs?language=es',
+            'htmlFormattedUrl': 'https://covid.ri.gov/vaccination/covid-19-vaccine-faqs?language=es',
+            'htmlSnippet': 'Can I receive <b>Evusheld</b> if I recently '
+                           'received a COVID-19 vaccine?',
+            'htmlTitle': 'Preguntas Frecuentes sobre la Vacuna COVID-19 | RI '
+                         'COVID-19 ...',
+            'kind': 'customsearch#result',
+            'link': 'https://covid.ri.gov/vaccination/covid-19-vaccine-faqs?language=es',
+            'pagemap': {'cse_image': [{'src': 'https://covid.ri.gov/sites/g/files/xkgbur176/files/doh_white_logo.svg'}],
+                        'cse_thumbnail': [{'height': '224',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8UiI_anb8cBdHp-4sO3Afb6xGDqZsKpH82ToeDlf0ahW6HiIQ9uaDijAh',
+                                           'width': '224'}],
+                        'metatags': [{'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1.0'}]},
+            'snippet': 'Can I receive Evusheld if I recently received a '
+                       'COVID-19 vaccine?',
+            'title': 'Preguntas Frecuentes sobre la Vacuna COVID-19 | RI '
+                     'COVID-19 ...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 5,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'ri.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '5'}]},
+ 'searchInformation': {'formattedSearchTime': '0.12',
+                       'formattedTotalResults': '5',
+                       'searchTime': 0.118396,
+                       'totalResults': '5'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

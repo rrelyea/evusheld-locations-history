@@ -1,0 +1,177 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'BNyebMIF3RcJ',
+            'displayLink': 'www.health.pa.gov',
+            'formattedUrl': 'https://www.health.pa.gov/topics/.../Prevention-Treatment-Provider.aspx',
+            'htmlFormattedUrl': 'https://www.health.pa.gov/topics/.../Prevention-Treatment-Provider.aspx',
+            'htmlSnippet': '<b>Evusheld</b> is administered as two '
+                           'intramuscular injections given in immediate '
+                           'succession. Post-Exposure Prevention. What Is '
+                           'Post-Exposure Prophylaxis (PEP, or&nbsp;...',
+            'htmlTitle': 'Prevention-Treatment-Provider',
+            'kind': 'customsearch#result',
+            'link': 'https://www.health.pa.gov/topics/disease/coronavirus/Pages/Prevention-Treatment-Provider.aspx',
+            'pagemap': {'cse_image': [{'src': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png'}],
+                        'cse_thumbnail': [{'height': '77',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQG7hIEcBu2TQUNtFn3JrpgLTFpwbI3IB9N_PYIFEMpheexuGP34_E',
+                                           'width': '79'}],
+                        'metatags': [{'format-detection': 'telephone=yes',
+                                      'handheldfriendly': 'True',
+                                      'mobileoptimized': '320',
+                                      'msapplication-tilecolor': '#ffffff',
+                                      'msapplication-tileimage': '/_layouts/15/images/SharePointMetroAppTile.png',
+                                      'og:image': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png',
+                                      'og:site_name': 'Department of Health',
+                                      'og:title': 'Prevention-Treatment-Provider',
+                                      'og:type': 'article',
+                                      'viewport': 'width=device-width, '
+                                                  'minimum-scale=1.0'}]},
+            'snippet': 'Evusheld is administered as two intramuscular '
+                       'injections given in immediate succession. '
+                       'Post-Exposure Prevention. What Is Post-Exposure '
+                       'Prophylaxis (PEP, or\xa0...',
+            'title': 'Prevention-Treatment-Provider'},
+           {'cacheId': '58XG9sHw7oEJ',
+            'displayLink': 'www.health.pa.gov',
+            'formattedUrl': 'https://www.health.pa.gov/topics/disease/.../Prevention-Treatment.aspx',
+            'htmlFormattedUrl': 'https://www.health.pa.gov/topics/disease/.../Prevention-Treatment.aspx',
+            'htmlSnippet': 'are recommended to not receive vaccination against '
+                           'COVID-19. What Are the Side Effects of PrEP? '
+                           'Possible side effects of <b>Evusheld</b> include: '
+                           'allergic reactions (&nbsp;...',
+            'htmlTitle': 'Prevention-Treatment',
+            'kind': 'customsearch#result',
+            'link': 'https://www.health.pa.gov/topics/disease/coronavirus/Pages/Prevention-Treatment.aspx',
+            'pagemap': {'cse_image': [{'src': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png'}],
+                        'cse_thumbnail': [{'height': '77',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQG7hIEcBu2TQUNtFn3JrpgLTFpwbI3IB9N_PYIFEMpheexuGP34_E',
+                                           'width': '79'}],
+                        'metatags': [{'format-detection': 'telephone=yes',
+                                      'handheldfriendly': 'True',
+                                      'mobileoptimized': '320',
+                                      'msapplication-tilecolor': '#ffffff',
+                                      'msapplication-tileimage': '/_layouts/15/images/SharePointMetroAppTile.png',
+                                      'og:image': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png',
+                                      'og:site_name': 'Department of Health',
+                                      'og:title': 'Prevention-Treatment',
+                                      'og:type': 'article',
+                                      'viewport': 'width=device-width, '
+                                                  'minimum-scale=1.0'}]},
+            'snippet': 'are recommended to not receive vaccination against '
+                       'COVID-19. What Are the Side Effects of PrEP? Possible '
+                       'side effects of Evusheld include: allergic reactions '
+                       '(\xa0...',
+            'title': 'Prevention-Treatment'},
+           {'cacheId': 'HwaO-eD_TXcJ',
+            'displayLink': 'www.health.pa.gov',
+            'formattedUrl': 'https://www.health.pa.gov/Pages/default.aspx',
+            'htmlFormattedUrl': 'https://www.health.pa.gov/Pages/default.aspx',
+            'htmlSnippet': 'Pennsylvania Department of Health provides '
+                           'programs, services and health related information '
+                           'for adults, business owners, caregivers, health '
+                           'care&nbsp;...',
+            'htmlTitle': 'Department of Health Home',
+            'kind': 'customsearch#result',
+            'link': 'https://www.health.pa.gov/Pages/default.aspx',
+            'pagemap': {'cse_image': [{'src': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png'}],
+                        'cse_thumbnail': [{'height': '77',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQG7hIEcBu2TQUNtFn3JrpgLTFpwbI3IB9N_PYIFEMpheexuGP34_E',
+                                           'width': '79'}],
+                        'metatags': [{'format-detection': 'telephone=yes',
+                                      'handheldfriendly': 'True',
+                                      'mobileoptimized': '320',
+                                      'msapplication-tilecolor': '#ffffff',
+                                      'msapplication-tileimage': '/_layouts/15/images/SharePointMetroAppTile.png',
+                                      'og:image': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png',
+                                      'og:site_name': 'Department of Health',
+                                      'og:title': 'Pennsylvania Department of '
+                                                  'Health programs, services '
+                                                  'and health information',
+                                      'og:type': 'article',
+                                      'viewport': 'width=device-width, '
+                                                  'minimum-scale=1.0'}]},
+            'snippet': 'Pennsylvania Department of Health provides programs, '
+                       'services and health related information for adults, '
+                       'business owners, caregivers, health care\xa0...',
+            'title': 'Department of Health Home'},
+           {'cacheId': 'wLXL-40x2hsJ',
+            'displayLink': 'www.health.pa.gov',
+            'formattedUrl': 'https://www.health.pa.gov/topics/.../Ethical-Allocation-Framework.aspx',
+            'htmlFormattedUrl': 'https://www.health.pa.gov/topics/.../Ethical-Allocation-Framework.aspx',
+            'htmlSnippet': 'Distribution of RDV to acute care healthcare '
+                           'facilities has been proportional to the total '
+                           'number of COVID-19 positive patients admitted to '
+                           'the facility. These&nbsp;...',
+            'htmlTitle': 'Ethical Allocation Framework',
+            'kind': 'customsearch#result',
+            'link': 'https://www.health.pa.gov/topics/disease/coronavirus/Pages/Guidance/Ethical-Allocation-Framework.aspx',
+            'pagemap': {'Organization': [{'name': 'Health',
+                                          'sameAs': 'https://www.facebook.com/pennsylvaniadepartmentofhealth',
+                                          'url': 'https://www.health.pa.gov/'}],
+                        'cse_image': [{'src': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png'}],
+                        'cse_thumbnail': [{'height': '77',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQG7hIEcBu2TQUNtFn3JrpgLTFpwbI3IB9N_PYIFEMpheexuGP34_E',
+                                           'width': '79'}],
+                        'metatags': [{'format-detection': 'telephone=yes',
+                                      'handheldfriendly': 'True',
+                                      'mobileoptimized': '320',
+                                      'msapplication-tilecolor': '#ffffff',
+                                      'msapplication-tileimage': '/_layouts/15/images/SharePointMetroAppTile.png',
+                                      'og:image': 'https://www.health.pa.gov/PublishingImages/DOH_Keystone.png',
+                                      'og:site_name': 'Department of Health',
+                                      'og:title': 'Ethical Allocation '
+                                                  'Framework',
+                                      'og:type': 'article',
+                                      'viewport': 'width=device-width, '
+                                                  'minimum-scale=1.0'}]},
+            'snippet': 'Distribution of RDV to acute care healthcare '
+                       'facilities has been proportional to the total number '
+                       'of COVID-19 positive patients admitted to the '
+                       'facility. These\xa0...',
+            'title': 'Ethical Allocation Framework'},
+           {'cacheId': 'PETM9aebkmEJ',
+            'displayLink': 'www.health.pa.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://www.health.pa.gov/.../2021-575-6-3-ADV-COVID%20Treatment.pdf',
+            'htmlFormattedUrl': 'https://www.health.pa.gov/.../2021-575-6-3-ADV-COVID%20Treatment.pdf',
+            'htmlSnippet': 'DATE: 6/3/2021. TO: Health Alert Network. FROM: '
+                           'Alison V. Beam, JD, Acting Secretary of Health. '
+                           'SUBJECT: COVID-19 Treatment Options. DISTRIBUTION: '
+                           'Statewide.',
+            'htmlTitle': 'PENNSYLVANIA DEPARTMENT OF HEALTH 2021 – PAHAN – 575 '
+                         '...',
+            'kind': 'customsearch#result',
+            'link': 'https://www.health.pa.gov/topics/Documents/HAN/2021-575-6-3-ADV-COVID%20Treatment.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'cse_image': [{'src': 'x-raw-image:///811c2084bb09996a2ff84b1f2404b7c18b7459c1aa0d2bee6cfc46aa6788f6eb'}],
+                        'cse_thumbnail': [{'height': '255',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPoa2KakMuSLuOx1r_mWQVjqBXMNkpoHShV5EXYmRvhigHQ6FojxGbEK4q',
+                                           'width': '197'}],
+                        'metatags': [{'author': 'Lurie, Perrianne',
+                                      'creationdate': "D:20210603104727-04'00'",
+                                      'creator': 'Microsoft® Word for '
+                                                 'Microsoft 365',
+                                      'moddate': "D:20210603104727-04'00'",
+                                      'producer': 'Microsoft® Word for '
+                                                  'Microsoft 365'}]},
+            'snippet': 'DATE: 6/3/2021. TO: Health Alert Network. FROM: Alison '
+                       'V. Beam, JD, Acting Secretary of Health. SUBJECT: '
+                       'COVID-19 Treatment Options. DISTRIBUTION: Statewide.',
+            'title': 'PENNSYLVANIA DEPARTMENT OF HEALTH 2021 – PAHAN – 575 '
+                     '...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 5,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'health.pa.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '5'}]},
+ 'searchInformation': {'formattedSearchTime': '0.14',
+                       'formattedTotalResults': '5',
+                       'searchTime': 0.139315,
+                       'totalResults': '5'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

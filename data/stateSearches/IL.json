@@ -1,0 +1,296 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'bAibhQi1OL8J',
+            'displayLink': 'www2.illinois.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://www2.illinois.gov/.../COVID-19_MonoclonalAntibodies_Treatment. '
+                            'pdf',
+            'htmlFormattedUrl': 'https://www2.illinois.gov/.../COVID-19_MonoclonalAntibodies_Treatment. '
+                                'pdf',
+            'htmlSnippet': 'In November, the U.S. Food and Drug Administration '
+                           'issued an Emergency Use Authorization to allow the '
+                           'use of monoclonal antibodies for the treatment of '
+                           'mild&nbsp;...',
+            'htmlTitle': 'Monoclonal Antibodies Treatment',
+            'kind': 'customsearch#result',
+            'link': 'https://www2.illinois.gov/aging/coronavirus/Documents/COVID-19_MonoclonalAntibodies_Treatment.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'metatags': [{'creationdate': "D:20210824081402-05'00'",
+                                      'creator': 'Adobe InDesign 16.3 '
+                                                 '(Macintosh)',
+                                      'moddate': "D:20211213120530-06'00'",
+                                      'producer': 'Adobe PDF Library 15.0'}]},
+            'snippet': 'In November, the U.S. Food and Drug Administration '
+                       'issued an Emergency Use Authorization to allow the use '
+                       'of monoclonal antibodies for the treatment of mild\xa0'
+                       '...',
+            'title': 'Monoclonal Antibodies Treatment'},
+           {'cacheId': 'SdWqyFSk874J',
+            'displayLink': 'dph.illinois.gov',
+            'formattedUrl': 'https://dph.illinois.gov/covid19/community.../covid19-treatment.html',
+            'htmlFormattedUrl': 'https://dph.illinois.gov/covid19/community.../covid19-treatment.html',
+            'htmlSnippet': '8 days ago <b>...</b> <b>Evusheld</b> (tixagevimab '
+                           'co-packaged with cilgavimab) is an intramuscular '
+                           'injectable monoclonal antibody combination which '
+                           'has been approved&nbsp;...',
+            'htmlTitle': 'COVID-19 Outpatient Treatment',
+            'kind': 'customsearch#result',
+            'link': 'https://dph.illinois.gov/covid19/community-guidance/covid19-treatment.html',
+            'pagemap': {'cse_image': [{'src': 'https://dph.illinois.gov/content/dam/soi/en/web/idph/files/covid-19-monoclonal-antibodies-treatment-highrisk-4-8.png'}],
+                        'cse_thumbnail': [{'height': '255',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiaDIMgZj_vCyGGSgei-U-EYEYoNefVqFX3Fol_9vAn2aZN5v_fY2uwU3e',
+                                           'width': '197'}],
+                        'imageobject': [{'caption': 'Monoclonal Antibodies for '
+                                                    'High-Risk COVID-19 '
+                                                    'Positive Patients Flyer',
+                                         'contenturl': 'https://dph.illinois.gov/content/dam/soi/en/web/idph/files/covid-19-monoclonal-antibodies-treatment-highrisk-4-8.png'}],
+                        'listitem': [{'item': 'Home',
+                                      'name': 'Home',
+                                      'position': '1'},
+                                     {'item': 'COVID-19 Home',
+                                      'name': 'COVID-19 Home',
+                                      'position': '2'},
+                                     {'item': 'Guidance',
+                                      'name': 'Guidance',
+                                      'position': '3'}],
+                        'metatags': [{'og:description': 'COVID-19 Monoclonal '
+                                                        'Antibodies Treatment '
+                                                        'COVID-19 Tratamiento '
+                                                        'de Anticuerpos '
+                                                        'Monoclonales '
+                                                        'Monoclonal Antibodies '
+                                                        'for High-Risk '
+                                                        'COVID-19 Positive '
+                                                        'Patients Monoclonal '
+                                                        'Antibody Treatment '
+                                                        'for COVID-19 Positive '
+                                                        'Patients Overview of '
+                                                        'Monoclonal Antibody '
+                                                        'Treatment for '
+                                                        'COVID-19 Made '
+                                                        'Available Under '
+                                                        'Emergency Use '
+                                                        'Authorization '
+                                                        'Monoclonal antibodies '
+                                                        'are laboratory-made '
+                                                        'proteins that mimic',
+                                      'og:locale': 'en',
+                                      'og:title': 'COVID-19 Outpatient '
+                                                  'Treatment',
+                                      'og:type': 'agency-left-navigation-page',
+                                      'og:url': 'https://dph.illinois.gov/covid19/community-guidance/covid19-treatment.html',
+                                      'template': 'Left Navigation Page',
+                                      'twitter:card': 'summary',
+                                      'twitter:description': 'COVID-19 '
+                                                             'Monoclonal '
+                                                             'Antibodies '
+                                                             'Treatment '
+                                                             'COVID-19 '
+                                                             'Tratamiento de '
+                                                             'Anticuerpos '
+                                                             'Monoclonales '
+                                                             'Monoclonal '
+                                                             'Antibodies for '
+                                                             'High-Risk '
+                                                             'COVID-19 '
+                                                             'Positive '
+                                                             'Patients '
+                                                             'Monoclonal '
+                                                             'Antibody '
+                                                             'Treatment for '
+                                                             'COVID-19 '
+                                                             'Positive '
+                                                             'Patients '
+                                                             'Overview of '
+                                                             'Monoclonal '
+                                                             'Antibody '
+                                                             'Treatment for '
+                                                             'COVID-19 Made '
+                                                             'Available Under '
+                                                             'Emergency Use '
+                                                             'Authorization '
+                                                             'Monoclonal '
+                                                             'antibodies are '
+                                                             'laboratory-made '
+                                                             'proteins that '
+                                                             'mimic',
+                                      'twitter:title': 'COVID-19 Outpatient '
+                                                       'Treatment',
+                                      'twitter:url': 'https://dph.illinois.gov/covid19/community-guidance/covid19-treatment.html',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': '8 days ago ... Evusheld (tixagevimab co-packaged with '
+                       'cilgavimab) is an intramuscular injectable monoclonal '
+                       'antibody combination which has been approved\xa0...',
+            'title': 'COVID-19 Outpatient Treatment'},
+           {'cacheId': 'nhKLkm-X5aoJ',
+            'displayLink': 'dph.illinois.gov',
+            'formattedUrl': 'https://dph.illinois.gov/covid19/covid-19-outpatient-therapy-locator.html',
+            'htmlFormattedUrl': 'https://dph.illinois.gov/covid19/covid-19-outpatient-therapy-locator.html',
+            'htmlSnippet': 'Use this map to locate locations for therapies '
+                           'provided free from HHS to prevent Covid-19 '
+                           'infection (<b>Evusheld</b> and Sotrovimab) and '
+                           'severe illness or&nbsp;...',
+            'htmlTitle': 'COVID-19 Outpatient Therapy Locator',
+            'kind': 'customsearch#result',
+            'link': 'https://dph.illinois.gov/covid19/covid-19-outpatient-therapy-locator.html',
+            'pagemap': {'cse_image': [{'src': 'https://s7d1.scene7.com/is/image/isp/COVID-Therapeutics-Decision-Aid?qlt=100&wid=1200&ts=1641593316748&$Responsive$&fit=constrain'}],
+                        'cse_thumbnail': [{'height': '84',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwIYqoVbmu9UmUoMyJXwRKwxs25ZrpJv-Fm_D727E_9cpN8vf5x7XFh6A',
+                                           'width': '150'}],
+                        'imageobject': [{'contenturl': 'https://s7d1.scene7.com/is/image/isp/COVID-Therapeutics-Decision-Aid?qlt=100&wid=1200&ts=1641593316748&$Responsive$&fit=constrain'}],
+                        'listitem': [{'item': 'Home',
+                                      'name': 'Home',
+                                      'position': '1'},
+                                     {'item': 'COVID-19 Home',
+                                      'name': 'COVID-19 Home',
+                                      'position': '2'},
+                                     {'name': 'COVID-19 Outpatient Therapy '
+                                              'Locator',
+                                      'position': '3'}],
+                        'metatags': [{'og:description': 'Use this map to '
+                                                        'locate locations for '
+                                                        'therapies provided '
+                                                        'free from HHS to '
+                                                        'prevent Covid-19 '
+                                                        'infection (Evusheld '
+                                                        'and Sotrovimab) and '
+                                                        'severe illness or '
+                                                        'hospitalization for '
+                                                        'Covid-19 (Sotrovimab, '
+                                                        'Paxlovid and '
+                                                        'Molnupiravir). These '
+                                                        'allocations are '
+                                                        'EXTREMELY',
+                                      'og:locale': 'en',
+                                      'og:title': 'COVID-19 Outpatient Therapy '
+                                                  'Locator',
+                                      'og:type': 'agency-full-width-open-page',
+                                      'og:url': 'https://dph.illinois.gov/covid19/covid-19-outpatient-therapy-locator.html',
+                                      'template': 'Full Width/ Open Page',
+                                      'twitter:card': 'summary',
+                                      'twitter:description': 'Use this map to '
+                                                             'locate locations '
+                                                             'for therapies '
+                                                             'provided free '
+                                                             'from HHS to '
+                                                             'prevent Covid-19 '
+                                                             'infection '
+                                                             '(Evusheld and '
+                                                             'Sotrovimab) and '
+                                                             'severe illness '
+                                                             'or '
+                                                             'hospitalization '
+                                                             'for Covid-19 '
+                                                             '(Sotrovimab, '
+                                                             'Paxlovid and '
+                                                             'Molnupiravir). '
+                                                             'These '
+                                                             'allocations are '
+                                                             'EXTREMELY',
+                                      'twitter:title': 'COVID-19 Outpatient '
+                                                       'Therapy Locator',
+                                      'twitter:url': 'https://dph.illinois.gov/covid19/covid-19-outpatient-therapy-locator.html',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Use this map to locate locations for therapies '
+                       'provided free from HHS to prevent Covid-19 infection '
+                       '(Evusheld and Sotrovimab) and severe illness or\xa0...',
+            'title': 'COVID-19 Outpatient Therapy Locator'},
+           {'cacheId': '27Cd63V7jdAJ',
+            'displayLink': 'dph.illinois.gov',
+            'formattedUrl': 'https://dph.illinois.gov/covid19.html',
+            'htmlFormattedUrl': 'https://dph.illinois.gov/covid19.html',
+            'htmlSnippet': 'Coronavirus Disease 2019 (COVID-19) ... Use this '
+                           'map to locate locations for therapies provided '
+                           'free from HHS to prevent COVID-19 infection '
+                           '(<b>Evusheld</b> and&nbsp;...',
+            'htmlTitle': 'COVID-19 Home',
+            'kind': 'customsearch#result',
+            'link': 'https://dph.illinois.gov/covid19.html',
+            'pagemap': {'listitem': [{'item': 'Home',
+                                      'name': 'Home',
+                                      'position': '1'},
+                                     {'name': 'COVID-19 Home',
+                                      'position': '2'}],
+                        'metatags': [{'og:description': '*Total molecular and '
+                                                        'antigens tests '
+                                                        'performed and '
+                                                        'reported '
+                                                        'electronically for '
+                                                        'testing of COVID-19 '
+                                                        'at IDPH, commercial '
+                                                        'or hospital '
+                                                        'laboratories. All '
+                                                        'numbers displayed are '
+                                                        'provisional and will '
+                                                        'change.',
+                                      'og:locale': 'en',
+                                      'og:title': 'COVID-19 Home',
+                                      'og:type': 'agency-full-width-open-page',
+                                      'og:url': 'https://dph.illinois.gov/covid19.html',
+                                      'template': 'Full Width/ Open Page',
+                                      'twitter:card': 'summary',
+                                      'twitter:description': '*Total molecular '
+                                                             'and antigens '
+                                                             'tests performed '
+                                                             'and reported '
+                                                             'electronically '
+                                                             'for testing of '
+                                                             'COVID-19 at '
+                                                             'IDPH, commercial '
+                                                             'or hospital '
+                                                             'laboratories. '
+                                                             'All numbers '
+                                                             'displayed are '
+                                                             'provisional and '
+                                                             'will change.',
+                                      'twitter:title': 'COVID-19 Home',
+                                      'twitter:url': 'https://dph.illinois.gov/covid19.html',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Coronavirus Disease 2019 (COVID-19) ... Use this map '
+                       'to locate locations for therapies provided free from '
+                       'HHS to prevent COVID-19 infection (Evusheld and\xa0...',
+            'title': 'COVID-19 Home'},
+           {'cacheId': 'cBKcemEfs8MJ',
+            'displayLink': 'dph.illinois.gov',
+            'formattedUrl': 'https://dph.illinois.gov/',
+            'htmlFormattedUrl': 'https://dph.illinois.gov/',
+            'htmlSnippet': 'Use this map to locate locations for therapies '
+                           'provided free from HHS to prevent Covid-19 '
+                           'infection (<b>Evusheld</b> and Sotrovimab) and '
+                           'severe illness or&nbsp;...',
+            'htmlTitle': 'IDPH',
+            'kind': 'customsearch#result',
+            'link': 'https://dph.illinois.gov/',
+            'pagemap': {'metatags': [{'og:locale': 'en',
+                                      'og:title': 'Home',
+                                      'og:type': 'agency-home-page',
+                                      'og:url': 'https://dph.illinois.gov/en.html',
+                                      'template': 'Home Page',
+                                      'twitter:card': 'summary',
+                                      'twitter:title': 'Home',
+                                      'twitter:url': 'https://dph.illinois.gov/en.html',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Use this map to locate locations for therapies '
+                       'provided free from HHS to prevent Covid-19 infection '
+                       '(Evusheld and Sotrovimab) and severe illness or\xa0...',
+            'title': 'IDPH'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 5,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'illinois.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '5'}]},
+ 'searchInformation': {'formattedSearchTime': '0.15',
+                       'formattedTotalResults': '5',
+                       'searchTime': 0.154406,
+                       'totalResults': '5'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

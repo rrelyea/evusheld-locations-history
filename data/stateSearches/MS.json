@@ -1,0 +1,48 @@
+{'context': {'title': 'Evusheld-search'},
+ 'items': [{'cacheId': 'PayBjAD4YTkJ',
+            'displayLink': 'msdh.ms.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://msdh.ms.gov/msdhsite/_static/resources/17247.pdf',
+            'htmlFormattedUrl': 'https://msdh.ms.gov/msdhsite/_static/resources/17247.pdf',
+            'htmlSnippet': 'Dec 28, 2021 <b>...</b> <b>Evusheld</b> Monoclonal '
+                           'Antibodies. • <b>Evusheld</b> is a combination '
+                           'product of two long-acting monoclonal antibodies '
+                           'that can be used for.',
+            'htmlTitle': 'This is an official MS Health Alert Network (HAN) '
+                         'Alert Dear ...',
+            'kind': 'customsearch#result',
+            'link': 'https://msdh.ms.gov/msdhsite/_static/resources/17247.pdf',
+            'mime': 'application/pdf',
+            'pagemap': {'cse_image': [{'src': 'x-raw-image:///7444c2f03f56e62afc9b8f01e991ad46701a1c9f2680fd7de46f32f2aa6af6f4'}],
+                        'cse_thumbnail': [{'height': '221',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSewZas1D9UQoJzYAQvMRVKdGrIliKAEWXiyKMQlT36ofXkF27278f5lP3J',
+                                           'width': '228'}],
+                        'metatags': [{'author': 'Jim.Newkirk',
+                                      'creationdate': "D:20211228185427-06'00'",
+                                      'creator': 'Microsoft® Word for '
+                                                 'Microsoft 365',
+                                      'moddate': "D:20211228185427-06'00'",
+                                      'producer': 'Microsoft® Word for '
+                                                  'Microsoft 365'}]},
+            'snippet': 'Dec 28, 2021 ... Evusheld Monoclonal Antibodies. • '
+                       'Evusheld is a combination product of two long-acting '
+                       'monoclonal antibodies that can be used for.',
+            'title': 'This is an official MS Health Alert Network (HAN) Alert '
+                     'Dear ...'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'request': [{'count': 1,
+                          'cx': '37cfbc896668324c4',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'evusheld',
+                          'siteSearch': 'ms.gov',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - evusheld',
+                          'totalResults': '1'}]},
+ 'searchInformation': {'formattedSearchTime': '0.13',
+                       'formattedTotalResults': '1',
+                       'searchTime': 0.125597,
+                       'totalResults': '1'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}
