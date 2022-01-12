@@ -45,6 +45,6 @@ for idx, row in states.iterrows():
   healthDept_site = row[0].strip()
   state_site = row[1].strip()
 
-  if state_code != "" and state_code > 'UT':
+  if state_code != "":
     searchAndSave(state_code, state_site)
     searchAndSave(state_code + "-Health", healthDept_site)
