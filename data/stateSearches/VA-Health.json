@@ -238,6 +238,40 @@
                        'Updates, Upcoming VDH COVID-19 events and Helpful '
                        'Resources for Virginia Providers.',
             'title': 'COVID-19 Vaccine Provider Newsletter'},
+           {'cacheId': 'ZaHkT4SrMFwJ',
+            'displayLink': 'www.vdh.virginia.gov',
+            'formattedUrl': 'https://www.vdh.virginia.gov/covid-19.../covid-19-provider-newsletter/',
+            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19.../covid-19-provider-newsletter/',
+            'htmlSnippet': 'On December 8, FDA granted an EUA to '
+                           'AstraZeneca&#39;s <b>Evusheld</b> (tixagevimab '
+                           'co-packaged with cilgavimab and administered '
+                           'together) for the pre-exposure&nbsp;...',
+            'htmlTitle': 'COVID-19 Provider Newsletter Archives - COVID-19 '
+                         'Vaccine',
+            'kind': 'customsearch#result',
+            'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/category/covid-19-provider-newsletter/',
+            'pagemap': {'BreadcrumbList': [{}],
+                        'cse_image': [{'src': 'https://content.govdelivery.com/attachments/fancy_images/VAVDHORCE/2021/05/4469040/wastage-guidance-table-5-5-21_original.png'}],
+                        'cse_thumbnail': [{'height': '181',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwQPW4VOw9xn7XFLl598Vy_1KLAdE2AzpCW-50hKSwnTh6DiVMtNhwRsDy',
+                                           'width': '279'}],
+                        'hatomfeed': [{}],
+                        'metatags': [{'og:locale': 'en_US',
+                                      'og:site_name': 'COVID-19 Vaccine',
+                                      'og:title': 'COVID-19 Provider '
+                                                  'Newsletter Archives - '
+                                                  'COVID-19 Vaccine',
+                                      'og:type': 'article',
+                                      'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/category/covid-19-provider-newsletter/',
+                                      'position': '1',
+                                      'twitter:card': 'summary_large_image',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': "On December 8, FDA granted an EUA to AstraZeneca's "
+                       'Evusheld (tixagevimab co-packaged with cilgavimab and '
+                       'administered together) for the pre-exposure\xa0...',
+            'title': 'COVID-19 Provider Newsletter Archives - COVID-19 '
+                     'Vaccine'},
            {'cacheId': 'mN6sUrZlDsEJ',
             'displayLink': 'www.vdh.virginia.gov',
             'formattedUrl': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
@@ -422,30 +456,7 @@
                        'meds have FDA Emergency Use Authorization. ○ One '
                        'medication for pre-exposure prophylaxis = Evusheld\xa0'
                        '...',
-            'title': 'COVID-19 Therapeutics Update VDH Partners Call'},
-           {'cacheId': 'i4qszFMVGdAJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.vdh.virginia.gov/.../VDH_COVID_Partner_Call_Notes_ '
-                            '12172021.pdf',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../VDH_COVID_Partner_Call_Notes_ '
-                                '12172021.pdf',
-            'htmlSnippet': 'Dec 17, 2021 <b>...</b> enough immune response, '
-                           'and so, they can get <b>Evusheld</b> for that. The '
-                           'other use for this drug is for people who have '
-                           'gotten a COVID vaccine&nbsp;...',
-            'htmlTitle': 'COVID Partner Call Notes Friday, December 17, 2021 • '
-                         'Introduction ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/content/uploads/sites/8/2021/12/VDH_COVID_Partner_Call_Notes_12172021.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'metatags': [{'creationdate': "D:20211217113238-05'00'",
-                                      'moddate': "D:20211217113238-05'00'"}]},
-            'snippet': 'Dec 17, 2021 ... enough immune response, and so, they '
-                       'can get Evusheld for that. The other use for this drug '
-                       'is for people who have gotten a COVID vaccine\xa0...',
-            'title': 'COVID Partner Call Notes Friday, December 17, 2021 • '
-                     'Introduction ...'}],
+            'title': 'COVID-19 Therapeutics Update VDH Partners Call'}],
  'kind': 'customsearch#search',
  'queries': {'nextPage': [{'count': 10,
                            'cx': '37cfbc896668324c4',
@@ -456,7 +467,7 @@
                            'siteSearch': 'vdh.virginia.gov',
                            'startIndex': 11,
                            'title': 'Google Custom Search - evusheld',
-                           'totalResults': '39'}],
+                           'totalResults': '15'}],
              'request': [{'count': 10,
                           'cx': '37cfbc896668324c4',
                           'inputEncoding': 'utf8',
@@ -466,10 +477,7 @@
                           'siteSearch': 'vdh.virginia.gov',
                           'startIndex': 1,
                           'title': 'Google Custom Search - evusheld',
-                          'totalResults': '39'}]},
- 'searchInformation': {'formattedSearchTime': '0.18',
-                       'formattedTotalResults': '39',
-                       'searchTime': 0.177845,
-                       'totalResults': '39'},
+                          'totalResults': '15'}]},
+ 'searchInformation': {'totalResults': '15'},
  'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
          'type': 'application/json'}}

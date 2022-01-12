@@ -47,6 +47,28 @@
                        'states.',
             'title': 'New Distribution Process for Monoclonal Antibody '
                      'Treatments in ...'},
+           {'cacheId': 'aobQLSEHzzoJ',
+            'displayLink': 'dph.georgia.gov',
+            'fileFormat': 'PDF/Adobe Acrobat',
+            'formattedUrl': 'https://dph.georgia.gov/document/document/dph-boh...1-11.../download',
+            'htmlFormattedUrl': 'https://dph.georgia.gov/document/document/dph-boh...1-11.../download',
+            'htmlSnippet': '3 hours ago <b>...</b> -<b>Evusheld</b> '
+                           '(pre-exposure prophylaxis only). Intravenous '
+                           'Antiviral. -Remdesivir. Oral Antivirals. '
+                           '-Molnupiravir. -Paxlovid&nbsp;...',
+            'htmlTitle': 'Georgia Board of Public Health',
+            'kind': 'customsearch#result',
+            'link': 'https://dph.georgia.gov/document/document/dph-boh-presentations-1-11-2022/download',
+            'mime': 'application/pdf',
+            'pagemap': {'metatags': [{'creationdate': "D:20220111205844Z00'00'",
+                                      'moddate': "D:20220111205844Z00'00'",
+                                      'producer': 'macOS Version 10.15.7 '
+                                                  '(Build 19H1615) Quartz '
+                                                  'PDFContext'}]},
+            'snippet': '3 hours ago ... -Evusheld (pre-exposure prophylaxis '
+                       'only). Intravenous Antiviral. -Remdesivir. Oral '
+                       'Antivirals. -Molnupiravir. -Paxlovid\xa0...',
+            'title': 'Georgia Board of Public Health'},
            {'cacheId': 'it5vvHAnVvgJ',
             'displayLink': 'dph.georgia.gov',
             'formattedUrl': 'https://dph.georgia.gov/contacts/district-2-gainesville-north-health-district',
@@ -134,7 +156,7 @@
             'title': 'Hall County (Health Department) | Georgia Department of '
                      'Public ...'}],
  'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 3,
+ 'queries': {'request': [{'count': 4,
                           'cx': '37cfbc896668324c4',
                           'inputEncoding': 'utf8',
                           'outputEncoding': 'utf8',
@@ -143,10 +165,7 @@
                           'siteSearch': 'dph.georgia.gov',
                           'startIndex': 1,
                           'title': 'Google Custom Search - evusheld',
-                          'totalResults': '3'}]},
- 'searchInformation': {'formattedSearchTime': '0.15',
-                       'formattedTotalResults': '3',
-                       'searchTime': 0.149486,
-                       'totalResults': '3'},
+                          'totalResults': '4'}]},
+ 'searchInformation': {'totalResults': '4'},
  'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
          'type': 'application/json'}}

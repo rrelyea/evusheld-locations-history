@@ -8,10 +8,10 @@
             'htmlFormattedUrl': 'https://www.healthvermont.gov/.../DEPRIP. '
                                 '<b>EVUSHELD</b>%20Dosing%20and%20Administration_VTEMS_ '
                                 '...',
-            'htmlSnippet': 'emergency use of the unapproved product '
-                           '<b>EVUSHELD</b> (tixagevimab co-packaged with '
-                           'cilgavimab) for the pre-exposure prophylaxis of '
-                           'Coronavirus disease 2019&nbsp;...',
+            'htmlSnippet': '<b>EVUSHELD</b> Dosing and Administration. '
+                           'Authorized Use. The U.S. Food and Drug '
+                           'Administration (FDA) has issued an Emergency Use '
+                           'Authorization (EUA) for the.',
             'htmlTitle': 'Supplemental Protocol <b>EVUSHELD</b> Dosing and '
                          'Administration',
             'kind': 'customsearch#result',
@@ -26,10 +26,9 @@
                                                  '(Windows)',
                                       'moddate': "D:20211230075713-05'00'",
                                       'producer': 'Adobe PDF Library 15.0'}]},
-            'snippet': 'emergency use of the unapproved product EVUSHELD '
-                       '(tixagevimab co-packaged with cilgavimab) for the '
-                       'pre-exposure prophylaxis of Coronavirus disease '
-                       '2019\xa0...',
+            'snippet': 'EVUSHELD Dosing and Administration. Authorized Use. '
+                       'The U.S. Food and Drug Administration (FDA) has issued '
+                       'an Emergency Use Authorization (EUA) for the.',
             'title': 'Supplemental Protocol EVUSHELD Dosing and '
                      'Administration'},
            {'cacheId': 'JlINJifDJ58J',
@@ -175,9 +174,50 @@
             'snippet': '5 days ago ... ... there is a long-acting monoclonal '
                        'treatment available that has received Emergency Use '
                        'Authorization called Evusheld.',
-            'title': 'Treatment for COVID-19 | Vermont Department of Health'}],
+            'title': 'Treatment for COVID-19 | Vermont Department of Health'},
+           {'cacheId': 'hVFdvSvYtB0J',
+            'displayLink': 'www.healthvermont.gov',
+            'formattedUrl': 'https://www.healthvermont.gov/covid.../health-care-professionals-guidance',
+            'htmlFormattedUrl': 'https://www.healthvermont.gov/covid.../health-care-professionals-guidance',
+            'htmlSnippet': 'Refer to the Health Alert dated December 30, 2021; '
+                           'To view sites and inventory of <b>Evusheld</b>, '
+                           'Paxlovid and Molnupiravir,&nbsp;...',
+            'htmlTitle': 'Health Care Professionals Guidance | Vermont '
+                         'Department of Health',
+            'kind': 'customsearch#result',
+            'link': 'https://www.healthvermont.gov/covid-19/health-care-professionals/health-care-professionals-guidance',
+            'pagemap': {'Document': [{'title': 'Health Care Professionals '
+                                               'Guidance'}],
+                        'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
+                                           'width': '225'}],
+                        'metatags': [{'article:modified_time': '2022-01-11T15:28:14-05:00',
+                                      'article:published_time': '2020-10-30T12:02:21-04:00',
+                                      'fb:app_id': '114960415615366',
+                                      'handheldfriendly': 'true',
+                                      'mobileoptimized': 'width',
+                                      'og:description': 'Find information for '
+                                                        'the health care '
+                                                        'community, including '
+                                                        'health alerts and '
+                                                        'resources.',
+                                      'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
+                                      'og:site_name': 'Vermont Department of '
+                                                      'Health',
+                                      'og:title': 'Health Care Professionals '
+                                                  'Guidance',
+                                      'og:type': 'article',
+                                      'og:updated_time': '2022-01-11T15:28:14-05:00',
+                                      'og:url': 'https://www.healthvermont.gov/covid-19/health-care-professionals/health-care-professionals-guidance',
+                                      'viewport': 'width=device-width'}]},
+            'snippet': 'Refer to the Health Alert dated December 30, 2021; To '
+                       'view sites and inventory of Evusheld, Paxlovid and '
+                       'Molnupiravir,\xa0...',
+            'title': 'Health Care Professionals Guidance | Vermont Department '
+                     'of Health'}],
  'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 4,
+ 'queries': {'request': [{'count': 5,
                           'cx': '37cfbc896668324c4',
                           'inputEncoding': 'utf8',
                           'outputEncoding': 'utf8',
@@ -186,10 +226,7 @@
                           'siteSearch': 'healthvermont.gov',
                           'startIndex': 1,
                           'title': 'Google Custom Search - evusheld',
-                          'totalResults': '4'}]},
- 'searchInformation': {'formattedSearchTime': '0.14',
-                       'formattedTotalResults': '4',
-                       'searchTime': 0.138644,
-                       'totalResults': '4'},
+                          'totalResults': '5'}]},
+ 'searchInformation': {'totalResults': '5'},
  'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
          'type': 'application/json'}}

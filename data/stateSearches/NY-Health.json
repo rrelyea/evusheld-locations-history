@@ -208,9 +208,6 @@
                           'startIndex': 1,
                           'title': 'Google Custom Search - evusheld',
                           'totalResults': '7'}]},
- 'searchInformation': {'formattedSearchTime': '0.16',
-                       'formattedTotalResults': '7',
-                       'searchTime': 0.162308,
-                       'totalResults': '7'},
+ 'searchInformation': {'totalResults': '7'},
  'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
          'type': 'application/json'}}
