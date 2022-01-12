@@ -110,6 +110,27 @@
                        '(Evusheld). How to use this framework.',
             'title': 'Prioritization of Anti-SARS-CoV-2 Monoclonal Antibodies '
                      'and Oral ...'},
+           {'cacheId': 'ATXSpnTjugQJ',
+            'displayLink': 'www.health.ny.gov',
+            'formattedUrl': 'https://www.health.ny.gov/diseases/aids/general/prep/support_services.htm',
+            'htmlFormattedUrl': 'https://www.health.ny.gov/diseases/aids/general/prep/support_services.htm',
+            'htmlSnippet': 'Access to PrEP and nPEP information for '
+                           'clinicians, non-clinicians and individuals who may '
+                           'consider these biomedical appraoches to avoiding '
+                           'HIV&nbsp;...',
+            'htmlTitle': 'Pre Exposure Prophylaxis (PrEP)',
+            'kind': 'customsearch#result',
+            'link': 'https://www.health.ny.gov/diseases/aids/general/prep/support_services.htm',
+            'pagemap': {'cse_image': [{'src': 'https://www.health.ny.gov/diseases/aids/images/aids_institute_189x83.jpg'}],
+                        'cse_thumbnail': [{'height': '83',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQye-AWFGGlMRzHPZRamll55MXYxu0P3czC82mbmvLAbJyZk8yDv3e9jQ',
+                                           'width': '189'}],
+                        'metatags': [{'viewport': 'width=device-width, '
+                                                  'initial-scale=1'}]},
+            'snippet': 'Access to PrEP and nPEP information for clinicians, '
+                       'non-clinicians and individuals who may consider these '
+                       'biomedical appraoches to avoiding HIV\xa0...',
+            'title': 'Pre Exposure Prophylaxis (PrEP)'},
            {'cacheId': 'HWDmIG72txMJ',
             'displayLink': 'coronavirus.health.ny.gov',
             'fileFormat': 'PDF/Adobe Acrobat',
@@ -143,27 +164,24 @@
                        'prophylaxis with a long-acting monoclonal antibody '
                        '(Evusheld). How to use this framework.',
             'title': 'Prioritization of mAbs During Resource Shortages'},
-           {'cacheId': 'ATXSpnTjugQJ',
-            'displayLink': 'www.health.ny.gov',
-            'formattedUrl': 'https://www.health.ny.gov/diseases/aids/general/prep/support_services.htm',
-            'htmlFormattedUrl': 'https://www.health.ny.gov/diseases/aids/general/prep/support_services.htm',
-            'htmlSnippet': 'Access to PrEP and nPEP information for '
-                           'clinicians, non-clinicians and individuals who may '
-                           'consider these biomedical appraoches to avoiding '
-                           'HIV&nbsp;...',
-            'htmlTitle': 'Pre Exposure Prophylaxis (PrEP)',
+           {'cacheId': 'xf3V6JPpu2AJ',
+            'displayLink': 'health.ny.gov',
+            'formattedUrl': 'https://health.ny.gov/health.../guidance_for_therapy_at_pharmacies.htm',
+            'htmlFormattedUrl': 'https://health.ny.gov/health.../guidance_for_therapy_at_pharmacies.htm',
+            'htmlSnippet': '4 days ago <b>...</b> <b>Evusheld</b> (tixagevimab '
+                           'and cilavimab) must be prescribed for an '
+                           'individual patient by a physician, nurse '
+                           'practitioner, or physician assistant&nbsp;...',
+            'htmlTitle': 'COVID-19 Guidance for Medicaid Providers',
             'kind': 'customsearch#result',
-            'link': 'https://www.health.ny.gov/diseases/aids/general/prep/support_services.htm',
-            'pagemap': {'cse_image': [{'src': 'https://www.health.ny.gov/diseases/aids/images/aids_institute_189x83.jpg'}],
-                        'cse_thumbnail': [{'height': '83',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQye-AWFGGlMRzHPZRamll55MXYxu0P3czC82mbmvLAbJyZk8yDv3e9jQ',
-                                           'width': '189'}],
-                        'metatags': [{'viewport': 'width=device-width, '
+            'link': 'https://health.ny.gov/health_care/medicaid/covid19/guidance/guidance_for_therapy_at_pharmacies.htm',
+            'pagemap': {'metatags': [{'viewport': 'width=device-width, '
                                                   'initial-scale=1'}]},
-            'snippet': 'Access to PrEP and nPEP information for clinicians, '
-                       'non-clinicians and individuals who may consider these '
-                       'biomedical appraoches to avoiding HIV\xa0...',
-            'title': 'Pre Exposure Prophylaxis (PrEP)'},
+            'snippet': '4 days ago ... Evusheld (tixagevimab and cilavimab) '
+                       'must be prescribed for an individual patient by a '
+                       'physician, nurse practitioner, or physician '
+                       'assistant\xa0...',
+            'title': 'COVID-19 Guidance for Medicaid Providers'},
            {'cacheId': 'X7C9EQKd4NQJ',
             'displayLink': 'www.health.ny.gov',
             'fileFormat': 'PDF/Adobe Acrobat',
@@ -198,7 +216,7 @@
                        '...',
             'title': 'Billing Guidance'}],
  'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 7,
+ 'queries': {'request': [{'count': 8,
                           'cx': '37cfbc896668324c4',
                           'inputEncoding': 'utf8',
                           'outputEncoding': 'utf8',
@@ -207,7 +225,7 @@
                           'siteSearch': 'ny.gov',
                           'startIndex': 1,
                           'title': 'Google Custom Search - evusheld',
-                          'totalResults': '7'}]},
- 'searchInformation': {'totalResults': '7'},
+                          'totalResults': '8'}]},
+ 'searchInformation': {'totalResults': '8'},
  'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
          'type': 'application/json'}}
