@@ -1,232 +1,183 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': '3SPAd3rXQUIJ',
-            'displayLink': 'www.healthvermont.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.healthvermont.gov/.../DEPRIP. '
-                            'EVUSHELD%20Dosing%20and%20Administration_VTEMS_ '
-                            '...',
-            'htmlFormattedUrl': 'https://www.healthvermont.gov/.../DEPRIP. '
-                                '<b>EVUSHELD</b>%20Dosing%20and%20Administration_VTEMS_ '
-                                '...',
-            'htmlSnippet': '<b>EVUSHELD</b> Dosing and Administration. '
-                           'Authorized Use. The U.S. Food and Drug '
-                           'Administration (FDA) has issued an Emergency Use '
-                           'Authorization (EUA) for the.',
-            'htmlTitle': 'Supplemental Protocol <b>EVUSHELD</b> Dosing and '
-                         'Administration',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthvermont.gov/sites/default/files/DEPRIP.EVUSHELD%20Dosing%20and%20Administration_VTEMS_Final%20%20Dec%2030%202021.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'cse_image': [{'src': 'x-raw-image:///a68e28ac9b8b011a78620db46f2760c46646e8883216fa4561237e83f9cd68cf'}],
-                        'cse_thumbnail': [{'height': '222',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDZquD8NF84VImQ8xZmtyQkzN5Htz0ZSLa1FOp7EOTWZGIGxhR0BbKLeMV',
-                                           'width': '227'}],
-                        'metatags': [{'creationdate': "D:20210825143258-04'00'",
-                                      'creator': 'Adobe InDesign 15.1 '
-                                                 '(Windows)',
-                                      'moddate': "D:20211230075713-05'00'",
-                                      'producer': 'Adobe PDF Library 15.0'}]},
-            'snippet': 'EVUSHELD Dosing and Administration. Authorized Use. '
-                       'The U.S. Food and Drug Administration (FDA) has issued '
-                       'an Emergency Use Authorization (EUA) for the.',
-            'title': 'Supplemental Protocol EVUSHELD Dosing and '
-                     'Administration'},
-           {'cacheId': 'JlINJifDJ58J',
-            'displayLink': 'www.healthvermont.gov',
-            'formattedUrl': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
-            'htmlFormattedUrl': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
-            'htmlSnippet': '... (Video) VT EMS Protocol for COVID-19 '
-                           'Monoclonal Antibody Administration Training '
-                           '&middot; Supplemental Protocol for <b>EVUSHELD</b> '
-                           'Dosing and Administration&nbsp;...',
-            'htmlTitle': 'EMS COVID-19 Resources | Vermont Department of '
-                         'Health',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
-            'pagemap': {'Document': [{'title': 'EMS COVID-19 Resources'}],
-                        'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
-                                           'width': '225'}],
-                        'metatags': [{'article:modified_time': '2021-12-30T10:43:12-05:00',
-                                      'article:published_time': '2021-02-12T15:21:07-05:00',
-                                      'fb:app_id': '114960415615366',
-                                      'handheldfriendly': 'true',
-                                      'mobileoptimized': 'width',
-                                      'og:description': 'Vermont EMS has '
-                                                        'played an active role '
-                                                        'in combatting the '
-                                                        'COVID-19 pandemic. '
-                                                        'Below are some '
-                                                        'resources to assist '
-                                                        'you and your agency '
-                                                        'during the COVID-19 '
-                                                        'response. Coronavirus '
-                                                        'Disease (COVID-19) '
-                                                        'EMS Response',
-                                      'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
-                                      'og:site_name': 'Vermont Department of '
-                                                      'Health',
-                                      'og:title': 'EMS COVID-19 Resources',
-                                      'og:type': 'article',
-                                      'og:updated_time': '2021-12-30T10:43:12-05:00',
-                                      'og:url': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
-                                      'viewport': 'width=device-width'}]},
-            'snippet': '... (Video) VT EMS Protocol for COVID-19 Monoclonal '
-                       'Antibody Administration Training · Supplemental '
-                       'Protocol for EVUSHELD Dosing and Administration\xa0...',
-            'title': 'EMS COVID-19 Resources | Vermont Department of Health'},
-           {'cacheId': '7rK7dZK8Vy8J',
-            'displayLink': 'www.healthvermont.gov',
-            'formattedUrl': 'https://www.healthvermont.gov/',
-            'htmlFormattedUrl': 'https://www.healthvermont.gov/',
-            'htmlSnippet': 'The state&#39;s lead agency for public health '
-                           'policy and advocacy. Includes information on '
-                           'programs, publications, health officers and laws.',
-            'htmlTitle': 'Vermont Department of Health',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthvermont.gov/',
-            'pagemap': {'Document': [{'title': 'Home'}],
-                        'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
-                                           'width': '225'}],
-                        'metatags': [{'fb:app_id': '114960415615366',
-                                      'handheldfriendly': 'true',
-                                      'mobileoptimized': 'width',
-                                      'og:description': "The state's lead "
-                                                        'agency for public '
-                                                        'health policy and '
-                                                        'advocacy. Includes '
-                                                        'information on '
-                                                        'programs, '
-                                                        'publications, health '
-                                                        'officers and laws.',
-                                      'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
-                                      'og:site_name': 'Vermont Department of '
-                                                      'Health',
-                                      'og:title': 'Vermont Department of '
-                                                  'Health',
-                                      'og:type': 'website',
-                                      'og:url': 'https://www.healthvermont.gov/',
-                                      'viewport': 'width=device-width'}]},
-            'snippet': "The state's lead agency for public health policy and "
-                       'advocacy. Includes information on programs, '
-                       'publications, health officers and laws.',
-            'title': 'Vermont Department of Health'},
-           {'cacheId': 'cnOFVBk-4psJ',
-            'displayLink': 'www.healthvermont.gov',
-            'formattedUrl': 'https://www.healthvermont.gov/covid-19/symptoms.../treatment-covid-19',
-            'htmlFormattedUrl': 'https://www.healthvermont.gov/covid-19/symptoms.../treatment-covid-19',
-            'htmlSnippet': '5 days ago <b>...</b> ... there is a long-acting '
-                           'monoclonal treatment available that has received '
-                           'Emergency Use Authorization called '
-                           '<b>Evusheld</b>.',
-            'htmlTitle': 'Treatment for COVID-19 | Vermont Department of '
-                         'Health',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthvermont.gov/covid-19/symptoms-sickness/treatment-covid-19',
-            'pagemap': {'Document': [{'title': 'Treatment for COVID-19'}],
-                        'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
-                                           'width': '225'}],
-                        'metatags': [{'article:modified_time': '2022-01-07T15:14:54-05:00',
-                                      'article:published_time': '2021-12-27T10:25:58-05:00',
-                                      'fb:app_id': '114960415615366',
-                                      'handheldfriendly': 'true',
-                                      'mobileoptimized': 'width',
-                                      'og:description': 'Treatment options are '
-                                                        'available for people '
-                                                        'with COVID-19 who are '
-                                                        'considered high risk, '
-                                                        'with mild to moderate '
-                                                        'symptoms. Your health '
-                                                        'care provider will '
-                                                        'recommend the best '
-                                                        'treatment option for '
-                                                        'you, based on your '
-                                                        'symptoms and your '
-                                                        'health history. '
-                                                        'Please note that due '
-                                                        'to a federal supply '
-                                                        'shortage, '
-                                                        'availability of all '
-                                                        'COVID-19 therapeutics '
-                                                        'are limited '
-                                                        'throughout Vermont. '
-                                                        'What are COVID-19 '
-                                                        'therapeutic '
-                                                        'treatments? '
-                                                        'MONOCLONAL ANTIBODY '
-                                                        'TREATMENTS Your body '
-                                                        'naturally makes '
-                                                        'antibodies to fight '
-                                                        'infection.',
-                                      'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
-                                      'og:site_name': 'Vermont Department of '
-                                                      'Health',
-                                      'og:title': 'Treatment for COVID-19',
-                                      'og:type': 'article',
-                                      'og:updated_time': '2022-01-07T15:14:54-05:00',
-                                      'og:url': 'https://www.healthvermont.gov/covid-19/symptoms-sickness/treatment-covid-19',
-                                      'viewport': 'width=device-width'}]},
-            'snippet': '5 days ago ... ... there is a long-acting monoclonal '
-                       'treatment available that has received Emergency Use '
-                       'Authorization called Evusheld.',
-            'title': 'Treatment for COVID-19 | Vermont Department of Health'},
-           {'cacheId': 'hVFdvSvYtB0J',
-            'displayLink': 'www.healthvermont.gov',
-            'formattedUrl': 'https://www.healthvermont.gov/covid.../health-care-professionals-guidance',
-            'htmlFormattedUrl': 'https://www.healthvermont.gov/covid.../health-care-professionals-guidance',
-            'htmlSnippet': 'Refer to the Health Alert dated December 30, 2021; '
-                           'To view sites and inventory of <b>Evusheld</b>, '
-                           'Paxlovid and Molnupiravir,&nbsp;...',
-            'htmlTitle': 'Health Care Professionals Guidance | Vermont '
-                         'Department of Health',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthvermont.gov/covid-19/health-care-professionals/health-care-professionals-guidance',
-            'pagemap': {'Document': [{'title': 'Health Care Professionals '
-                                               'Guidance'}],
-                        'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
-                                           'width': '225'}],
-                        'metatags': [{'article:modified_time': '2022-01-11T15:28:14-05:00',
-                                      'article:published_time': '2020-10-30T12:02:21-04:00',
-                                      'fb:app_id': '114960415615366',
-                                      'handheldfriendly': 'true',
-                                      'mobileoptimized': 'width',
-                                      'og:description': 'Find information for '
-                                                        'the health care '
-                                                        'community, including '
-                                                        'health alerts and '
-                                                        'resources.',
-                                      'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
-                                      'og:site_name': 'Vermont Department of '
-                                                      'Health',
-                                      'og:title': 'Health Care Professionals '
-                                                  'Guidance',
-                                      'og:type': 'article',
-                                      'og:updated_time': '2022-01-11T15:28:14-05:00',
-                                      'og:url': 'https://www.healthvermont.gov/covid-19/health-care-professionals/health-care-professionals-guidance',
-                                      'viewport': 'width=device-width'}]},
-            'snippet': 'Refer to the Health Alert dated December 30, 2021; To '
-                       'view sites and inventory of Evusheld, Paxlovid and '
-                       'Molnupiravir,\xa0...',
-            'title': 'Health Care Professionals Guidance | Vermont Department '
-                     'of Health'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 5,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'healthvermont.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '5'}]},
- 'searchInformation': {'totalResults': '5'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': '3SPAd3rXQUIJ',
+  'displayLink': 'www.healthvermont.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.healthvermont.gov/.../DEPRIP. '
+                  'EVUSHELD%20Dosing%20and%20Administration_VTEMS_ ...',
+  'htmlFormattedUrl': 'https://www.healthvermont.gov/.../DEPRIP. '
+                      '<b>EVUSHELD</b>%20Dosing%20and%20Administration_VTEMS_ '
+                      '...',
+  'htmlSnippet': 'emergency use of the unapproved product <b>EVUSHELD</b> '
+                 '(tixagevimab co-packaged with cilgavimab) for the '
+                 'pre-exposure prophylaxis of Coronavirus disease '
+                 '2019&nbsp;...',
+  'htmlTitle': 'Supplemental Protocol <b>EVUSHELD</b> Dosing and '
+               'Administration',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthvermont.gov/sites/default/files/DEPRIP.EVUSHELD%20Dosing%20and%20Administration_VTEMS_Final%20%20Dec%2030%202021.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///a68e28ac9b8b011a78620db46f2760c46646e8883216fa4561237e83f9cd68cf'}],
+              'cse_thumbnail': [{'height': '222',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDZquD8NF84VImQ8xZmtyQkzN5Htz0ZSLa1FOp7EOTWZGIGxhR0BbKLeMV',
+                                 'width': '227'}],
+              'metatags': [{'creationdate': "D:20210825143258-04'00'",
+                            'creator': 'Adobe InDesign 15.1 (Windows)',
+                            'moddate': "D:20211230075713-05'00'",
+                            'producer': 'Adobe PDF Library 15.0'}]},
+  'snippet': 'emergency use of the unapproved product EVUSHELD (tixagevimab '
+             'co-packaged with cilgavimab) for the pre-exposure prophylaxis of '
+             'Coronavirus disease 2019\xa0...',
+  'title': 'Supplemental Protocol EVUSHELD Dosing and Administration'},
+ {'cacheId': 'JlINJifDJ58J',
+  'displayLink': 'www.healthvermont.gov',
+  'formattedUrl': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
+  'htmlFormattedUrl': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
+  'htmlSnippet': '... (Video) VT EMS Protocol for COVID-19 Monoclonal Antibody '
+                 'Administration Training &middot; Supplemental Protocol for '
+                 '<b>EVUSHELD</b> Dosing and Administration&nbsp;...',
+  'htmlTitle': 'EMS COVID-19 Resources | Vermont Department of Health',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
+  'pagemap': {'Document': [{'title': 'EMS COVID-19 Resources'}],
+              'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
+                                 'width': '225'}],
+              'metatags': [{'article:modified_time': '2021-12-30T10:43:12-05:00',
+                            'article:published_time': '2021-02-12T15:21:07-05:00',
+                            'fb:app_id': '114960415615366',
+                            'handheldfriendly': 'true',
+                            'mobileoptimized': 'width',
+                            'og:description': 'Vermont EMS has played an '
+                                              'active role in combatting the '
+                                              'COVID-19 pandemic. Below are '
+                                              'some resources to assist you '
+                                              'and your agency during the '
+                                              'COVID-19 response. Coronavirus '
+                                              'Disease (COVID-19) EMS Response',
+                            'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
+                            'og:site_name': 'Vermont Department of Health',
+                            'og:title': 'EMS COVID-19 Resources',
+                            'og:type': 'article',
+                            'og:updated_time': '2021-12-30T10:43:12-05:00',
+                            'og:url': 'https://www.healthvermont.gov/emergency/ems/ems-covid-19-resources',
+                            'viewport': 'width=device-width'}]},
+  'snippet': '... (Video) VT EMS Protocol for COVID-19 Monoclonal Antibody '
+             'Administration Training · Supplemental Protocol for EVUSHELD '
+             'Dosing and Administration\xa0...',
+  'title': 'EMS COVID-19 Resources | Vermont Department of Health'},
+ {'cacheId': '7rK7dZK8Vy8J',
+  'displayLink': 'www.healthvermont.gov',
+  'formattedUrl': 'https://www.healthvermont.gov/',
+  'htmlFormattedUrl': 'https://www.healthvermont.gov/',
+  'htmlSnippet': 'The state&#39;s lead agency for public health policy and '
+                 'advocacy. Includes information on programs, publications, '
+                 'health officers and laws.',
+  'htmlTitle': 'Vermont Department of Health',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthvermont.gov/',
+  'pagemap': {'Document': [{'title': 'Home'}],
+              'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
+                                 'width': '225'}],
+              'metatags': [{'fb:app_id': '114960415615366',
+                            'handheldfriendly': 'true',
+                            'mobileoptimized': 'width',
+                            'og:description': "The state's lead agency for "
+                                              'public health policy and '
+                                              'advocacy. Includes information '
+                                              'on programs, publications, '
+                                              'health officers and laws.',
+                            'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
+                            'og:site_name': 'Vermont Department of Health',
+                            'og:title': 'Vermont Department of Health',
+                            'og:type': 'website',
+                            'og:url': 'https://www.healthvermont.gov/',
+                            'viewport': 'width=device-width'}]},
+  'snippet': "The state's lead agency for public health policy and advocacy. "
+             'Includes information on programs, publications, health officers '
+             'and laws.',
+  'title': 'Vermont Department of Health'},
+ {'cacheId': 'cnOFVBk-4psJ',
+  'displayLink': 'www.healthvermont.gov',
+  'formattedUrl': 'https://www.healthvermont.gov/covid-19/symptoms.../treatment-covid-19',
+  'htmlFormattedUrl': 'https://www.healthvermont.gov/covid-19/symptoms.../treatment-covid-19',
+  'htmlSnippet': '... are unable to receive the vaccine, there is a '
+                 'long-acting monoclonal treatment available that has received '
+                 'Emergency Use Authorization called <b>Evusheld</b>.',
+  'htmlTitle': 'Treatment for COVID-19 | Vermont Department of Health',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthvermont.gov/covid-19/symptoms-sickness/treatment-covid-19',
+  'pagemap': {'Document': [{'title': 'Treatment for COVID-19'}],
+              'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
+                                 'width': '225'}],
+              'metatags': [{'article:modified_time': '2022-01-11T17:36:56-05:00',
+                            'article:published_time': '2021-12-27T10:25:58-05:00',
+                            'fb:app_id': '114960415615366',
+                            'handheldfriendly': 'true',
+                            'mobileoptimized': 'width',
+                            'og:description': 'See a video describing '
+                                              'treatment options in العربية '
+                                              '(Arabic) | မြန်မာစာ (Burmese) | '
+                                              'Dari / دری | Français (French)| '
+                                              'Kirundi | Maay Maay | नेपाली '
+                                              '(Nepali) | Pashto /پښتو | '
+                                              'Soomaali | Español (Spanish) | '
+                                              'Swahili | Tiếng Việt '
+                                              '(Vietnamese) | American Sign '
+                                              'Language Treatment options are '
+                                              'available for people with '
+                                              'COVID-19 who are considered '
+                                              'high risk, with mild to '
+                                              'moderate symptoms. Your health '
+                                              'care provider will recommend '
+                                              'the best treatment option for '
+                                              'you, based on your symptoms and '
+                                              'your health history.',
+                            'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
+                            'og:site_name': 'Vermont Department of Health',
+                            'og:title': 'Treatment for COVID-19',
+                            'og:type': 'article',
+                            'og:updated_time': '2022-01-11T17:36:56-05:00',
+                            'og:url': 'https://www.healthvermont.gov/covid-19/symptoms-sickness/treatment-covid-19',
+                            'viewport': 'width=device-width'}]},
+  'snippet': '... are unable to receive the vaccine, there is a long-acting '
+             'monoclonal treatment available that has received Emergency Use '
+             'Authorization called Evusheld.',
+  'title': 'Treatment for COVID-19 | Vermont Department of Health'},
+ {'cacheId': 'hVFdvSvYtB0J',
+  'displayLink': 'www.healthvermont.gov',
+  'formattedUrl': 'https://www.healthvermont.gov/covid.../health-care-professionals-guidance',
+  'htmlFormattedUrl': 'https://www.healthvermont.gov/covid.../health-care-professionals-guidance',
+  'htmlSnippet': 'Refer to the Health Alert dated December 30, 2021; To view '
+                 'sites and inventory of <b>Evusheld</b>, Paxlovid and '
+                 'Molnupiravir,&nbsp;...',
+  'htmlTitle': 'Health Care Professionals Guidance | Vermont Department of '
+               'Health',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthvermont.gov/covid-19/health-care-professionals/health-care-professionals-guidance',
+  'pagemap': {'Document': [{'title': 'Health Care Professionals Guidance'}],
+              'cse_image': [{'src': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiOcrKC524YRrgYDRWOuo48rVhcTRsyDpb_-TbQIfuyWarbDS2TtOZMIAO',
+                                 'width': '225'}],
+              'metatags': [{'article:modified_time': '2022-01-11T15:28:14-05:00',
+                            'article:published_time': '2020-10-30T12:02:21-04:00',
+                            'fb:app_id': '114960415615366',
+                            'handheldfriendly': 'true',
+                            'mobileoptimized': 'width',
+                            'og:description': 'Find information for the health '
+                                              'care community, including '
+                                              'health alerts and resources.',
+                            'og:image': 'http://www.healthvermont.gov/sites/all/themes/vdh/images/logo-opengraph.png',
+                            'og:site_name': 'Vermont Department of Health',
+                            'og:title': 'Health Care Professionals Guidance',
+                            'og:type': 'article',
+                            'og:updated_time': '2022-01-11T15:28:14-05:00',
+                            'og:url': 'https://www.healthvermont.gov/covid-19/health-care-professionals/health-care-professionals-guidance',
+                            'viewport': 'width=device-width'}]},
+  'snippet': 'Refer to the Health Alert dated December 30, 2021; To view sites '
+             'and inventory of Evusheld, Paxlovid and Molnupiravir,\xa0...',
+  'title': 'Health Care Professionals Guidance | Vermont Department of Health'}]

@@ -1,146 +1,147 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'ez3_ig6RUeQJ',
-            'displayLink': 'idph.iowa.gov',
-            'formattedUrl': 'https://idph.iowa.gov/Emerging-Health...19.../Pre-Exposure-Prophylaxis',
-            'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health...19.../Pre-Exposure-Prophylaxis',
-            'htmlSnippet': 'A pre-exposure prophylaxis (PrEP) therapy for '
-                           'COVID-19, <b>Evusheld</b> (AstraZeneca), ... '
-                           '<b>Evusheld</b> is a combination of two '
-                           'long-acting monoclonal antibodies&nbsp;...',
-            'htmlTitle': 'Pre-Exposure Prophylaxis',
-            'kind': 'customsearch#result',
-            'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Therapeutics/Pre-Exposure-Prophylaxis',
-            'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
-                                      'name': 'Emerging Health Issues',
-                                      'position': '1'},
-                                     {'item': 'Novel Coronavirus',
-                                      'name': 'Novel Coronavirus',
-                                      'position': '2'},
-                                     {'item': 'COVID-19 Therapeutics',
-                                      'name': 'COVID-19 Therapeutics',
-                                      'position': '3'},
-                                     {'item': 'Pre-Exposure Prophylaxis',
-                                      'name': 'Pre-Exposure Prophylaxis',
-                                      'position': '4'}],
-                        'metatags': [{'rating': 'GENERAL',
-                                      'resource-type': 'DOCUMENT',
-                                      'viewport': 'width=device-width,height=device-height, '
-                                                  'minimum-scale=1.0, '
-                                                  'maximum-scale=1.0'}]},
-            'snippet': 'A pre-exposure prophylaxis (PrEP) therapy for '
-                       'COVID-19, Evusheld (AstraZeneca), ... Evusheld is a '
-                       'combination of two long-acting monoclonal '
-                       'antibodies\xa0...',
-            'title': 'Pre-Exposure Prophylaxis'},
-           {'cacheId': 'eWTNd_lFuZ8J',
-            'displayLink': 'idph.iowa.gov',
-            'formattedUrl': 'https://idph.iowa.gov/Emerging-Health-Issues/...19.../Therapeutics-Table',
-            'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health-Issues/...19.../Therapeutics-Table',
-            'htmlSnippet': '(<b>EVUSHELD</b>). Authorized Use(s), Treatment of '
-                           'mild to moderate symptoms, Treatment of mild to '
-                           'moderate symptoms, Treatment of mild to moderate '
-                           'symptoms&nbsp;...',
-            'htmlTitle': 'Covid-19 Therapeutics Table',
-            'kind': 'customsearch#result',
-            'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Therapeutics/Therapeutics-Table',
-            'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
-                                      'name': 'Emerging Health Issues',
-                                      'position': '1'},
-                                     {'item': 'Novel Coronavirus',
-                                      'name': 'Novel Coronavirus',
-                                      'position': '2'},
-                                     {'item': 'COVID-19 Therapeutics',
-                                      'name': 'COVID-19 Therapeutics',
-                                      'position': '3'},
-                                     {'item': 'Covid-19 Therapeutics Table',
-                                      'name': 'Covid-19 Therapeutics Table',
-                                      'position': '4'}],
-                        'metatags': [{'rating': 'GENERAL',
-                                      'resource-type': 'DOCUMENT',
-                                      'viewport': 'width=device-width,height=device-height, '
-                                                  'minimum-scale=1.0, '
-                                                  'maximum-scale=1.0'}]},
-            'snippet': '(EVUSHELD). Authorized Use(s), Treatment of mild to '
-                       'moderate symptoms, Treatment of mild to moderate '
-                       'symptoms, Treatment of mild to moderate symptoms\xa0'
-                       '...',
-            'title': 'Covid-19 Therapeutics Table'},
-           {'cacheId': 'DgPX7SgYfhwJ',
-            'displayLink': 'idph.iowa.gov',
-            'formattedUrl': 'https://idph.iowa.gov/Emerging-Health.../Information-for-Providers',
-            'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health.../Information-for-Providers',
-            'htmlSnippet': 'Until the national supply of these monoclonal '
-                           'antibodies (mAbs) is sufficient, the Iowa '
-                           'Department of Public Health and the United States '
-                           'government will help&nbsp;...',
-            'htmlTitle': 'Novel Coronavirus - COVID-19 Monoclonal Antibody '
-                         'Therapeutics ...',
-            'kind': 'customsearch#result',
-            'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Monoclonal-Antibody-Therapeutics/Information-for-Providers',
-            'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
-                                      'name': 'Emerging Health Issues',
-                                      'position': '1'},
-                                     {'item': 'Novel Coronavirus',
-                                      'name': 'Novel Coronavirus',
-                                      'position': '2'},
-                                     {'item': 'COVID-19 Monoclonal Antibody '
-                                              'Therapeutics',
-                                      'name': 'COVID-19 Monoclonal Antibody '
-                                              'Therapeutics',
-                                      'position': '3'},
-                                     {'item': 'COVID-19 Monoclonal Antibody '
-                                              'Therapeutics Information for '
-                                              'Providers',
-                                      'name': 'COVID-19 Monoclonal Antibody '
-                                              'Therapeutics Information for '
-                                              'Providers',
-                                      'position': '4'}],
-                        'metatags': [{'rating': 'GENERAL',
-                                      'resource-type': 'DOCUMENT',
-                                      'viewport': 'width=device-width,height=device-height, '
-                                                  'minimum-scale=1.0, '
-                                                  'maximum-scale=1.0'}]},
-            'snippet': 'Until the national supply of these monoclonal '
-                       'antibodies (mAbs) is sufficient, the Iowa Department '
-                       'of Public Health and the United States government will '
-                       'help\xa0...',
-            'title': 'Novel Coronavirus - COVID-19 Monoclonal Antibody '
-                     'Therapeutics ...'},
-           {'cacheId': 'bsT6hd1YNlEJ',
-            'displayLink': 'idph.iowa.gov',
-            'formattedUrl': 'https://idph.iowa.gov/',
-            'htmlFormattedUrl': 'https://idph.iowa.gov/',
-            'htmlSnippet': 'IDPH is seeking eligible applicants to implement '
-                           'strategies that ensure greater equity and access '
-                           'to COVID-19 vaccine by those disproportionately '
-                           'affected by&nbsp;...',
-            'htmlTitle': 'Iowa Department of Public Health - Protecting and '
-                         'Improving the ...',
-            'kind': 'customsearch#result',
-            'link': 'https://idph.iowa.gov/',
-            'pagemap': {'metatags': [{'msvalidate.01': '0ECA564A99515781E8E7BB35C09569A7',
-                                      'rating': 'GENERAL',
-                                      'resource-type': 'DOCUMENT',
-                                      'viewport': 'width=device-width,height=device-height, '
-                                                  'minimum-scale=1.0, '
-                                                  'maximum-scale=1.0'}]},
-            'snippet': 'IDPH is seeking eligible applicants to implement '
-                       'strategies that ensure greater equity and access to '
-                       'COVID-19 vaccine by those disproportionately affected '
-                       'by\xa0...',
-            'title': 'Iowa Department of Public Health - Protecting and '
-                     'Improving the ...'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 4,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'idph.iowa.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '4'}]},
- 'searchInformation': {'totalResults': '4'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'ez3_ig6RUeQJ',
+  'displayLink': 'idph.iowa.gov',
+  'formattedUrl': 'https://idph.iowa.gov/Emerging-Health...19.../Pre-Exposure-Prophylaxis',
+  'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health...19.../Pre-Exposure-Prophylaxis',
+  'htmlSnippet': 'A pre-exposure prophylaxis (PrEP) therapy for COVID-19, '
+                 '<b>Evusheld</b> (AstraZeneca), ... <b>Evusheld</b> is a '
+                 'combination of two long-acting monoclonal '
+                 'antibodies&nbsp;...',
+  'htmlTitle': 'Pre-Exposure Prophylaxis',
+  'kind': 'customsearch#result',
+  'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Therapeutics/Pre-Exposure-Prophylaxis',
+  'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
+                            'name': 'Emerging Health Issues',
+                            'position': '1'},
+                           {'item': 'Novel Coronavirus',
+                            'name': 'Novel Coronavirus',
+                            'position': '2'},
+                           {'item': 'COVID-19 Therapeutics',
+                            'name': 'COVID-19 Therapeutics',
+                            'position': '3'},
+                           {'item': 'Pre-Exposure Prophylaxis',
+                            'name': 'Pre-Exposure Prophylaxis',
+                            'position': '4'}],
+              'metatags': [{'rating': 'GENERAL',
+                            'resource-type': 'DOCUMENT',
+                            'viewport': 'width=device-width,height=device-height, '
+                                        'minimum-scale=1.0, '
+                                        'maximum-scale=1.0'}]},
+  'snippet': 'A pre-exposure prophylaxis (PrEP) therapy for COVID-19, Evusheld '
+             '(AstraZeneca), ... Evusheld is a combination of two long-acting '
+             'monoclonal antibodies\xa0...',
+  'title': 'Pre-Exposure Prophylaxis'},
+ {'cacheId': 'eWTNd_lFuZ8J',
+  'displayLink': 'idph.iowa.gov',
+  'formattedUrl': 'https://idph.iowa.gov/Emerging-Health-Issues/...19.../Therapeutics-Table',
+  'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health-Issues/...19.../Therapeutics-Table',
+  'htmlSnippet': '(<b>EVUSHELD</b>). Authorized Use(s), Treatment of mild to '
+                 'moderate symptoms, Treatment of mild to moderate symptoms, '
+                 'Treatment of mild to moderate symptoms&nbsp;...',
+  'htmlTitle': 'Covid-19 Therapeutics Table',
+  'kind': 'customsearch#result',
+  'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Therapeutics/Therapeutics-Table',
+  'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
+                            'name': 'Emerging Health Issues',
+                            'position': '1'},
+                           {'item': 'Novel Coronavirus',
+                            'name': 'Novel Coronavirus',
+                            'position': '2'},
+                           {'item': 'COVID-19 Therapeutics',
+                            'name': 'COVID-19 Therapeutics',
+                            'position': '3'},
+                           {'item': 'Covid-19 Therapeutics Table',
+                            'name': 'Covid-19 Therapeutics Table',
+                            'position': '4'}],
+              'metatags': [{'rating': 'GENERAL',
+                            'resource-type': 'DOCUMENT',
+                            'viewport': 'width=device-width,height=device-height, '
+                                        'minimum-scale=1.0, '
+                                        'maximum-scale=1.0'}]},
+  'snippet': '(EVUSHELD). Authorized Use(s), Treatment of mild to moderate '
+             'symptoms, Treatment of mild to moderate symptoms, Treatment of '
+             'mild to moderate symptoms\xa0...',
+  'title': 'Covid-19 Therapeutics Table'},
+ {'cacheId': 'DgPX7SgYfhwJ',
+  'displayLink': 'idph.iowa.gov',
+  'formattedUrl': 'https://idph.iowa.gov/Emerging-Health.../Information-for-Providers',
+  'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health.../Information-for-Providers',
+  'htmlSnippet': 'Until the national supply of these monoclonal antibodies '
+                 '(mAbs) is sufficient, the Iowa Department of Public Health '
+                 'and the United States government will help&nbsp;...',
+  'htmlTitle': 'Novel Coronavirus - COVID-19 Monoclonal Antibody Therapeutics '
+               '...',
+  'kind': 'customsearch#result',
+  'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Monoclonal-Antibody-Therapeutics/Information-for-Providers',
+  'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
+                            'name': 'Emerging Health Issues',
+                            'position': '1'},
+                           {'item': 'Novel Coronavirus',
+                            'name': 'Novel Coronavirus',
+                            'position': '2'},
+                           {'item': 'COVID-19 Monoclonal Antibody Therapeutics',
+                            'name': 'COVID-19 Monoclonal Antibody Therapeutics',
+                            'position': '3'},
+                           {'item': 'COVID-19 Monoclonal Antibody Therapeutics '
+                                    'Information for Providers',
+                            'name': 'COVID-19 Monoclonal Antibody Therapeutics '
+                                    'Information for Providers',
+                            'position': '4'}],
+              'metatags': [{'rating': 'GENERAL',
+                            'resource-type': 'DOCUMENT',
+                            'viewport': 'width=device-width,height=device-height, '
+                                        'minimum-scale=1.0, '
+                                        'maximum-scale=1.0'}]},
+  'snippet': 'Until the national supply of these monoclonal antibodies (mAbs) '
+             'is sufficient, the Iowa Department of Public Health and the '
+             'United States government will help\xa0...',
+  'title': 'Novel Coronavirus - COVID-19 Monoclonal Antibody Therapeutics ...'},
+ {'cacheId': 'bsT6hd1YNlEJ',
+  'displayLink': 'idph.iowa.gov',
+  'formattedUrl': 'https://idph.iowa.gov/',
+  'htmlFormattedUrl': 'https://idph.iowa.gov/',
+  'htmlSnippet': 'IDPH is seeking eligible applicants to implement strategies '
+                 'that ensure greater equity and access to COVID-19 vaccine by '
+                 'those disproportionately affected by&nbsp;...',
+  'htmlTitle': 'Iowa Department of Public Health - Protecting and Improving '
+               'the ...',
+  'kind': 'customsearch#result',
+  'link': 'https://idph.iowa.gov/',
+  'pagemap': {'metatags': [{'msvalidate.01': '0ECA564A99515781E8E7BB35C09569A7',
+                            'rating': 'GENERAL',
+                            'resource-type': 'DOCUMENT',
+                            'viewport': 'width=device-width,height=device-height, '
+                                        'minimum-scale=1.0, '
+                                        'maximum-scale=1.0'}]},
+  'snippet': 'IDPH is seeking eligible applicants to implement strategies that '
+             'ensure greater equity and access to COVID-19 vaccine by those '
+             'disproportionately affected by\xa0...',
+  'title': 'Iowa Department of Public Health - Protecting and Improving the '
+           '...'},
+ {'cacheId': 'eBHSyqziR_cJ',
+  'displayLink': 'idph.iowa.gov',
+  'formattedUrl': 'https://idph.iowa.gov/Emerging-Health-Issues/.../COVID-19-Therapeutics',
+  'htmlFormattedUrl': 'https://idph.iowa.gov/Emerging-Health-Issues/.../COVID-19-Therapeutics',
+  'htmlSnippet': 'Tixagevimab/Cilgavimab (<b>EVUSHELD</b>) - these work by '
+                 'supplying antibodies to resist breakdown in cells. This is '
+                 'administered as an intramuscular injection.',
+  'htmlTitle': 'COVID-19 Therapeutics',
+  'kind': 'customsearch#result',
+  'link': 'https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Therapeutics',
+  'pagemap': {'listitem': [{'item': 'Emerging Health Issues',
+                            'name': 'Emerging Health Issues',
+                            'position': '1'},
+                           {'item': 'Novel Coronavirus',
+                            'name': 'Novel Coronavirus',
+                            'position': '2'},
+                           {'item': 'COVID-19 Therapeutics',
+                            'name': 'COVID-19 Therapeutics',
+                            'position': '3'}],
+              'metatags': [{'rating': 'GENERAL',
+                            'resource-type': 'DOCUMENT',
+                            'viewport': 'width=device-width,height=device-height, '
+                                        'minimum-scale=1.0, '
+                                        'maximum-scale=1.0'}]},
+  'snippet': 'Tixagevimab/Cilgavimab (EVUSHELD) - these work by supplying '
+             'antibodies to resist breakdown in cells. This is administered as '
+             'an intramuscular injection.',
+  'title': 'COVID-19 Therapeutics'}]

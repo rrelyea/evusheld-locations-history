@@ -1,203 +1,195 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'GZ6S-aGlSLQJ',
-            'displayLink': 'www.dshs.texas.gov',
-            'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics-providers.aspx',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics-providers.aspx',
-            'htmlSnippet': '12/27/21 Weekly News Digest: BAM/ETE and REGEN-COV '
-                           'Ordering/Shipping Freeze; <b>Evusheld</b> EUA; '
-                           'Holiday Delivery Schedule; etc. (PDF); 12/23/21 '
-                           'DSHS letter to&nbsp;...',
-            'htmlTitle': 'COVID-19 Therapeutics Providers',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/coronavirus/therapeutics-providers.aspx',
-            'pagemap': {'metatags': [{'author': 'Texas Department of State '
-                                                'Health Services'}]},
-            'snippet': '12/27/21 Weekly News Digest: BAM/ETE and REGEN-COV '
-                       'Ordering/Shipping Freeze; Evusheld EUA; Holiday '
-                       'Delivery Schedule; etc. (PDF); 12/23/21 DSHS letter '
-                       'to\xa0...',
-            'title': 'COVID-19 Therapeutics Providers'},
-           {'cacheId': 'XbCn1xkqTBEJ',
-            'displayLink': 'www.dshs.texas.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.dshs.texas.gov/.../RecentlyAuthorizedCOVID19Therapeutics.pdf',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/.../RecentlyAuthorizedCOVID19Therapeutics.pdf',
-            'htmlSnippet': 'Dec 29, 2021 <b>...</b> <b>Evusheld</b> '
-                           'Distribution and Use. DSHS has been allocated '
-                           'limited quantities of this monoclonal antibody for '
-                           'pre-exposure prophylaxis for&nbsp;...',
-            'htmlTitle': 'Recently Authorized Therapeutics for COVID-19 '
-                         '(12/29/2021)',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/coronavirus/docs/therapeutics/RecentlyAuthorizedCOVID19Therapeutics.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'metatags': [{'author': 'Texas Department of State '
-                                                'Health Services',
-                                      'contenttypeid': '0x010100866B290C23D96E458CB5BA278A404CCD',
-                                      'creationdate': "D:20211229102420-06'00'",
-                                      'creator': 'Acrobat PDFMaker 20 for Word',
-                                      'moddate': "D:20211229125932-06'00'",
-                                      'producer': 'Adobe PDF Library 20.12.80',
-                                      'sourcemodified': 'D:20211229162252',
-                                      'title': 'Recently Authorized '
-                                               'Therapeutics for COVID-19 '
-                                               '(12/29/2021)'}]},
-            'snippet': 'Dec 29, 2021 ... Evusheld Distribution and Use. DSHS '
-                       'has been allocated limited quantities of this '
-                       'monoclonal antibody for pre-exposure prophylaxis '
-                       'for\xa0...',
-            'title': 'Recently Authorized Therapeutics for COVID-19 '
-                     '(12/29/2021)'},
-           {'cacheId': 'LMGZHXXbVGEJ',
-            'displayLink': 'www.dshs.texas.gov',
-            'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/healthprof.aspx',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/healthprof.aspx',
-            'htmlSnippet': 'Evaluating Patients; Resources for Pharmacies; '
-                           'Preparedness Tools; Resources for Nursing Homes '
-                           '&amp; Long Term Care; Hospital Reporting '
-                           'Requirements; Postmortem&nbsp;...',
-            'htmlTitle': 'Information for Hospitals &amp; Healthcare '
-                         'Professionals',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/coronavirus/healthprof.aspx',
-            'pagemap': {'metatags': [{'author': 'Texas Department of State '
-                                                'Health Services'}]},
-            'snippet': 'Evaluating Patients; Resources for Pharmacies; '
-                       'Preparedness Tools; Resources for Nursing Homes & Long '
-                       'Term Care; Hospital Reporting Requirements; '
-                       'Postmortem\xa0...',
-            'title': 'Information for Hospitals & Healthcare Professionals'},
-           {'cacheId': 'NjNvLLEw1vEJ',
-            'displayLink': 'www.dshs.texas.gov',
-            'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics.aspx',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics.aspx',
-            'htmlSnippet': 'Nov 22, 2021 <b>...</b> Monoclonal antibody '
-                           'therapy may help certain people avoid getting very '
-                           'sick and hospitalized with COVID-19. You may '
-                           'qualify for monoclonal&nbsp;...',
-            'htmlTitle': 'COVID-19 Therapeutics Information',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/coronavirus/therapeutics.aspx',
-            'pagemap': {'cse_image': [{'src': 'https://www.dshs.texas.gov/uploadedImages/Content/Consumer_and_External_Affairs/coronavirus/toolkit/therapeutics/mabtherapy-eligibility-sp.jpg'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj0g1S-AAeA1t-lk81tctUmPhK1I8UagV-3ea_zxoRxc9_NLHtlZ02rDU',
-                                           'width': '225'}],
-                        'metatags': [{'author': 'Texas Department of State '
-                                                'Health Services'}]},
-            'snippet': 'Nov 22, 2021 ... Monoclonal antibody therapy may help '
-                       'certain people avoid getting very sick and '
-                       'hospitalized with COVID-19. You may qualify for '
-                       'monoclonal\xa0...',
-            'title': 'COVID-19 Therapeutics Information'},
-           {'cacheId': 'ta1hKz-4pzQJ',
-            'displayLink': 'www.dshs.texas.gov',
-            'formattedUrl': 'https://www.dshs.texas.gov/news/releases/2021/20211227.aspx',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/news/releases/2021/20211227.aspx',
-            'htmlSnippet': 'News Release Dec. 27, 2021. The federal government '
-                           'controls the distribution of monoclonal '
-                           'antibodies, and the regional infusion centers in '
-                           'Austin, El Paso,&nbsp;...',
-            'htmlTitle': 'Statement on Monoclonal Antibody Availability',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/news/releases/2021/20211227.aspx',
-            'pagemap': {'cse_image': [{'src': 'https://www.dshs.texas.gov/uploadedImages/Content/Regional_and_Local_Health/rls/images/dshs-regions-button.png'}],
-                        'cse_thumbnail': [{'height': '75',
-                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzd-FyAYezJGwRwd2pRvthVWTGxXLB72qFDVelMApoJyvg_Ds3sOB2KA',
-                                           'width': '280'}],
-                        'metatags': [{'author': 'Texas Department of State '
-                                                'Health Services'}]},
-            'snippet': 'News Release Dec. 27, 2021. The federal government '
-                       'controls the distribution of monoclonal antibodies, '
-                       'and the regional infusion centers in Austin, El '
-                       'Paso,\xa0...',
-            'title': 'Statement on Monoclonal Antibody Availability'},
-           {'cacheId': 'eRChnAt0KH0J',
-            'displayLink': 'www.dshs.texas.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/docs/.../TheraDigest_27DEC2021. '
-                            'pdf',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/docs/.../TheraDigest_27DEC2021. '
-                                'pdf',
-            'htmlSnippet': 'Dec 27, 2021 <b>...</b> The EUA allows healthcare '
-                           'providers to administer. <b>EVUSHELD</b> (AZD7442) '
-                           'for pre-exposure prophylaxis (PrEP) of symptomatic '
-                           'COVID-19, prior to&nbsp;...',
-            'htmlTitle': 'COVID-19 Therapeutics Provider Weekly News Digest '
-                         'COVID-19 ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/coronavirus/docs/therapeutics/TheraDigest_27DEC2021.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'metatags': [{'author': 'Ellen',
-                                      'creationdate': "D:20211228144738-06'00'",
-                                      'creator': 'Acrobat PDFMaker 20 for Word',
-                                      'moddate': "D:20211228144808-06'00'",
-                                      'producer': 'Adobe PDF Library 20.12.80',
-                                      'sourcemodified': 'D:20211228202821'}]},
-            'snippet': 'Dec 27, 2021 ... The EUA allows healthcare providers '
-                       'to administer. EVUSHELD (AZD7442) for pre-exposure '
-                       'prophylaxis (PrEP) of symptomatic COVID-19, prior '
-                       'to\xa0...',
-            'title': 'COVID-19 Therapeutics Provider Weekly News Digest '
-                     'COVID-19 ...'},
-           {'cacheId': 'HUxU1NmZHUsJ',
-            'displayLink': 'www.dshs.texas.gov',
-            'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/immunize/evap.aspx',
-            'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/immunize/evap.aspx',
-            'htmlSnippet': 'Dec 28, 2020 <b>...</b> Chair, Imelda Garcia, '
-                           'Associate Commissioner for Laboratory and '
-                           'Infectious Disease Services, DSHS; The Honorable '
-                           'Lois Kolkhorst, Texas Senate&nbsp;...',
-            'htmlTitle': 'COVID-19 Expert Vaccine Allocation Panel',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dshs.texas.gov/coronavirus/immunize/evap.aspx',
-            'pagemap': {'metatags': [{'author': 'Texas Department of State '
-                                                'Health Services'}]},
-            'snippet': 'Dec 28, 2020 ... Chair, Imelda Garcia, Associate '
-                       'Commissioner for Laboratory and Infectious Disease '
-                       'Services, DSHS; The Honorable Lois Kolkhorst, Texas '
-                       'Senate\xa0...',
-            'title': 'COVID-19 Expert Vaccine Allocation Panel'},
-           {'cacheId': 'SzIbleYlV7QJ',
-            'displayLink': 'www.hhs.texas.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.hhs.texas.gov/.../how-request-monoclonal-anitbodies.pdf',
-            'htmlFormattedUrl': 'https://www.hhs.texas.gov/.../how-request-monoclonal-anitbodies.pdf',
-            'htmlSnippet': 'Monoclonal antibodies are laboratory-produced '
-                           'molecules that act as substitute antibodies to '
-                           'restore, enhance, or mimic the immune '
-                           'system&#39;s.',
-            'htmlTitle': 'How To Request Monoclonal Antibodies',
-            'kind': 'customsearch#result',
-            'link': 'https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/long-term-care/nf/how-request-monoclonal-anitbodies.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'metatags': [{'author': 'Texas Health and Human '
-                                                'Services',
-                                      'comments': 'Template version 3/2/2020',
-                                      'company': 'HHS',
-                                      'creationdate': "D:20210201165022-06'00'",
-                                      'creator': 'Acrobat PDFMaker 20 for Word',
-                                      'moddate': "D:20210201170904-06'00'",
-                                      'producer': 'Adobe PDF Library 20.6.74',
-                                      'sourcemodified': 'D:20210201225003',
-                                      'subject': 'How To Request Monoclonal '
-                                                 'Antibodies',
-                                      'title': 'How To Request Monoclonal '
-                                               'Antibodies'}]},
-            'snippet': 'Monoclonal antibodies are laboratory-produced '
-                       'molecules that act as substitute antibodies to '
-                       "restore, enhance, or mimic the immune system's.",
-            'title': 'How To Request Monoclonal Antibodies'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 8,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'texas.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '8'}]},
- 'searchInformation': {'totalResults': '8'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'GZ6S-aGlSLQJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics-providers.aspx',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics-providers.aspx',
+  'htmlSnippet': '12/27/21 Weekly News Digest: BAM/ETE and REGEN-COV '
+                 'Ordering/Shipping Freeze; <b>Evusheld</b> EUA; Holiday '
+                 'Delivery Schedule; etc. (PDF); 12/23/21 DSHS letter '
+                 'to&nbsp;...',
+  'htmlTitle': 'COVID-19 Therapeutics Providers',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/therapeutics-providers.aspx',
+  'pagemap': {'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services'}]},
+  'snippet': '12/27/21 Weekly News Digest: BAM/ETE and REGEN-COV '
+             'Ordering/Shipping Freeze; Evusheld EUA; Holiday Delivery '
+             'Schedule; etc. (PDF); 12/23/21 DSHS letter to\xa0...',
+  'title': 'COVID-19 Therapeutics Providers'},
+ {'cacheId': 'XbCn1xkqTBEJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.dshs.texas.gov/.../RecentlyAuthorizedCOVID19Therapeutics.pdf',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/.../RecentlyAuthorizedCOVID19Therapeutics.pdf',
+  'htmlSnippet': 'Dec 29, 2021 <b>...</b> <b>Evusheld</b> Distribution and '
+                 'Use. DSHS has been allocated limited quantities of this '
+                 'monoclonal antibody for pre-exposure prophylaxis '
+                 'for&nbsp;...',
+  'htmlTitle': 'Recently Authorized Therapeutics for COVID-19 (12/29/2021)',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/docs/therapeutics/RecentlyAuthorizedCOVID19Therapeutics.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services',
+                            'contenttypeid': '0x010100866B290C23D96E458CB5BA278A404CCD',
+                            'creationdate': "D:20211229102420-06'00'",
+                            'creator': 'Acrobat PDFMaker 20 for Word',
+                            'moddate': "D:20211229125932-06'00'",
+                            'producer': 'Adobe PDF Library 20.12.80',
+                            'sourcemodified': 'D:20211229162252',
+                            'title': 'Recently Authorized Therapeutics for '
+                                     'COVID-19 (12/29/2021)'}]},
+  'snippet': 'Dec 29, 2021 ... Evusheld Distribution and Use. DSHS has been '
+             'allocated limited quantities of this monoclonal antibody for '
+             'pre-exposure prophylaxis for\xa0...',
+  'title': 'Recently Authorized Therapeutics for COVID-19 (12/29/2021)'},
+ {'cacheId': 'LMGZHXXbVGEJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/healthprof.aspx',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/healthprof.aspx',
+  'htmlSnippet': 'Evaluating Patients; Resources for Pharmacies; Preparedness '
+                 'Tools; Resources for Nursing Homes &amp; Long Term Care; '
+                 'Hospital Reporting Requirements; Postmortem&nbsp;...',
+  'htmlTitle': 'Information for Hospitals &amp; Healthcare Professionals',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/healthprof.aspx',
+  'pagemap': {'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services'}]},
+  'snippet': 'Evaluating Patients; Resources for Pharmacies; Preparedness '
+             'Tools; Resources for Nursing Homes & Long Term Care; Hospital '
+             'Reporting Requirements; Postmortem\xa0...',
+  'title': 'Information for Hospitals & Healthcare Professionals'},
+ {'cacheId': 'NjNvLLEw1vEJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics.aspx',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/therapeutics.aspx',
+  'htmlSnippet': 'Nov 22, 2021 <b>...</b> Monoclonal antibody therapy may help '
+                 'certain people avoid getting very sick and hospitalized with '
+                 'COVID-19. You may qualify for monoclonal&nbsp;...',
+  'htmlTitle': 'COVID-19 Therapeutics Information',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/therapeutics.aspx',
+  'pagemap': {'cse_image': [{'src': 'https://www.dshs.texas.gov/uploadedImages/Content/Consumer_and_External_Affairs/coronavirus/toolkit/therapeutics/mabtherapy-eligibility-sp.jpg'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj0g1S-AAeA1t-lk81tctUmPhK1I8UagV-3ea_zxoRxc9_NLHtlZ02rDU',
+                                 'width': '225'}],
+              'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services'}]},
+  'snippet': 'Nov 22, 2021 ... Monoclonal antibody therapy may help certain '
+             'people avoid getting very sick and hospitalized with COVID-19. '
+             'You may qualify for monoclonal\xa0...',
+  'title': 'COVID-19 Therapeutics Information'},
+ {'cacheId': 'WCvCxROyECgJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.dshs.texas.gov/.../docs/.../Paxlovid-ParticipatingPharmacies.pdf',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/.../docs/.../Paxlovid-ParticipatingPharmacies.pdf',
+  'htmlSnippet': 'Dec 27, 2021 <b>...</b> ALBERTSONS ( i n c l u d e s : S a v '
+                 '- o n , A l b e r t s o n s , T o m  T h u m b , R a n d a l '
+                 'l s , M a r k e t.',
+  'htmlTitle': 'Paxlovid Participating Pharmacies, Week of 12/27/2021',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/docs/therapeutics/Paxlovid-ParticipatingPharmacies.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///27439b66eccd1851c18752dfdff18be1da0933c8b3e87734b0c38afeb49c5a9d'}],
+              'cse_thumbnail': [{'height': '166',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKE8t83bDn0EzZ1wG9SVISJVqBKzl2RL2Zm3ixyXpy-QpWy0elV8ZYVTs',
+                                 'width': '303'}],
+              'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services',
+                            'creationdate': "D:20211229115043-06'00'",
+                            'creator': 'Esri ArcMap 10.8.0.12790',
+                            'moddate': "D:20211229130152-06'00'",
+                            'producer': 'Adobe PDF Library 15.0',
+                            'title': 'Paxlovid Participating Pharmacies, Week '
+                                     'of 12/27/2021'}]},
+  'snippet': 'Dec 27, 2021 ... ALBERTSONS ( i n c l u d e s : S a v - o n , A '
+             'l b e r t s o n s , T o m T h u m b , R a n d a l l s , M a r k '
+             'e t.',
+  'title': 'Paxlovid Participating Pharmacies, Week of 12/27/2021'},
+ {'cacheId': 'ta1hKz-4pzQJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'formattedUrl': 'https://www.dshs.texas.gov/news/releases/2021/20211227.aspx',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/news/releases/2021/20211227.aspx',
+  'htmlSnippet': 'News Release Dec. 27, 2021. The federal government controls '
+                 'the distribution of monoclonal antibodies, and the regional '
+                 'infusion centers in Austin, El Paso,&nbsp;...',
+  'htmlTitle': 'Statement on Monoclonal Antibody Availability',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/news/releases/2021/20211227.aspx',
+  'pagemap': {'cse_image': [{'src': 'https://www.dshs.texas.gov/uploadedImages/Content/Regional_and_Local_Health/rls/images/dshs-regions-button.png'}],
+              'cse_thumbnail': [{'height': '75',
+                                 'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzd-FyAYezJGwRwd2pRvthVWTGxXLB72qFDVelMApoJyvg_Ds3sOB2KA',
+                                 'width': '280'}],
+              'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services'}]},
+  'snippet': 'News Release Dec. 27, 2021. The federal government controls the '
+             'distribution of monoclonal antibodies, and the regional infusion '
+             'centers in Austin, El Paso,\xa0...',
+  'title': 'Statement on Monoclonal Antibody Availability'},
+ {'cacheId': 'eRChnAt0KH0J',
+  'displayLink': 'www.dshs.texas.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/docs/.../TheraDigest_27DEC2021. '
+                  'pdf',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/docs/.../TheraDigest_27DEC2021. '
+                      'pdf',
+  'htmlSnippet': 'Dec 27, 2021 <b>...</b> The EUA allows healthcare providers '
+                 'to administer. <b>EVUSHELD</b> (AZD7442) for pre-exposure '
+                 'prophylaxis (PrEP) of symptomatic COVID-19, prior '
+                 'to&nbsp;...',
+  'htmlTitle': 'COVID-19 Therapeutics Provider Weekly News Digest COVID-19 ...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/docs/therapeutics/TheraDigest_27DEC2021.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'author': 'Ellen',
+                            'creationdate': "D:20211228144738-06'00'",
+                            'creator': 'Acrobat PDFMaker 20 for Word',
+                            'moddate': "D:20211228144808-06'00'",
+                            'producer': 'Adobe PDF Library 20.12.80',
+                            'sourcemodified': 'D:20211228202821'}]},
+  'snippet': 'Dec 27, 2021 ... The EUA allows healthcare providers to '
+             'administer. EVUSHELD (AZD7442) for pre-exposure prophylaxis '
+             '(PrEP) of symptomatic COVID-19, prior to\xa0...',
+  'title': 'COVID-19 Therapeutics Provider Weekly News Digest COVID-19 ...'},
+ {'cacheId': 'HUxU1NmZHUsJ',
+  'displayLink': 'www.dshs.texas.gov',
+  'formattedUrl': 'https://www.dshs.texas.gov/coronavirus/immunize/evap.aspx',
+  'htmlFormattedUrl': 'https://www.dshs.texas.gov/coronavirus/immunize/evap.aspx',
+  'htmlSnippet': 'Dec 28, 2020 <b>...</b> Chair, Imelda Garcia, Associate '
+                 'Commissioner for Laboratory and Infectious Disease Services, '
+                 'DSHS; The Honorable Lois Kolkhorst, Texas Senate&nbsp;...',
+  'htmlTitle': 'COVID-19 Expert Vaccine Allocation Panel',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dshs.texas.gov/coronavirus/immunize/evap.aspx',
+  'pagemap': {'metatags': [{'author': 'Texas Department of State Health '
+                                      'Services'}]},
+  'snippet': 'Dec 28, 2020 ... Chair, Imelda Garcia, Associate Commissioner '
+             'for Laboratory and Infectious Disease Services, DSHS; The '
+             'Honorable Lois Kolkhorst, Texas Senate\xa0...',
+  'title': 'COVID-19 Expert Vaccine Allocation Panel'},
+ {'cacheId': 'SzIbleYlV7QJ',
+  'displayLink': 'www.hhs.texas.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.hhs.texas.gov/.../how-request-monoclonal-anitbodies.pdf',
+  'htmlFormattedUrl': 'https://www.hhs.texas.gov/.../how-request-monoclonal-anitbodies.pdf',
+  'htmlSnippet': 'Monoclonal antibodies are laboratory-produced molecules that '
+                 'act as substitute antibodies to restore, enhance, or mimic '
+                 'the immune system&#39;s.',
+  'htmlTitle': 'How To Request Monoclonal Antibodies',
+  'kind': 'customsearch#result',
+  'link': 'https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/long-term-care/nf/how-request-monoclonal-anitbodies.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'author': 'Texas Health and Human Services',
+                            'comments': 'Template version 3/2/2020',
+                            'company': 'HHS',
+                            'creationdate': "D:20210201165022-06'00'",
+                            'creator': 'Acrobat PDFMaker 20 for Word',
+                            'moddate': "D:20210201170904-06'00'",
+                            'producer': 'Adobe PDF Library 20.6.74',
+                            'sourcemodified': 'D:20210201225003',
+                            'subject': 'How To Request Monoclonal Antibodies',
+                            'title': 'How To Request Monoclonal Antibodies'}]},
+  'snippet': 'Monoclonal antibodies are laboratory-produced molecules that act '
+             'as substitute antibodies to restore, enhance, or mimic the '
+             "immune system's.",
+  'title': 'How To Request Monoclonal Antibodies'}]

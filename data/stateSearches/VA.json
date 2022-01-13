@@ -1,483 +1,547 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'VaYa_KwXVcYJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/mabs/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/mabs/',
-            'htmlSnippet': 'Dec 27, 2021 <b>...</b> Pre-exposure prophylaxis '
-                           '(PrEP) against COVID-19 in high-risk patients who '
-                           'meet the EUA criteria for <b>EVUSHELD</b> '
-                           '(tixagevimab and cilgavimab).',
-            'htmlTitle': 'COVID-19 Outpatient Monoclonal Antibody Therapy '
-                         'Resource Center',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/mabs/',
-            'pagemap': {'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png'}],
-                        'cse_thumbnail': [{'height': '150',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3KwA0MG8Gam78r50nreGdsG2Qs5hImsYrjsHWBUL6f0SdG1e08LZI_S14',
-                                           'width': '150'}],
-                        'metatags': [{'article:modified_time': '2022-01-07T22:21:03+00:00',
-                                      'og:description': 'On December\xa027, '
-                                                        '2021, CDC\xa0updated '
-                                                        'and shortened the '
-                                                        'isolation and '
-                                                        'quarantine period\xa0'
-                                                        'for the general '
-                                                        'population. We '
-                                                        'appreciate your '
-                                                        'patience as we update '
-                                                        'VDH websites and '
-                                                        'documents\xa0to '
-                                                        'reflect these '
-                                                        'changes. COVID-19 '
-                                                        'Outpatient Monoclonal '
-                                                        'Antibody Therapy '
-                                                        'Resource Center',
-                                      'og:image': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'Monoclonal Antibodies',
-                                      'og:title': 'COVID-19 Outpatient '
-                                                  'Monoclonal Antibody Therapy '
-                                                  'Resource Center - '
-                                                  'Monoclonal Antibodies',
-                                      'og:type': 'website',
-                                      'og:url': 'https://www.vdh.virginia.gov/mabs/',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': '21 minutes',
-                                      'twitter:label1': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Dec 27, 2021 ... Pre-exposure prophylaxis (PrEP) '
-                       'against COVID-19 in high-risk patients who meet the '
-                       'EUA criteria for EVUSHELD (tixagevimab and '
-                       'cilgavimab).',
-            'title': 'COVID-19 Outpatient Monoclonal Antibody Therapy Resource '
-                     'Center'},
-           {'cacheId': '2FsYBOD_pHEJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/coronavirus/get-the.../health-professionals/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/coronavirus/get-the.../health-professionals/',
-            'htmlSnippet': '12/8/2021 - FDA authorized AstraZeneca&#39;s '
-                           '<b>Evusheld</b> monoclonal antibody combination of '
-                           'tixagevimab and cilgavimab for pre-exposure '
-                           'prophylaxis (prevention) of&nbsp;...',
-            'htmlTitle': 'Health Professionals - Coronavirus',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/',
-            'pagemap': {'BreadcrumbList': [{}],
-                        'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png'}],
-                        'cse_thumbnail': [{'height': '150',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3KwA0MG8Gam78r50nreGdsG2Qs5hImsYrjsHWBUL6f0SdG1e08LZI_S14',
-                                           'width': '150'}],
-                        'metatags': [{'article:modified_time': '2022-01-07T20:36:29+00:00',
-                                      'og:description': 'On December\xa027, '
-                                                        '2021, CDC\xa0updated '
-                                                        'and shortened the '
-                                                        'isolation and '
-                                                        'quarantine period\xa0'
-                                                        'for the general '
-                                                        'population. We '
-                                                        'appreciate your '
-                                                        'patience as we update '
-                                                        'VDH websites and '
-                                                        'documents\xa0to '
-                                                        'reflect these '
-                                                        'changes. Welcome to '
-                                                        'the Health '
-                                                        'Professionals Page, '
-                                                        'where the Virginia '
-                                                        'Department of Health '
-                                                        '(VDH) will provide '
-                                                        'and maintain all '
-                                                        'available and '
-                                                        'up-to-date resources, '
-                                                        "including clinician's "
-                                                        'letters, information '
-                                                        'on […]',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'Coronavirus',
-                                      'og:title': 'Health Professionals - '
-                                                  'Coronavirus',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': '4 minutes',
-                                      'twitter:label1': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': "12/8/2021 - FDA authorized AstraZeneca's Evusheld "
-                       'monoclonal antibody combination of tixagevimab and '
-                       'cilgavimab for pre-exposure prophylaxis (prevention) '
-                       'of\xa0...',
-            'title': 'Health Professionals - Coronavirus'},
-           {'cacheId': 'rgDR_5_WPWUJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
-            'htmlSnippet': 'Your location. Results. 25, 50, 75, 100. Central; '
-                           'Eastern; <b>Evusheld</b>; Molnupiravir; Northern; '
-                           'Northwest; Paxlovid; Southwest&nbsp;...',
-            'htmlTitle': 'COVID-19 Treatment Locator - Monoclonal Antibodies',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
-            'pagemap': {'BreadcrumbList': [{}],
-                        'metatags': [{'article:modified_time': '2022-01-10T13:23:27+00:00',
-                                      'og:description': '*The Locator Tool is '
-                                                        'being updated '
-                                                        'routinely as '
-                                                        'additional sites '
-                                                        'receive therapeutics. '
-                                                        'If you are a provider '
-                                                        'site and would like '
-                                                        'to be listed on the '
-                                                        'COVID-19 Treatment '
-                                                        'Locator, please reach '
-                                                        'out to '
-                                                        'covid19therapeutics@vdh.virginia.gov.* '
-                                                        'The Locator Tool '
-                                                        'provides locations '
-                                                        'that may have '
-                                                        'COVID-19 treatments, '
-                                                        'please note not all '
-                                                        'sites will have '
-                                                        'appointment '
-                                                        'availability or '
-                                                        'treatments […]',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'Monoclonal Antibodies',
-                                      'og:title': 'COVID-19 Treatment Locator '
-                                                  '- Monoclonal Antibodies',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': '1 minute',
-                                      'twitter:label1': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Your location. Results. 25, 50, 75, 100. Central; '
-                       'Eastern; Evusheld; Molnupiravir; Northern; Northwest; '
-                       'Paxlovid; Southwest\xa0...',
-            'title': 'COVID-19 Treatment Locator - Monoclonal Antibodies'},
-           {'cacheId': 'n5OnRWRIhKYJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/.../treatments-are-available-for-covid-19/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../treatments-are-available-for-covid-19/',
-            'htmlSnippet': 'Prevention before exposure, <b>EVUSHELD</b> (PDF) '
-                           '(4 pp, 254KB (monoclonal antibodies), By '
-                           'injection, Every 6 months, Talk to your healthcare '
-                           'provider.',
-            'htmlTitle': 'Treatments are available for COVID-19 - Coronavirus',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/coronavirus/protect-yourself/treatments-are-available-for-covid-19/',
-            'pagemap': {'BreadcrumbList': [{}],
-                        'cse_image': [{'src': 'https://i.ytimg.com/vi/a9ZdqAub0zA/maxresdefault.jpg'}],
-                        'cse_thumbnail': [{'height': '168',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSib1KxIfeUH7L_MRGOz4BwxFyNIBnIS2B3tDzL9a2bLMGp1U5oB8NrwV1-',
-                                           'width': '300'}],
-                        'metatags': [{'article:modified_time': '2022-01-10T17:25:48+00:00',
-                                      'og:description': 'COVID-19 treatments '
-                                                        'can help prevent '
-                                                        'severe illness in '
-                                                        'high-risk patients to '
-                                                        'help keep them out of '
-                                                        'the hospital. Learn '
-                                                        'about your options in '
-                                                        'Virginia.',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'Coronavirus',
-                                      'og:title': 'Treatments are available '
-                                                  'for COVID-19 - Coronavirus',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/coronavirus/protect-yourself/treatments-are-available-for-covid-19/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': '5 minutes',
-                                      'twitter:label1': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Prevention before exposure, EVUSHELD (PDF) (4 pp, '
-                       '254KB (monoclonal antibodies), By injection, Every 6 '
-                       'months, Talk to your healthcare provider.',
-            'title': 'Treatments are available for COVID-19 - Coronavirus'},
-           {'cacheId': 'rnQENlJjmNUJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/covid.../covid-19-vaccine-provider-newsletter/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid.../covid-19-vaccine-provider-newsletter/',
-            'htmlSnippet': 'COVID-19 Vaccine Updates for physicians, VDH '
-                           'VaxMax Updates, Upcoming VDH COVID-19 events and '
-                           'Helpful Resources for Virginia Providers.',
-            'htmlTitle': 'COVID-19 Vaccine Provider Newsletter',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/covid-19-vaccine-provider-newsletter/',
-            'pagemap': {'BreadcrumbList': [{}, {}],
-                        'cse_image': [{'src': 'https://content.govdelivery.com/attachments/fancy_images/VAVDHORCE/2021/04/4352930/vaccine-graphic-shields-horizontal_original.png'}],
-                        'cse_thumbnail': [{'height': '159',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Vp4T4EIyY8KZXxOl0uIjXgxyEqBZwePu354B-rZfdJXVTkU8z8TSAarU',
-                                           'width': '318'}],
-                        'metatags': [{'article:modified_time': '2021-12-09T15:32:37+00:00',
-                                      'og:description': 'COVID-19 Vaccine '
-                                                        'Updates for '
-                                                        'physicians, VDH '
-                                                        'VaxMax Updates, '
-                                                        'Upcoming VDH COVID-19 '
-                                                        'events and Helpful '
-                                                        'Resources for '
-                                                        'Virginia Providers.',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'COVID-19 Vaccine',
-                                      'og:title': 'COVID-19 Vaccine Provider '
-                                                  'Newsletter',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/covid-19-vaccine-provider-newsletter/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'COVID-19 Vaccine Updates for physicians, VDH VaxMax '
-                       'Updates, Upcoming VDH COVID-19 events and Helpful '
-                       'Resources for Virginia Providers.',
-            'title': 'COVID-19 Vaccine Provider Newsletter'},
-           {'cacheId': 'ZaHkT4SrMFwJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/covid-19.../covid-19-provider-newsletter/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19.../covid-19-provider-newsletter/',
-            'htmlSnippet': 'On December 8, FDA granted an EUA to '
-                           'AstraZeneca&#39;s <b>Evusheld</b> (tixagevimab '
-                           'co-packaged with cilgavimab and administered '
-                           'together) for the pre-exposure&nbsp;...',
-            'htmlTitle': 'COVID-19 Provider Newsletter Archives - COVID-19 '
-                         'Vaccine',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/category/covid-19-provider-newsletter/',
-            'pagemap': {'BreadcrumbList': [{}],
-                        'cse_image': [{'src': 'https://content.govdelivery.com/attachments/fancy_images/VAVDHORCE/2021/05/4469040/wastage-guidance-table-5-5-21_original.png'}],
-                        'cse_thumbnail': [{'height': '181',
-                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwQPW4VOw9xn7XFLl598Vy_1KLAdE2AzpCW-50hKSwnTh6DiVMtNhwRsDy',
-                                           'width': '279'}],
-                        'hatomfeed': [{}],
-                        'metatags': [{'og:locale': 'en_US',
-                                      'og:site_name': 'COVID-19 Vaccine',
-                                      'og:title': 'COVID-19 Provider '
-                                                  'Newsletter Archives - '
-                                                  'COVID-19 Vaccine',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/category/covid-19-provider-newsletter/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': "On December 8, FDA granted an EUA to AstraZeneca's "
-                       'Evusheld (tixagevimab co-packaged with cilgavimab and '
-                       'administered together) for the pre-exposure\xa0...',
-            'title': 'COVID-19 Provider Newsletter Archives - COVID-19 '
-                     'Vaccine'},
-           {'cacheId': 'mN6sUrZlDsEJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
-            'htmlSnippet': 'Dec 29, 2021 <b>...</b> <b>EVUSHELD</b> '
-                           '(tixagevimab with cilgavimab, AstraZeneca) is FDA '
-                           'authorized for pre-exposure prophylaxis (PrEP) '
-                           'against COVID-19 in patients aged&nbsp;...',
-            'htmlTitle': 'COVID-19 Update for Virginia - Clinicians',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
-            'pagemap': {'BreadcrumbList': [{}],
-                        'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/134/2018/06/Letterhead-Oliver-e1528813931596.png'}],
-                        'cse_thumbnail': [{'height': '112',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWF-x9mnGTs2WkZ9QBNWd0lx15T38-w-d8puSGUZdat-tSoe-e-VOcDQ',
-                                           'width': '450'}],
-                        'metatags': [{'article:modified_time': '2021-12-29T14:27:50+00:00',
-                                      'og:description': 'COVID-19 Update for '
-                                                        'Virginia December 29, '
-                                                        '2021 Dear Colleague: '
-                                                        'Thank you for your '
-                                                        'continued partnership '
-                                                        'in responding to the '
-                                                        'COVID-19 '
-                                                        'pandemic.\xa0 Please '
-                                                        'visit the Virginia '
-                                                        'Department of Health '
-                                                        '(VDH) website for '
-                                                        'current clinical and '
-                                                        'public health '
-                                                        'guidance, '
-                                                        'epidemiologic data, '
-                                                        'and other '
-                                                        'information.\xa0 '
-                                                        'Updates on the '
-                                                        'following topics are '
-                                                        'included in this '
-                                                        'correspondence: '
-                                                        'Updated and Shortened '
-                                                        '[…]',
-                                      'og:image': 'https://www.vdh.virginia.gov/content/uploads/sites/134/2018/06/Letterhead-Oliver-e1528813931596.png',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'Clinicians',
-                                      'og:title': 'COVID-19 Update for '
-                                                  'Virginia - Clinicians',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': '6 minutes',
-                                      'twitter:label1': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Dec 29, 2021 ... EVUSHELD (tixagevimab with '
-                       'cilgavimab, AstraZeneca) is FDA authorized for '
-                       'pre-exposure prophylaxis (PrEP) against COVID-19 in '
-                       'patients aged\xa0...',
-            'title': 'COVID-19 Update for Virginia - Clinicians'},
-           {'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/',
-            'htmlSnippet': 'The FDA has authorized <b>Evusheld</b>, a '
-                           'combination of two different monoclonal antibodies '
-                           'for emergency use as pre-exposure prophylaxis '
-                           '(prevention before&nbsp;...',
-            'htmlTitle': 'General FAQ - COVID-19 FAQ',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/covid-19-faq/',
-            'pagemap': {'WebPage': [{'dateModified': '2021-06-08T14:02:54Z',
-                                     'datePublished': '2021-01-14T16:18:52Z',
-                                     'inLanguage': 'en-US',
-                                     'name': 'General FAQ - COVID-19 FAQ',
-                                     'url': 'https://www.vdh.virginia.gov/covid-19-faq/'}],
-                        'metatags': [{'article:modified_time': '2021-06-08T14:02:54+00:00',
-                                      'og:description': 'Search Reset Note: '
-                                                        'This information is '
-                                                        'based on currently '
-                                                        'available evidence, '
-                                                        'resources, '
-                                                        'information, '
-                                                        'emergency use '
-                                                        'authorization, and '
-                                                        'expert opinion, and '
-                                                        'is subject to change.',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'COVID-19 FAQ',
-                                      'og:title': 'General FAQ - COVID-19 FAQ',
-                                      'og:type': 'website',
-                                      'og:url': 'https://www.vdh.virginia.gov/covid-19-faq/',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': '1 minute',
-                                      'twitter:label1': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'The FDA has authorized Evusheld, a combination of two '
-                       'different monoclonal antibodies for emergency use as '
-                       'pre-exposure prophylaxis (prevention before\xa0...',
-            'title': 'General FAQ - COVID-19 FAQ'},
-           {'cacheId': 'mmT-9adDgcQJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'formattedUrl': 'https://www.vdh.virginia.gov/.../covid-19-vaccine-providers-newsletter-12- '
-                            '15-2021/',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../covid-19-vaccine-providers-newsletter-12- '
-                                '15-2021/',
-            'htmlSnippet': 'Dec 15, 2021 <b>...</b> The U.S. Government has '
-                           'purchased doses of <b>Evusheld</b>. From '
-                           'communications with the U.S. Department of Health '
-                           'and Human Services (HHS), it appears&nbsp;...',
-            'htmlTitle': 'COVID-19 Vaccine Providers Newsletter 12.15.2021',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/2021/12/15/covid-19-vaccine-providers-newsletter-12-15-2021/',
-            'pagemap': {'BreadcrumbList': [{}],
-                        'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/191/2021/02/VDH-LOGO_NEW_Blue.svg'}],
-                        'cse_thumbnail': [{'height': '101',
-                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiv2xqCO8hZ9tDEQ9w43mfXO00nlvmCEwfSUDI_nhXtgBGUp2Oi1oG9w',
-                                           'width': '500'}],
-                        'hatomfeed': [{}],
-                        'metatags': [{'article:published_time': '2021-12-15T20:11:43+00:00',
-                                      'og:description': 'Virginia Department '
-                                                        'of Health '
-                                                        'vdh.virginia.gov '
-                                                        'December 15, 2021 '
-                                                        'Edition COVID-19 '
-                                                        'Vaccine Updates '
-                                                        'CDC’s-\xa0Interim '
-                                                        'Clinical '
-                                                        'Considerations for '
-                                                        'Use of COVID-19 '
-                                                        'Vaccines Currently '
-                                                        'Approved or '
-                                                        'Authorized in the '
-                                                        'United States\xa0- '
-                                                        'CDC updated guidance '
-                                                        'for use of '
-                                                        'Pfizer-BioNTech '
-                                                        'COVID-19 vaccine as a '
-                                                        'booster dose in '
-                                                        'persons aged 16 years '
-                                                        'and older. Only the '
-                                                        'Pfizer-BioNTech '
-                                                        'COVID-19 vaccine is '
-                                                        'authorized […]',
-                                      'og:image': 'https://www.vdh.virginia.gov/content/uploads/sites/191/2021/02/VDH-LOGO_NEW_Blue.svg',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': 'COVID-19 Vaccine',
-                                      'og:title': 'COVID-19 Vaccine Providers '
-                                                  'Newsletter 12.15.2021 - '
-                                                  'COVID-19 Vaccine',
-                                      'og:type': 'article',
-                                      'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/2021/12/15/covid-19-vaccine-providers-newsletter-12-15-2021/',
-                                      'position': '1',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:data1': 'Daniel Harker',
-                                      'twitter:data2': '14 minutes',
-                                      'twitter:label1': 'Written by',
-                                      'twitter:label2': 'Est. reading time',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Dec 15, 2021 ... The U.S. Government has purchased '
-                       'doses of Evusheld. From communications with the U.S. '
-                       'Department of Health and Human Services (HHS), it '
-                       'appears\xa0...',
-            'title': 'COVID-19 Vaccine Providers Newsletter 12.15.2021'},
-           {'cacheId': 'vP4BAfxM7VgJ',
-            'displayLink': 'www.vdh.virginia.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.vdh.virginia.gov/.../Covid-19-Therapeutics-Update-12-17-2021. '
-                            'pdf',
-            'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../Covid-19-Therapeutics-Update-12-17-2021. '
-                                'pdf',
-            'htmlSnippet': 'Dec 17, 2021 <b>...</b> Monoclonal antibody '
-                           'therapy – all meds have FDA Emergency Use '
-                           'Authorization. ○ One medication for pre-exposure '
-                           'prophylaxis = <b>Evusheld</b>&nbsp;...',
-            'htmlTitle': 'COVID-19 Therapeutics Update VDH Partners Call',
-            'kind': 'customsearch#result',
-            'link': 'https://www.vdh.virginia.gov/content/uploads/sites/8/2021/12/Covid-19-Therapeutics-Update-12-17-2021.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'metatags': [{'creationdate': "D:20211217085746-05'00'",
-                                      'moddate': "D:20211217085746-05'00'"}]},
-            'snippet': 'Dec 17, 2021 ... Monoclonal antibody therapy – all '
-                       'meds have FDA Emergency Use Authorization. ○ One '
-                       'medication for pre-exposure prophylaxis = Evusheld\xa0'
-                       '...',
-            'title': 'COVID-19 Therapeutics Update VDH Partners Call'}],
- 'kind': 'customsearch#search',
- 'queries': {'nextPage': [{'count': 10,
-                           'cx': '37cfbc896668324c4',
-                           'inputEncoding': 'utf8',
-                           'outputEncoding': 'utf8',
-                           'safe': 'off',
-                           'searchTerms': 'evusheld',
-                           'siteSearch': 'virginia.gov',
-                           'startIndex': 11,
-                           'title': 'Google Custom Search - evusheld',
-                           'totalResults': '69'}],
-             'request': [{'count': 10,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'virginia.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '69'}]},
- 'searchInformation': {'totalResults': '69'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'VaYa_KwXVcYJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/mabs/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/mabs/',
+  'htmlSnippet': 'Dec 27, 2021 <b>...</b> December 8, 2021: FDA grants '
+                 'Emergency Use Authorization (EUA) for AstraZeneca monoclonal '
+                 'antibody <b>Evusheld</b> to be used for '
+                 'pre-exposure&nbsp;...',
+  'htmlTitle': 'COVID-19 Outpatient Monoclonal Antibody Therapy Resource '
+               'Center',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/mabs/',
+  'pagemap': {'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png'}],
+              'cse_thumbnail': [{'height': '150',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3KwA0MG8Gam78r50nreGdsG2Qs5hImsYrjsHWBUL6f0SdG1e08LZI_S14',
+                                 'width': '150'}],
+              'metatags': [{'article:modified_time': '2022-01-11T17:37:09+00:00',
+                            'og:description': 'On December\xa027, 2021, CDC\xa0'
+                                              'updated and shortened the '
+                                              'isolation and quarantine '
+                                              'period\xa0for the general '
+                                              'population. We appreciate your '
+                                              'patience as we update VDH '
+                                              'websites and documents\xa0to '
+                                              'reflect these changes. COVID-19 '
+                                              'Outpatient Monoclonal Antibody '
+                                              'Therapy Resource Center',
+                            'og:image': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'Monoclonal Antibodies',
+                            'og:title': 'COVID-19 Outpatient Monoclonal '
+                                        'Antibody Therapy Resource Center - '
+                                        'Monoclonal Antibodies',
+                            'og:type': 'website',
+                            'og:url': 'https://www.vdh.virginia.gov/mabs/',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '21 minutes',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Dec 27, 2021 ... December 8, 2021: FDA grants Emergency Use '
+             'Authorization (EUA) for AstraZeneca monoclonal antibody Evusheld '
+             'to be used for pre-exposure\xa0...',
+  'title': 'COVID-19 Outpatient Monoclonal Antibody Therapy Resource Center'},
+ {'cacheId': '2FsYBOD_pHEJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/coronavirus/get-the.../health-professionals/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/coronavirus/get-the.../health-professionals/',
+  'htmlSnippet': 'FDA authorizes AstraZeneca&#39;s <b>Evusheld</b> for '
+                 'Pre-exposure Prophylaxis of COVID-19 12/8/2021 - FDA '
+                 'authorized AstraZeneca&#39;s <b>Evusheld</b> monoclonal '
+                 'antibody&nbsp;...',
+  'htmlTitle': 'Health Professionals - Coronavirus',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png'}],
+              'cse_thumbnail': [{'height': '150',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3KwA0MG8Gam78r50nreGdsG2Qs5hImsYrjsHWBUL6f0SdG1e08LZI_S14',
+                                 'width': '150'}],
+              'metatags': [{'article:modified_time': '2022-01-11T22:54:29+00:00',
+                            'og:description': 'Welcome to the Health '
+                                              'Professionals Page Virginia '
+                                              'Department of Health’s (VDH)’s '
+                                              'up-to-date resources relevant '
+                                              'for health professionals and '
+                                              'their response to COVID-19 in '
+                                              'Virginia. This page includes '
+                                              'clinician’s letters, '
+                                              'information on infection '
+                                              'prevention, testing, specialty '
+                                              'care, and other COVID-19 '
+                                              'topics. Thank you for your '
+                                              'continued work to protect the '
+                                              'health and well-being of all '
+                                              'Virginians. […]',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'Coronavirus',
+                            'og:title': 'Health Professionals - Coronavirus',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '5 minutes',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': "FDA authorizes AstraZeneca's Evusheld for Pre-exposure "
+             "Prophylaxis of COVID-19 12/8/2021 - FDA authorized AstraZeneca's "
+             'Evusheld monoclonal antibody\xa0...',
+  'title': 'Health Professionals - Coronavirus'},
+ {'cacheId': 'rgDR_5_WPWUJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
+  'htmlSnippet': 'Your location. Results. 25, 50, 75, 100. Central; Eastern; '
+                 '<b>Evusheld</b>; Molnupiravir; Northern; Northwest; '
+                 'Paxlovid; Southwest&nbsp;...',
+  'htmlTitle': 'COVID-19 Treatment Locator - Monoclonal Antibodies',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'metatags': [{'article:modified_time': '2022-01-10T13:23:27+00:00',
+                            'og:description': '*The Locator Tool is being '
+                                              'updated routinely as additional '
+                                              'sites receive therapeutics. If '
+                                              'you are a provider site and '
+                                              'would like to be listed on the '
+                                              'COVID-19 Treatment Locator, '
+                                              'please reach out to '
+                                              'covid19therapeutics@vdh.virginia.gov.* '
+                                              'The Locator Tool provides '
+                                              'locations that may have '
+                                              'COVID-19 treatments, please '
+                                              'note not all sites will have '
+                                              'appointment availability or '
+                                              'treatments […]',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'Monoclonal Antibodies',
+                            'og:title': 'COVID-19 Treatment Locator - '
+                                        'Monoclonal Antibodies',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/mabs/covid-19-treatment-locator/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '1 minute',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Your location. Results. 25, 50, 75, 100. Central; Eastern; '
+             'Evusheld; Molnupiravir; Northern; Northwest; Paxlovid; '
+             'Southwest\xa0...',
+  'title': 'COVID-19 Treatment Locator - Monoclonal Antibodies'},
+ {'cacheId': 'n5OnRWRIhKYJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/.../treatments-are-available-for-covid-19/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../treatments-are-available-for-covid-19/',
+  'htmlSnippet': 'Prevention before exposure, <b>EVUSHELD</b> (PDF) (4 pp, '
+                 '254KB (monoclonal antibodies), By injection, Every 6 months, '
+                 'Talk to your healthcare provider.',
+  'htmlTitle': 'Treatments are available for COVID-19 - Coronavirus',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/coronavirus/protect-yourself/treatments-are-available-for-covid-19/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'cse_image': [{'src': 'https://i.ytimg.com/vi/a9ZdqAub0zA/maxresdefault.jpg'}],
+              'cse_thumbnail': [{'height': '168',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSib1KxIfeUH7L_MRGOz4BwxFyNIBnIS2B3tDzL9a2bLMGp1U5oB8NrwV1-',
+                                 'width': '300'}],
+              'metatags': [{'article:modified_time': '2022-01-10T17:25:48+00:00',
+                            'og:description': 'COVID-19 treatments can help '
+                                              'prevent severe illness in '
+                                              'high-risk patients to help keep '
+                                              'them out of the hospital. Learn '
+                                              'about your options in Virginia.',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'Coronavirus',
+                            'og:title': 'Treatments are available for COVID-19 '
+                                        '- Coronavirus',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/coronavirus/protect-yourself/treatments-are-available-for-covid-19/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '5 minutes',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Prevention before exposure, EVUSHELD (PDF) (4 pp, 254KB '
+             '(monoclonal antibodies), By injection, Every 6 months, Talk to '
+             'your healthcare provider.',
+  'title': 'Treatments are available for COVID-19 - Coronavirus'},
+ {'cacheId': 'rnQENlJjmNUJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/covid.../covid-19-vaccine-provider-newsletter/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid.../covid-19-vaccine-provider-newsletter/',
+  'htmlSnippet': 'COVID-19 Vaccine Updates for physicians, VDH VaxMax Updates, '
+                 'Upcoming VDH COVID-19 events and Helpful Resources for '
+                 'Virginia Providers.',
+  'htmlTitle': 'COVID-19 Vaccine Provider Newsletter',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/covid-19-vaccine-provider-newsletter/',
+  'pagemap': {'BreadcrumbList': [{}, {}],
+              'cse_image': [{'src': 'https://content.govdelivery.com/attachments/fancy_images/VAVDHORCE/2021/04/4352930/vaccine-graphic-shields-horizontal_original.png'}],
+              'cse_thumbnail': [{'height': '159',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Vp4T4EIyY8KZXxOl0uIjXgxyEqBZwePu354B-rZfdJXVTkU8z8TSAarU',
+                                 'width': '318'}],
+              'metatags': [{'article:modified_time': '2021-12-09T15:32:37+00:00',
+                            'og:description': 'COVID-19 Vaccine Updates for '
+                                              'physicians, VDH VaxMax Updates, '
+                                              'Upcoming VDH COVID-19 events '
+                                              'and Helpful Resources for '
+                                              'Virginia Providers.',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'COVID-19 Vaccine',
+                            'og:title': 'COVID-19 Vaccine Provider Newsletter',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/covid-19-vaccine-provider-newsletter/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'COVID-19 Vaccine Updates for physicians, VDH VaxMax Updates, '
+             'Upcoming VDH COVID-19 events and Helpful Resources for Virginia '
+             'Providers.',
+  'title': 'COVID-19 Vaccine Provider Newsletter'},
+ {'cacheId': 'ZaHkT4SrMFwJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/covid-19.../covid-19-provider-newsletter/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19.../covid-19-provider-newsletter/',
+  'htmlSnippet': 'On December 8, FDA granted an EUA to AstraZeneca&#39;s '
+                 '<b>Evusheld</b> (tixagevimab co-packaged with cilgavimab and '
+                 'administered together) for the pre-exposure&nbsp;...',
+  'htmlTitle': 'COVID-19 Provider Newsletter Archives - COVID-19 Vaccine',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/category/covid-19-provider-newsletter/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'cse_image': [{'src': 'https://content.govdelivery.com/attachments/fancy_images/VAVDHORCE/2021/05/4469040/wastage-guidance-table-5-5-21_original.png'}],
+              'cse_thumbnail': [{'height': '181',
+                                 'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwQPW4VOw9xn7XFLl598Vy_1KLAdE2AzpCW-50hKSwnTh6DiVMtNhwRsDy',
+                                 'width': '279'}],
+              'hatomfeed': [{}],
+              'metatags': [{'og:locale': 'en_US',
+                            'og:site_name': 'COVID-19 Vaccine',
+                            'og:title': 'COVID-19 Provider Newsletter Archives '
+                                        '- COVID-19 Vaccine',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/category/covid-19-provider-newsletter/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': "On December 8, FDA granted an EUA to AstraZeneca's Evusheld "
+             '(tixagevimab co-packaged with cilgavimab and administered '
+             'together) for the pre-exposure\xa0...',
+  'title': 'COVID-19 Provider Newsletter Archives - COVID-19 Vaccine'},
+ {'cacheId': 'mN6sUrZlDsEJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
+  'htmlSnippet': 'Dec 29, 2021 <b>...</b> <b>EVUSHELD</b> (tixagevimab with '
+                 'cilgavimab, AstraZeneca) is FDA authorized for pre-exposure '
+                 'prophylaxis (PrEP) against COVID-19 in patients '
+                 'aged&nbsp;...',
+  'htmlTitle': 'COVID-19 Update for Virginia - Clinicians',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/134/2018/06/Letterhead-Oliver-e1528813931596.png'}],
+              'cse_thumbnail': [{'height': '112',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWF-x9mnGTs2WkZ9QBNWd0lx15T38-w-d8puSGUZdat-tSoe-e-VOcDQ',
+                                 'width': '450'}],
+              'metatags': [{'article:modified_time': '2021-12-29T14:27:50+00:00',
+                            'og:description': 'COVID-19 Update for Virginia '
+                                              'December 29, 2021 Dear '
+                                              'Colleague: Thank you for your '
+                                              'continued partnership in '
+                                              'responding to the COVID-19 '
+                                              'pandemic.\xa0 Please visit the '
+                                              'Virginia Department of Health '
+                                              '(VDH) website for current '
+                                              'clinical and public health '
+                                              'guidance, epidemiologic data, '
+                                              'and other information.\xa0 '
+                                              'Updates on the following topics '
+                                              'are included in this '
+                                              'correspondence: Updated and '
+                                              'Shortened […]',
+                            'og:image': 'https://www.vdh.virginia.gov/content/uploads/sites/134/2018/06/Letterhead-Oliver-e1528813931596.png',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'Clinicians',
+                            'og:title': 'COVID-19 Update for Virginia - '
+                                        'Clinicians',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-28/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '6 minutes',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Dec 29, 2021 ... EVUSHELD (tixagevimab with cilgavimab, '
+             'AstraZeneca) is FDA authorized for pre-exposure prophylaxis '
+             '(PrEP) against COVID-19 in patients aged\xa0...',
+  'title': 'COVID-19 Update for Virginia - Clinicians'},
+ {'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/',
+  'htmlSnippet': 'The FDA has authorized <b>Evusheld</b>, a combination of two '
+                 'different monoclonal antibodies for emergency use as '
+                 'pre-exposure prophylaxis (prevention before&nbsp;...',
+  'htmlTitle': 'General FAQ - COVID-19 FAQ',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/covid-19-faq/',
+  'pagemap': {'WebPage': [{'dateModified': '2021-06-08T14:02:54Z',
+                           'datePublished': '2021-01-14T16:18:52Z',
+                           'inLanguage': 'en-US',
+                           'name': 'General FAQ - COVID-19 FAQ',
+                           'url': 'https://www.vdh.virginia.gov/covid-19-faq/'}],
+              'metatags': [{'article:modified_time': '2021-06-08T14:02:54+00:00',
+                            'og:description': 'Search Reset Note: This '
+                                              'information is based on '
+                                              'currently available evidence, '
+                                              'resources, information, '
+                                              'emergency use authorization, '
+                                              'and expert opinion, and is '
+                                              'subject to change.',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'COVID-19 FAQ',
+                            'og:title': 'General FAQ - COVID-19 FAQ',
+                            'og:type': 'website',
+                            'og:url': 'https://www.vdh.virginia.gov/covid-19-faq/',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '1 minute',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'The FDA has authorized Evusheld, a combination of two different '
+             'monoclonal antibodies for emergency use as pre-exposure '
+             'prophylaxis (prevention before\xa0...',
+  'title': 'General FAQ - COVID-19 FAQ'},
+ {'cacheId': 'mmT-9adDgcQJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/.../covid-19-vaccine-providers-newsletter-12- '
+                  '15-2021/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../covid-19-vaccine-providers-newsletter-12- '
+                      '15-2021/',
+  'htmlSnippet': 'Dec 15, 2021 <b>...</b> The U.S. Government has purchased '
+                 'doses of <b>Evusheld</b>. From communications with the U.S. '
+                 'Department of Health and Human Services (HHS), it '
+                 'appears&nbsp;...',
+  'htmlTitle': 'COVID-19 Vaccine Providers Newsletter 12.15.2021',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/covid-19-vaccine/2021/12/15/covid-19-vaccine-providers-newsletter-12-15-2021/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/191/2021/02/VDH-LOGO_NEW_Blue.svg'}],
+              'cse_thumbnail': [{'height': '101',
+                                 'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiv2xqCO8hZ9tDEQ9w43mfXO00nlvmCEwfSUDI_nhXtgBGUp2Oi1oG9w',
+                                 'width': '500'}],
+              'hatomfeed': [{}],
+              'metatags': [{'article:published_time': '2021-12-15T20:11:43+00:00',
+                            'og:description': 'Virginia Department of Health '
+                                              'vdh.virginia.gov December 15, '
+                                              '2021 Edition COVID-19 Vaccine '
+                                              'Updates CDC’s-\xa0Interim '
+                                              'Clinical Considerations for Use '
+                                              'of COVID-19 Vaccines Currently '
+                                              'Approved or Authorized in the '
+                                              'United States\xa0- CDC updated '
+                                              'guidance for use of '
+                                              'Pfizer-BioNTech COVID-19 '
+                                              'vaccine as a booster dose in '
+                                              'persons aged 16 years and '
+                                              'older. Only the Pfizer-BioNTech '
+                                              'COVID-19 vaccine is authorized '
+                                              '[…]',
+                            'og:image': 'https://www.vdh.virginia.gov/content/uploads/sites/191/2021/02/VDH-LOGO_NEW_Blue.svg',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'COVID-19 Vaccine',
+                            'og:title': 'COVID-19 Vaccine Providers Newsletter '
+                                        '12.15.2021 - COVID-19 Vaccine',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/covid-19-vaccine/2021/12/15/covid-19-vaccine-providers-newsletter-12-15-2021/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': 'Daniel Harker',
+                            'twitter:data2': '14 minutes',
+                            'twitter:label1': 'Written by',
+                            'twitter:label2': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Dec 15, 2021 ... The U.S. Government has purchased doses of '
+             'Evusheld. From communications with the U.S. Department of Health '
+             'and Human Services (HHS), it appears\xa0...',
+  'title': 'COVID-19 Vaccine Providers Newsletter 12.15.2021'},
+ {'cacheId': 'vP4BAfxM7VgJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.vdh.virginia.gov/.../Covid-19-Therapeutics-Update-12-17-2021. '
+                  'pdf',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../Covid-19-Therapeutics-Update-12-17-2021. '
+                      'pdf',
+  'htmlSnippet': 'Dec 17, 2021 <b>...</b> Monoclonal antibody therapy – all '
+                 'meds have FDA Emergency Use Authorization. ○ One medication '
+                 'for pre-exposure prophylaxis = <b>Evusheld</b>&nbsp;...',
+  'htmlTitle': 'COVID-19 Therapeutics Update VDH Partners Call',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/content/uploads/sites/8/2021/12/Covid-19-Therapeutics-Update-12-17-2021.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'creationdate': "D:20211217085746-05'00'",
+                            'moddate': "D:20211217085746-05'00'"}]},
+  'snippet': 'Dec 17, 2021 ... Monoclonal antibody therapy – all meds have FDA '
+             'Emergency Use Authorization. ○ One medication for pre-exposure '
+             'prophylaxis = Evusheld\xa0...',
+  'title': 'COVID-19 Therapeutics Update VDH Partners Call'},
+ {'cacheId': 'vP4BAfxM7VgJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.vdh.virginia.gov/.../Covid-19-Therapeutics-Update-12-17-2021. '
+                  'pdf',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../Covid-19-Therapeutics-Update-12-17-2021. '
+                      'pdf',
+  'htmlSnippet': 'Dec 17, 2021 <b>...</b> Monoclonal antibody therapy – all '
+                 'meds have FDA Emergency Use Authorization. ○ One medication '
+                 'for pre-exposure prophylaxis = <b>Evusheld</b>&nbsp;...',
+  'htmlTitle': 'COVID-19 Therapeutics Update VDH Partners Call',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/content/uploads/sites/8/2021/12/Covid-19-Therapeutics-Update-12-17-2021.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'creationdate': "D:20211217085746-05'00'",
+                            'moddate': "D:20211217085746-05'00'"}]},
+  'snippet': 'Dec 17, 2021 ... Monoclonal antibody therapy – all meds have FDA '
+             'Emergency Use Authorization. ○ One medication for pre-exposure '
+             'prophylaxis = Evusheld\xa0...',
+  'title': 'COVID-19 Therapeutics Update VDH Partners Call'},
+ {'cacheId': 'i4qszFMVGdAJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.vdh.virginia.gov/.../VDH_COVID_Partner_Call_Notes_ '
+                  '12172021.pdf',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/.../VDH_COVID_Partner_Call_Notes_ '
+                      '12172021.pdf',
+  'htmlSnippet': 'Dec 17, 2021 <b>...</b> enough immune response, and so, they '
+                 'can get <b>Evusheld</b> for that. The other use for this '
+                 'drug is for people who have gotten a COVID vaccine&nbsp;...',
+  'htmlTitle': 'COVID Partner Call Notes Friday, December 17, 2021 • '
+               'Introduction ...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/content/uploads/sites/8/2021/12/VDH_COVID_Partner_Call_Notes_12172021.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'creationdate': "D:20211217113238-05'00'",
+                            'moddate': "D:20211217113238-05'00'"}]},
+  'snippet': 'Dec 17, 2021 ... enough immune response, and so, they can get '
+             'Evusheld for that. The other use for this drug is for people who '
+             'have gotten a COVID vaccine\xa0...',
+  'title': 'COVID Partner Call Notes Friday, December 17, 2021 • Introduction '
+           '...'},
+ {'cacheId': 'SPt6falIqeoJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest.../therapeutics/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest.../therapeutics/',
+  'htmlSnippet': 'Tixagevimab plus cilgavimab (<b>Evusheld</b>), Authorized by '
+                 'FDA on December 8, 2021, Recommended for pre-exposure '
+                 'prophylaxis of COVID-19 in adults and pediatric&nbsp;...',
+  'htmlTitle': 'Therapeutics - Coronavirus',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/therapeutics/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'cse_image': [{'src': 'https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/STSIcon_Color.png'}],
+              'cse_thumbnail': [{'height': '150',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3KwA0MG8Gam78r50nreGdsG2Qs5hImsYrjsHWBUL6f0SdG1e08LZI_S14',
+                                 'width': '150'}],
+              'metatags': [{'article:modified_time': '2022-01-06T19:18:39+00:00',
+                            'og:description': 'On December\xa027, 2021, CDC\xa0'
+                                              'updated and shortened the '
+                                              'isolation and quarantine '
+                                              'period\xa0for the general '
+                                              'population. We appreciate your '
+                                              'patience as we update VDH '
+                                              'websites and documents\xa0to '
+                                              'reflect these changes. On this '
+                                              'page: Overview of COVID-19 '
+                                              'Therapeutics\xa0 Summary of '
+                                              'Selected COVID-19 Therapeutics '
+                                              'Locating Therapeutics Billing '
+                                              'Information COVID-19 '
+                                              'Therapeutics: Additional '
+                                              'Considerations in Selected '
+                                              'Special Populations Additional '
+                                              'Resources',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'Coronavirus',
+                            'og:title': 'Therapeutics - Coronavirus',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/therapeutics/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': '13 minutes',
+                            'twitter:label1': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Tixagevimab plus cilgavimab (Evusheld), Authorized by FDA on '
+             'December 8, 2021, Recommended for pre-exposure prophylaxis of '
+             'COVID-19 in adults and pediatric\xa0...',
+  'title': 'Therapeutics - Coronavirus'},
+ {'cacheId': 'a1znVGzbVi8J',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/.../covid-19-basics-dropdown/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/.../covid-19-basics-dropdown/',
+  'htmlSnippet': 'Jan 14, 2021 <b>...</b> Where can I get <b>Evusheld</b> '
+                 '(monoclonal antibodies) for pre-exposure prophylaxis? (Last '
+                 'updated 12/29/&nbsp;...',
+  'htmlTitle': 'COVID-19 Basics dropdown - COVID-19 FAQ',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/covid-19-faq/2021/01/14/covid-19-basics-dropdown/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'hatomfeed': [{}],
+              'metatags': [{'article:modified_time': '2022-01-07T20:19:48+00:00',
+                            'article:published_time': '2021-01-14T16:12:39+00:00',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'COVID-19 FAQ',
+                            'og:title': 'COVID-19 Basics dropdown - COVID-19 '
+                                        'FAQ',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/covid-19-faq/2021/01/14/covid-19-basics-dropdown/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': 'Daniel Harker',
+                            'twitter:data2': '1 minute',
+                            'twitter:label1': 'Written by',
+                            'twitter:label2': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Jan 14, 2021 ... Where can I get Evusheld (monoclonal '
+             'antibodies) for pre-exposure prophylaxis? (Last updated '
+             '12/29/\xa0...',
+  'title': 'COVID-19 Basics dropdown - COVID-19 FAQ'},
+ {'cacheId': '70Zs6njNmscJ',
+  'displayLink': 'www.vdh.virginia.gov',
+  'formattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/2021/.../healthcare-providers/',
+  'htmlFormattedUrl': 'https://www.vdh.virginia.gov/covid-19-faq/2021/.../healthcare-providers/',
+  'htmlSnippet': 'Jan 14, 2021 <b>...</b> The FDA has authorized one '
+                 'combination of monoclonal antibodies (<b>Evusheld</b>) for '
+                 'emergency use as pre-exposure prophylaxis (prevention '
+                 'before&nbsp;...',
+  'htmlTitle': 'Healthcare Providers - COVID-19 FAQ',
+  'kind': 'customsearch#result',
+  'link': 'https://www.vdh.virginia.gov/covid-19-faq/2021/01/14/healthcare-providers/',
+  'pagemap': {'BreadcrumbList': [{}],
+              'hatomfeed': [{}],
+              'metatags': [{'article:modified_time': '2021-12-30T17:26:56+00:00',
+                            'article:published_time': '2021-01-14T20:03:09+00:00',
+                            'og:locale': 'en_US',
+                            'og:site_name': 'COVID-19 FAQ',
+                            'og:title': 'Healthcare Providers - COVID-19 FAQ',
+                            'og:type': 'article',
+                            'og:url': 'https://www.vdh.virginia.gov/covid-19-faq/2021/01/14/healthcare-providers/',
+                            'position': '1',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:data1': 'Daniel Harker',
+                            'twitter:data2': '1 minute',
+                            'twitter:label1': 'Written by',
+                            'twitter:label2': 'Est. reading time',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Jan 14, 2021 ... The FDA has authorized one combination of '
+             'monoclonal antibodies (Evusheld) for emergency use as '
+             'pre-exposure prophylaxis (prevention before\xa0...',
+  'title': 'Healthcare Providers - COVID-19 FAQ'}]

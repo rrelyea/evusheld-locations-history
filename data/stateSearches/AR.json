@@ -1,90 +1,71 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'Yq9L6zX2-HMJ',
-            'displayLink': 'www.healthy.arkansas.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.healthy.arkansas.gov/images/.../EVUSHELD_ALLOCATION. '
-                            'pdf',
-            'htmlFormattedUrl': 'https://www.healthy.arkansas.gov/images/.../<b>EVUSHELD</b>_ALLOCATION. '
-                                'pdf',
-            'htmlSnippet': 'State/Territory/. Federal Entity. <b>EVUSHELD</b>. '
-                           'CYCLE 3. (1/3). ARKANSAS. 432. CYCLE 2. (12/27). '
-                           'ARKANSAS. 456. CYCLE 1. (12/17). ARKANSAS.',
-            'htmlTitle': 'CYCLE State/Territory/ Federal Entity '
-                         '<b>EVUSHELD</b> CYCLE 3 (1/3 ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthy.arkansas.gov/images/uploads/pdf/EVUSHELD_ALLOCATION.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'metatags': [{'author': 'Christie Walls',
-                                      'creationdate': "D:20220104090434-06'00'",
-                                      'creator': 'Acrobat PDFMaker 20 for Word',
-                                      'moddate': "D:20220104090435-06'00'",
-                                      'producer': 'Adobe PDF Library 20.4.65',
-                                      'sourcemodified': 'D:20220104150401'}]},
-            'snippet': 'State/Territory/. Federal Entity. EVUSHELD. CYCLE 3. '
-                       '(1/3). ARKANSAS. 432. CYCLE 2. (12/27). ARKANSAS. 456. '
-                       'CYCLE 1. (12/17). ARKANSAS.',
-            'title': 'CYCLE State/Territory/ Federal Entity EVUSHELD CYCLE 3 '
-                     '(1/3 ...'},
-           {'cacheId': 'k0GLIn11fNwJ',
-            'displayLink': 'www.healthy.arkansas.gov',
-            'formattedUrl': 'https://www.healthy.arkansas.gov/.../covid-19-guidance-on-therapeutics',
-            'htmlFormattedUrl': 'https://www.healthy.arkansas.gov/.../covid-19-guidance-on-therapeutics',
-            'htmlSnippet': '<b>Evusheld</b> Cycles: Cycles 1-3. Orders must be '
-                           'placed by COB each Tuesday. The order should be '
-                           'based upon the 7 day average of what your facility '
-                           'uses,&nbsp;...',
-            'htmlTitle': 'COVID-19 Guidance On Therapeutics Arkansas '
-                         'Department of Health',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthy.arkansas.gov/programs-services/topics/covid-19-guidance-on-therapeutics',
-            'pagemap': {'cse_image': [{'src': 'https://www.healthy.arkansas.gov/images/uploads/MABtherapeutics_(5).png'}],
-                        'cse_thumbnail': [{'height': '168',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwdTE4rOoIrogShvLfqaWmDOo1zWzyDlJWnr9FuSm2QGVC8jJylF_74bpY',
-                                           'width': '300'}],
-                        'metatags': [{'msapplication-tilecolor': '#ffffff',
-                                      'msapplication-tileimage': 'https://www.healthy.arkansas.gov/themes/site_themes/default_site/favicon/ms-icon-144x144.png',
-                                      'theme-color': '#ffffff',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1.0'}]},
-            'snippet': 'Evusheld Cycles: Cycles 1-3. Orders must be placed by '
-                       'COB each Tuesday. The order should be based upon the 7 '
-                       'day average of what your facility uses,\xa0...',
-            'title': 'COVID-19 Guidance On Therapeutics Arkansas Department of '
-                     'Health'},
-           {'displayLink': 'www.healthy.arkansas.gov',
-            'formattedUrl': 'https://www.healthy.arkansas.gov/programs.../office-of-chief-science-officer',
-            'htmlFormattedUrl': 'https://www.healthy.arkansas.gov/programs.../office-of-chief-science-officer',
-            'htmlSnippet': 'Mar 10, 2021 <b>...</b> <b>Evusheld</b> Cycles: '
-                           'Cycles 1-3. Orders must be placed by COB each '
-                           'Tuesday. The order should be based upon the 7 day '
-                           'average of what your&nbsp;...',
-            'htmlTitle': 'Arkansas Department of Health',
-            'kind': 'customsearch#result',
-            'link': 'https://www.healthy.arkansas.gov/programs-services/topics/office-of-chief-science-officer',
-            'pagemap': {'cse_image': [{'src': 'https://www.healthy.arkansas.gov/images/uploads/ArBHOP_graphic.png'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxo6BoqnGfM5vkfxceInvJdErB9cwrR70gMZlFLTLpVkfBzDr0Jrm7AFwP',
-                                           'width': '225'}],
-                        'metatags': [{'msapplication-tilecolor': '#ffffff',
-                                      'msapplication-tileimage': 'https://www.healthy.arkansas.gov/themes/site_themes/default_site/favicon/ms-icon-144x144.png',
-                                      'theme-color': '#ffffff',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1.0'}]},
-            'snippet': 'Mar 10, 2021 ... Evusheld Cycles: Cycles 1-3. Orders '
-                       'must be placed by COB each Tuesday. The order should '
-                       'be based upon the 7 day average of what your\xa0...',
-            'title': 'Arkansas Department of Health'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 3,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'arkansas.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '3'}]},
- 'searchInformation': {'totalResults': '3'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'Yq9L6zX2-HMJ',
+  'displayLink': 'www.healthy.arkansas.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.healthy.arkansas.gov/images/.../EVUSHELD_ALLOCATION. '
+                  'pdf',
+  'htmlFormattedUrl': 'https://www.healthy.arkansas.gov/images/.../<b>EVUSHELD</b>_ALLOCATION. '
+                      'pdf',
+  'htmlSnippet': 'State/Territory/. Federal Entity. <b>EVUSHELD</b>. CYCLE 3. '
+                 '(1/3). ARKANSAS. 432. CYCLE 2. (12/27). ARKANSAS. 456. CYCLE '
+                 '1. (12/17). ARKANSAS.',
+  'htmlTitle': 'CYCLE State/Territory/ Federal Entity <b>EVUSHELD</b> CYCLE 3 '
+               '(1/3 ...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthy.arkansas.gov/images/uploads/pdf/EVUSHELD_ALLOCATION.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'author': 'Christie Walls',
+                            'creationdate': "D:20220104090434-06'00'",
+                            'creator': 'Acrobat PDFMaker 20 for Word',
+                            'moddate': "D:20220104090435-06'00'",
+                            'producer': 'Adobe PDF Library 20.4.65',
+                            'sourcemodified': 'D:20220104150401'}]},
+  'snippet': 'State/Territory/. Federal Entity. EVUSHELD. CYCLE 3. (1/3). '
+             'ARKANSAS. 432. CYCLE 2. (12/27). ARKANSAS. 456. CYCLE 1. '
+             '(12/17). ARKANSAS.',
+  'title': 'CYCLE State/Territory/ Federal Entity EVUSHELD CYCLE 3 (1/3 ...'},
+ {'cacheId': 'k0GLIn11fNwJ',
+  'displayLink': 'www.healthy.arkansas.gov',
+  'formattedUrl': 'https://www.healthy.arkansas.gov/.../covid-19-guidance-on-therapeutics',
+  'htmlFormattedUrl': 'https://www.healthy.arkansas.gov/.../covid-19-guidance-on-therapeutics',
+  'htmlSnippet': '<b>Evusheld</b> Cycles: Cycles 1- 4. Orders must be placed '
+                 'by COB each Tuesday. The order should be based upon the 7 '
+                 'day average of what your facility uses,&nbsp;...',
+  'htmlTitle': 'COVID-19 Guidance On Therapeutics Arkansas Department of '
+               'Health',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthy.arkansas.gov/programs-services/topics/covid-19-guidance-on-therapeutics',
+  'pagemap': {'cse_image': [{'src': 'https://www.healthy.arkansas.gov/images/uploads/MABtherapeutics_(5).png'}],
+              'cse_thumbnail': [{'height': '168',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwdTE4rOoIrogShvLfqaWmDOo1zWzyDlJWnr9FuSm2QGVC8jJylF_74bpY',
+                                 'width': '300'}],
+              'metatags': [{'msapplication-tilecolor': '#ffffff',
+                            'msapplication-tileimage': 'https://www.healthy.arkansas.gov/themes/site_themes/default_site/favicon/ms-icon-144x144.png',
+                            'theme-color': '#ffffff',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1.0'}]},
+  'snippet': 'Evusheld Cycles: Cycles 1- 4. Orders must be placed by COB each '
+             'Tuesday. The order should be based upon the 7 day average of '
+             'what your facility uses,\xa0...',
+  'title': 'COVID-19 Guidance On Therapeutics Arkansas Department of Health'},
+ {'displayLink': 'www.healthy.arkansas.gov',
+  'formattedUrl': 'https://www.healthy.arkansas.gov/.../recruitment-and-retention-programs',
+  'htmlFormattedUrl': 'https://www.healthy.arkansas.gov/.../recruitment-and-retention-programs',
+  'htmlSnippet': 'Mar 10, 2021 <b>...</b> <b>Evusheld</b> Cycles: Cycles 1- 4. '
+                 'Orders must be placed by COB each Tuesday. The order should '
+                 'be based upon the 7 day average of what your&nbsp;...',
+  'htmlTitle': 'Arkansas Department of Health',
+  'kind': 'customsearch#result',
+  'link': 'https://www.healthy.arkansas.gov/programs-services/topics/recruitment-and-retention-programs',
+  'pagemap': {'cse_image': [{'src': 'https://www.healthy.arkansas.gov/themes/site_themes/default_site/images/adh-logo.png'}],
+              'cse_thumbnail': [{'height': '112',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3l7M5b4jDdeYAGtNsLGI07YApu64fT2XKXX5POFP3qlrUCHo6wdfwfA',
+                                 'width': '112'}],
+              'metatags': [{'msapplication-tilecolor': '#ffffff',
+                            'msapplication-tileimage': 'https://www.healthy.arkansas.gov/themes/site_themes/default_site/favicon/ms-icon-144x144.png',
+                            'theme-color': '#ffffff',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1.0'}]},
+  'snippet': 'Mar 10, 2021 ... Evusheld Cycles: Cycles 1- 4. Orders must be '
+             'placed by COB each Tuesday. The order should be based upon the 7 '
+             'day average of what your\xa0...',
+  'title': 'Arkansas Department of Health'}]

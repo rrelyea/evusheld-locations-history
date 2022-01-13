@@ -10,23 +10,31 @@ def searchAndSave(filename, site):
   if site == "":
     return
 
-  searchResult = service.cse().list(
+  totalResults = 1
+  startNum = 1
+  items = None
+  while totalResults >= startNum and startNum <= 100:
+    searchResult = service.cse().list(
       q='evusheld',
       cx='37cfbc896668324c4',
-      siteSearch=site
+      siteSearch=site,
+      start=startNum
       ).execute()
  
-  if searchResult['searchInformation']['totalResults'] == '0': 
-    pprint.pprint('no search results for ' + filename)
+    totalResults = int(searchResult['searchInformation']['totalResults'])
+    pprint.pprint(filename + " " + str(startNum) + " " + str(totalResults))
+    if totalResults == 0: 
+      items = "[]"
+    elif items == None:
+      items = searchResult['items']
+    else:
+      items.extend(searchResult['items'])
 
-  searchInfo = searchResult['searchInformation']
-  # remove properties that will cause changes to be detected in file, even if search results are identical.
-  del searchInfo['searchTime']
-  del searchInfo['formattedSearchTime']
-  del searchInfo['formattedTotalResults']
+    startNum = startNum + 10
+
   f=open(targetPath + filename + '.json', 'w+', encoding='utf8')
 
-  pprint.pprint(searchResult, stream=f)
+  pprint.pprint(items, stream=f)
   f.close()
 
 # Loop through all states/territories

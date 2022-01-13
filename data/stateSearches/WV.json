@@ -1,62 +1,65 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'RVa3J5PuCucJ',
-            'displayLink': 'governor.wv.gov',
-            'formattedUrl': 'https://governor.wv.gov/.../COVID-19-UPDATE-Gov.-Justice-provides- '
-                            'update-on-vaccine-distribution%3B-announces-increase-in-monoclonal- '
-                            '...',
-            'htmlFormattedUrl': 'https://governor.wv.gov/.../COVID-19-UPDATE-Gov.-Justice-provides- '
-                                'update-on-vaccine-distribution%3B-announces-increase-in-monoclonal- '
-                                '...',
-            'htmlSnippet': 'Dec 23, 2020 <b>...</b> \u200bCHARLESTON, WV – '
-                           'Gov. Jim Justice joined West Virginia health '
-                           'leaders and other officials today for his latest '
-                           'daily press briefing&nbsp;...',
-            'htmlTitle': 'COVID-19 UPDATE: Gov. Justice provides update on '
-                         'vaccine ...',
-            'kind': 'customsearch#result',
-            'link': 'https://governor.wv.gov/News/press-releases/2020/Pages/COVID-19-UPDATE-Gov.-Justice-provides-update-on-vaccine-distribution%3B-announces-increase-in-monoclonal-antibodies.aspx',
-            'pagemap': {'cse_image': [{'src': 'https://governor.wv.gov/PublishingImages/COVID-19/1223-Covid-19-update-december-23-2020.jpg'}],
-                        'cse_thumbnail': [{'height': '168',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOkyoKxcWM31c5m6UcUkAhnVRSClQdUbBOsNXMWp5pmfPWZ7fuV-TX0PY',
-                                           'width': '300'}],
-                        'metatags': [{'google-translate-customization': '7486d167d7397280-080348131c7a8e67-ga9fa1db8a9048044-10',
-                                      'og:image': 'https://governor.wv.gov/PublishingImages/COVID-19/1223-Covid-19-update-december-23-2020.jpg',
-                                      'og:title': 'COVID-19 UPDATE: Gov. '
-                                                  'Justice provides update on '
-                                                  'vaccine distribution; '
-                                                  'announces increased '
-                                                  'utilization of monoclonal '
-                                                  'antibody treatment',
-                                      'progid': 'SharePoint.WebPartPage.Document',
-                                      'twitter:card': 'summary_large_image',
-                                      'twitter:image': 'https://governor.wv.gov/PublishingImages/COVID-19/1223-Covid-19-update-december-23-2020.jpg',
-                                      'twitter:site': '@WVGovernor',
-                                      'twitter:title': 'COVID-19 UPDATE: Gov. '
-                                                       'Justice provides '
-                                                       'update on vaccine '
-                                                       'distribution; '
-                                                       'announces increased '
-                                                       'utilization of '
-                                                       'monoclonal antibody '
-                                                       'treatment',
-                                      'viewport': 'width=device-width'}]},
-            'snippet': 'Dec 23, 2020 ... \u200bCHARLESTON, WV – Gov. Jim '
-                       'Justice joined West Virginia health leaders and other '
-                       'officials today for his latest daily press briefing\xa0'
-                       '...',
-            'title': 'COVID-19 UPDATE: Gov. Justice provides update on vaccine '
-                     '...'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 1,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'wv.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '1'}]},
- 'searchInformation': {'totalResults': '1'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'RVa3J5PuCucJ',
+  'displayLink': 'governor.wv.gov',
+  'formattedUrl': 'https://governor.wv.gov/.../COVID-19-UPDATE-Gov.-Justice-provides- '
+                  'update-on-vaccine-distribution%3B-announces-increase-in-monoclonal- '
+                  '...',
+  'htmlFormattedUrl': 'https://governor.wv.gov/.../COVID-19-UPDATE-Gov.-Justice-provides- '
+                      'update-on-vaccine-distribution%3B-announces-increase-in-monoclonal- '
+                      '...',
+  'htmlSnippet': 'Dec 23, 2020 <b>...</b> \u200bCHARLESTON, WV – Gov. Jim '
+                 'Justice joined West Virginia health leaders and other '
+                 'officials today for his latest daily press briefing&nbsp;...',
+  'htmlTitle': 'COVID-19 UPDATE: Gov. Justice provides update on vaccine ...',
+  'kind': 'customsearch#result',
+  'link': 'https://governor.wv.gov/News/press-releases/2020/Pages/COVID-19-UPDATE-Gov.-Justice-provides-update-on-vaccine-distribution%3B-announces-increase-in-monoclonal-antibodies.aspx',
+  'pagemap': {'cse_image': [{'src': 'https://governor.wv.gov/PublishingImages/COVID-19/1223-Covid-19-update-december-23-2020.jpg'}],
+              'cse_thumbnail': [{'height': '168',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOkyoKxcWM31c5m6UcUkAhnVRSClQdUbBOsNXMWp5pmfPWZ7fuV-TX0PY',
+                                 'width': '300'}],
+              'metatags': [{'google-translate-customization': '7486d167d7397280-080348131c7a8e67-ga9fa1db8a9048044-10',
+                            'og:image': 'https://governor.wv.gov/PublishingImages/COVID-19/1223-Covid-19-update-december-23-2020.jpg',
+                            'og:title': 'COVID-19 UPDATE: Gov. Justice '
+                                        'provides update on vaccine '
+                                        'distribution; announces increased '
+                                        'utilization of monoclonal antibody '
+                                        'treatment',
+                            'progid': 'SharePoint.WebPartPage.Document',
+                            'twitter:card': 'summary_large_image',
+                            'twitter:image': 'https://governor.wv.gov/PublishingImages/COVID-19/1223-Covid-19-update-december-23-2020.jpg',
+                            'twitter:site': '@WVGovernor',
+                            'twitter:title': 'COVID-19 UPDATE: Gov. Justice '
+                                             'provides update on vaccine '
+                                             'distribution; announces '
+                                             'increased utilization of '
+                                             'monoclonal antibody treatment',
+                            'viewport': 'width=device-width'}]},
+  'snippet': 'Dec 23, 2020 ... \u200bCHARLESTON, WV – Gov. Jim Justice joined '
+             'West Virginia health leaders and other officials today for his '
+             'latest daily press briefing\xa0...',
+  'title': 'COVID-19 UPDATE: Gov. Justice provides update on vaccine ...'},
+ {'cacheId': 'Sh0-J2CT3-gJ',
+  'displayLink': 'oeps.wv.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://oeps.wv.gov/immunizations/documents/.../Administering_Chart.pdf',
+  'htmlFormattedUrl': 'https://oeps.wv.gov/immunizations/documents/.../Administering_Chart.pdf',
+  'htmlSnippet': 'A 5/8&quot; needle may be used for patients weighing less '
+                 'than 130 lbs (&lt;60 kg) for. IM injection in the deltoid '
+                 'muscle only if the skin stretched tight,&nbsp;...',
+  'htmlTitle': 'Administering Vaccines: Dose, Route, Site, and Needle Size',
+  'kind': 'customsearch#result',
+  'link': 'https://oeps.wv.gov/immunizations/documents/vfc/manual/8/Administering_Chart.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///483b9e8dfc85080c1225c7fc05b6d7ab7cb0371210964bf417ef6e6aae8a2100'}],
+              'cse_thumbnail': [{'height': '255',
+                                 'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1EW1vm6_q_IwkrIYmSsXuvLqrmA30XP4lTgJxOvQQEqB7vb5CM2nD0OA',
+                                 'width': '197'}],
+              'metatags': [{'creationdate': "D:20181023124008-05'00'",
+                            'creator': 'Adobe InDesign CS5.5 (7.5)',
+                            'moddate': "D:20190103115206-05'00'",
+                            'producer': 'Adobe PDF Library 9.9',
+                            'title': 'Administering Vaccines: Dose, Route, '
+                                     'Site, and Needle Size'}]},
+  'snippet': 'A 5/8" needle may be used for patients weighing less than 130 '
+             'lbs (<60 kg) for. IM injection in the deltoid muscle only if the '
+             'skin stretched tight,\xa0...',
+  'title': 'Administering Vaccines: Dose, Route, Site, and Needle Size'}]

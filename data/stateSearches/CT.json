@@ -1,99 +1,76 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'NJeGyq75h08J',
-            'displayLink': 'portal.ct.gov',
-            'formattedUrl': 'https://portal.ct.gov/vaccine-portal',
-            'htmlFormattedUrl': 'https://portal.ct.gov/vaccine-portal',
-            'htmlSnippet': 'Booster Shots &middot; Explore Vaccine Options. '
-                           'Vaccines are available through mobile clinics, '
-                           'walk-up locations, homebound programs, and more. '
-                           '&middot; Get Your Immunization&nbsp;...',
-            'htmlTitle': 'Connecticut COVID-19 Vaccine Portal',
-            'kind': 'customsearch#result',
-            'link': 'https://portal.ct.gov/vaccine-portal',
-            'pagemap': {'PageData': [{'metatitle': 'Connecticut COVID-19 '
+[{'cacheId': 'NJeGyq75h08J',
+  'displayLink': 'portal.ct.gov',
+  'formattedUrl': 'https://portal.ct.gov/vaccine-portal',
+  'htmlFormattedUrl': 'https://portal.ct.gov/vaccine-portal',
+  'htmlSnippet': 'Booster Shots &middot; Explore Vaccine Options. Vaccines are '
+                 'available through mobile clinics, walk-up locations, '
+                 'homebound programs, and more. &middot; Get Your '
+                 'Immunization&nbsp;...',
+  'htmlTitle': 'Connecticut COVID-19 Vaccine Portal',
+  'kind': 'customsearch#result',
+  'link': 'https://portal.ct.gov/vaccine-portal',
+  'pagemap': {'PageData': [{'metatitle': 'Connecticut COVID-19 Vaccine Portal',
+                            'type': 'webpages'}],
+              'cse_image': [{'src': 'https://portal.ct.gov/vaccine-portal/-/media/vaccinePortal/homepage/featurecardone.png?sc_lang=en&h=400&w=600&la=en&hash=1F4BB155B05BA6151DFE219CB68F6B27'}],
+              'cse_thumbnail': [{'height': '183',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9-qWDGQy15-94hF_b5r87eyIqZkhZJ7WPDpYFyWrqXzZQINlZKwqmXHY',
+                                 'width': '275'}],
+              'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                            'apple-mobile-web-app-status-bar-style': 'black',
+                            'mobile-web-app-capable': 'yes',
+                            'og:description': 'Connecticut COVID-19 Vaccine '
+                                              'Portal',
+                            'og:locale': 'en',
+                            'og:site_name': 'CT.gov',
+                            'og:title': 'Connecticut COVID-19 Vaccine Portal',
+                            'og:type': 'article',
+                            'og:url': '/vaccine-portal/',
+                            'pagetype': 'webpages',
+                            'twitter:card': 'summary',
+                            'twitter:description': 'Connecticut COVID-19 '
                                                    'Vaccine Portal',
-                                      'type': 'webpages'}],
-                        'cse_image': [{'src': 'https://portal.ct.gov/vaccine-portal/-/media/vaccinePortal/homepage/featurecardone.png?sc_lang=en&h=400&w=600&la=en&hash=1F4BB155B05BA6151DFE219CB68F6B27'}],
-                        'cse_thumbnail': [{'height': '183',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9-qWDGQy15-94hF_b5r87eyIqZkhZJ7WPDpYFyWrqXzZQINlZKwqmXHY',
-                                           'width': '275'}],
-                        'metatags': [{'apple-mobile-web-app-capable': 'yes',
-                                      'apple-mobile-web-app-status-bar-style': 'black',
-                                      'mobile-web-app-capable': 'yes',
-                                      'og:description': 'Connecticut COVID-19 '
-                                                        'Vaccine Portal',
-                                      'og:locale': 'en',
-                                      'og:site_name': 'CT.gov',
-                                      'og:title': 'Connecticut COVID-19 '
-                                                  'Vaccine Portal',
-                                      'og:type': 'article',
-                                      'og:url': '/vaccine-portal/',
-                                      'pagetype': 'webpages',
-                                      'twitter:card': 'summary',
-                                      'twitter:description': 'Connecticut '
-                                                             'COVID-19 Vaccine '
-                                                             'Portal',
-                                      'twitter:title': 'Connecticut COVID-19 '
-                                                       'Vaccine Portal',
-                                      'twitter:url': '/vaccine-portal/',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1, '
-                                                  'maximum-scale=1, '
-                                                  'user-scalable=0'}]},
-            'snippet': 'Booster Shots · Explore Vaccine Options. Vaccines are '
-                       'available through mobile clinics, walk-up locations, '
-                       'homebound programs, and more. · Get Your '
-                       'Immunization\xa0...',
-            'title': 'Connecticut COVID-19 Vaccine Portal'},
-           {'cacheId': 'ytSVasaGk8QJ',
-            'displayLink': 'portal.ct.gov',
-            'formattedUrl': 'https://portal.ct.gov/DPH',
-            'htmlFormattedUrl': 'https://portal.ct.gov/DPH',
-            'htmlSnippet': 'December 22, 2021 – Commissioner&#39;s order: Out '
-                           'of state licensed providers should read this memo '
-                           'from DPH Commissioner Manisha Juthani, MD and note '
-                           'the list&nbsp;...',
-            'htmlTitle': 'Connecticut Department of Public Health',
-            'kind': 'customsearch#result',
-            'link': 'https://portal.ct.gov/DPH',
-            'pagemap': {'PageData': [{'metatitle': 'Connecticut Department of '
-                                                   'Public Health',
-                                      'type': 'webpages'}],
-                        'cse_image': [{'src': 'https://portal.ct.gov/Assets/Images/facebook-default_01.png'}],
-                        'cse_thumbnail': [{'height': '163',
-                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BJLT3Ad0kVGpK6Vd3vKhUy7U0Ptm49v4MjommUvgBXUXU66pa4BC36U',
-                                           'width': '310'}],
-                        'metatags': [{'og:image': 'https://portal.ct.gov/Assets/Images/facebook-default_01.png',
-                                      'og:locale': 'en_US',
-                                      'og:site_name': "CT.gov - Connecticut's "
-                                                      'Official State Website',
-                                      'og:title': 'Connecticut Department of '
-                                                  'Public Health',
-                                      'og:type': 'article',
-                                      'og:url': 'https://portal.ct.gov/DPH',
-                                      'pagetype': 'webpages',
-                                      'twitter:card': 'summary',
-                                      'twitter:title': 'Connecticut Department '
-                                                       'of Public Health',
-                                      'twitter:url': 'https://portal.ct.gov/DPH',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1.0'}]},
-            'snippet': "December 22, 2021 – Commissioner's order: Out of state "
-                       'licensed providers should read this memo from DPH '
-                       'Commissioner Manisha Juthani, MD and note the list\xa0'
-                       '...',
-            'title': 'Connecticut Department of Public Health'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 2,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'ct.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '2'}]},
- 'searchInformation': {'totalResults': '2'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+                            'twitter:title': 'Connecticut COVID-19 Vaccine '
+                                             'Portal',
+                            'twitter:url': '/vaccine-portal/',
+                            'viewport': 'width=device-width, initial-scale=1, '
+                                        'maximum-scale=1, user-scalable=0'}]},
+  'snippet': 'Booster Shots · Explore Vaccine Options. Vaccines are available '
+             'through mobile clinics, walk-up locations, homebound programs, '
+             'and more. · Get Your Immunization\xa0...',
+  'title': 'Connecticut COVID-19 Vaccine Portal'},
+ {'cacheId': 'ytSVasaGk8QJ',
+  'displayLink': 'portal.ct.gov',
+  'formattedUrl': 'https://portal.ct.gov/DPH',
+  'htmlFormattedUrl': 'https://portal.ct.gov/DPH',
+  'htmlSnippet': 'December 22, 2021 – Commissioner&#39;s order: Out of state '
+                 'licensed providers should read this memo from DPH '
+                 'Commissioner Manisha Juthani, MD and note the list&nbsp;...',
+  'htmlTitle': 'Connecticut Department of Public Health',
+  'kind': 'customsearch#result',
+  'link': 'https://portal.ct.gov/DPH',
+  'pagemap': {'PageData': [{'metatitle': 'Connecticut Department of Public '
+                                         'Health',
+                            'type': 'webpages'}],
+              'cse_image': [{'src': 'https://portal.ct.gov/Assets/Images/facebook-default_01.png'}],
+              'cse_thumbnail': [{'height': '163',
+                                 'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BJLT3Ad0kVGpK6Vd3vKhUy7U0Ptm49v4MjommUvgBXUXU66pa4BC36U',
+                                 'width': '310'}],
+              'metatags': [{'og:image': 'https://portal.ct.gov/Assets/Images/facebook-default_01.png',
+                            'og:locale': 'en_US',
+                            'og:site_name': "CT.gov - Connecticut's Official "
+                                            'State Website',
+                            'og:title': 'Connecticut Department of Public '
+                                        'Health',
+                            'og:type': 'article',
+                            'og:url': 'https://portal.ct.gov/DPH',
+                            'pagetype': 'webpages',
+                            'twitter:card': 'summary',
+                            'twitter:title': 'Connecticut Department of Public '
+                                             'Health',
+                            'twitter:url': 'https://portal.ct.gov/DPH',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1.0'}]},
+  'snippet': "December 22, 2021 – Commissioner's order: Out of state licensed "
+             'providers should read this memo from DPH Commissioner Manisha '
+             'Juthani, MD and note the list\xa0...',
+  'title': 'Connecticut Department of Public Health'}]

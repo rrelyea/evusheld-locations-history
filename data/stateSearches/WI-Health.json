@@ -1,121 +1,98 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': '4EPY4jH30SkJ',
-            'displayLink': 'www.dhs.wisconsin.gov',
-            'formattedUrl': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
-            'htmlFormattedUrl': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
-            'htmlSnippet': '6 days ago <b>...</b> <b>Evusheld</b>. Used for '
-                           'prevention (before exposure) of COVID-19; '
-                           'Available to people ages 12 and up with weakened '
-                           'immune systems or those unable&nbsp;...',
-            'htmlTitle': 'COVID-19: Treatments and Medications | Wisconsin '
-                         'Department of ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
-            'pagemap': {'Document': [{'num_replies': '0',
-                                      'title': 'COVID-19: Treatments and '
-                                               'Medications'}],
-                        'Item': [{'num_replies': '0', 'title': 'Logo'},
-                                 {'encoded': 'Topics '
-                                             'A-Z:ABCDEFGHIJKLMNOPQRSTUVWXYZ',
-                                  'num_replies': '0',
-                                  'title': 'A-Z Navigation Bar'},
-                                 {'encoded': 'Topics A-Z',
-                                  'num_replies': '0',
-                                  'title': 'Responsive Topics Button'},
-                                 {'encoded': 'Search',
-                                  'num_replies': '0',
-                                  'title': 'Responsive Search Button'},
-                                 {'encoded': '211 Wisconsin(link is external) '
-                                             'Call 211 or 877-947-2211 to get '
-                                             'referrals for thousands of '
-                                             'services across Wisconsin. For '
-                                             'COVID-19 questions, text COVID '
-                                             'to 211-211. Language assistance '
-                                             'is available...',
-                                  'num_replies': '0',
-                                  'title': 'COVID-19: Resources'}],
-                        'cse_image': [{'src': 'https://www.dhs.wisconsin.gov/sites/default/files/symptoms-ysts.png'}],
-                        'cse_thumbnail': [{'height': '183',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVAMnHvb7iMeTtl495rh2_72_Fub2MapPFvc9M-3mW0LJTo7lhHM6LgzU',
-                                           'width': '275'}],
-                        'metatags': [{'article:modified_time': '2022-01-06T15:26:20-06:00',
-                                      'article:published_time': '2021-12-30T16:15:05-06:00',
-                                      'handheldfriendly': 'true',
-                                      'mobileoptimized': 'width',
-                                      'og:description': '[[{"fid":"132833","view_mode":"default","fields":{"format":"default","field_file_image_title_text[und][0][value]":"Woman '
-                                                        'Coughing Wearing Mask '
-                                                        'YSTS","field_file_image_alt_text[und][0][value]":"Woman '
-                                                        'Coughing Wearing Mask '
-                                                        'YSTS"},"link_text":null,"type":"media","field_deltas":{"5":{"format":"default","field_file_image_title_text[und][0][value]":"Woman '
-                                                        'Coughing Wearing Mask '
-                                                        'YSTS","field_file_image_alt_text[und][0][value]":"Woman '
-                                                        'Coughing Wearing Mask '
-                                                        'YSTS"}},"attributes":{"alt":"Woman '
-                                                        'Coughing Wearing Mask '
-                                                        'YSTS","title":"Woman '
-                                                        'Coughing Wearing Mask '
-                                                        'YSTS","style":"float: '
-                                                        'right; height: 267px; '
-                                                        'w',
-                                      'og:site_name': 'Wisconsin Department of '
-                                                      'Health Services',
-                                      'og:title': 'COVID-19: Treatments and '
-                                                  'Medications',
-                                      'og:type': 'article',
-                                      'og:updated_time': '2022-01-06T15:26:20-06:00',
-                                      'og:url': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
-                                      'viewport': 'width=device-width',
-                                      '”googlebot”': '”nosnippet”'}]},
-            'snippet': '6 days ago ... Evusheld. Used for prevention (before '
-                       'exposure) of COVID-19; Available to people ages 12 and '
-                       'up with weakened immune systems or those unable\xa0...',
-            'title': 'COVID-19: Treatments and Medications | Wisconsin '
-                     'Department of ...'},
-           {'cacheId': 'As5KyPQ6owAJ',
-            'displayLink': 'www.dhs.wisconsin.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.dhs.wisconsin.gov/publications/p02898.pdf',
-            'htmlFormattedUrl': 'https://www.dhs.wisconsin.gov/publications/p02898.pdf',
-            'htmlSnippet': 'Background. The COVID-19 pandemic has revealed the '
-                           'importance of developing and implementing '
-                           'protocols for the distribution of scarce '
-                           'therapeutics in&nbsp;...',
-            'htmlTitle': 'Ethical Framework for the Allocation of Therapeutics '
-                         'for COVID-19 in ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.dhs.wisconsin.gov/publications/p02898.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'cse_image': [{'src': 'x-raw-image:///268422413919e2df765f8a264889e95d3a8da4b015c8e2d40c4013e8193ed823'}],
-                        'cse_thumbnail': [{'height': '201',
-                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz5AU0eoZEkPyNZZGXhZj7zlQ2nyTTUxS3exxZHJ1gyR3OU2blMnKW4nHu',
-                                           'width': '251'}],
-                        'metatags': [{'author': 'DHS',
-                                      'creationdate': 'D:20210126162645Z',
-                                      'creator': 'Acrobat PDFMaker 20 for Word',
-                                      'moddate': 'D:20210126162645Z',
-                                      'producer': 'Adobe PDF Library 20.13.106',
-                                      'sourcemodified': 'D:20210126162642',
-                                      'subject': 'SDMAC',
-                                      'title': 'Ethical Framework for the '
-                                               'Allocation of Therapeutics for '
-                                               'COVID-19 in Wisconsin, '
-                                               'P-02898'}]},
-            'snippet': 'Background. The COVID-19 pandemic has revealed the '
-                       'importance of developing and implementing protocols '
-                       'for the distribution of scarce therapeutics in\xa0...',
-            'title': 'Ethical Framework for the Allocation of Therapeutics for '
-                     'COVID-19 in ...'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 2,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'dhs.wisconsin.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '2'}]},
- 'searchInformation': {'totalResults': '2'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': '4EPY4jH30SkJ',
+  'displayLink': 'www.dhs.wisconsin.gov',
+  'formattedUrl': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
+  'htmlFormattedUrl': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
+  'htmlSnippet': '7 days ago <b>...</b> <b>Evusheld</b>. Used for prevention '
+                 '(before exposure) of COVID-19; Available to people ages 12 '
+                 'and up with weakened immune systems or those unable&nbsp;...',
+  'htmlTitle': 'COVID-19: Treatments and Medications | Wisconsin Department of '
+               '...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
+  'pagemap': {'Document': [{'num_replies': '0',
+                            'title': 'COVID-19: Treatments and Medications'}],
+              'Item': [{'num_replies': '0', 'title': 'Logo'},
+                       {'encoded': 'Topics A-Z:ABCDEFGHIJKLMNOPQRSTUVWXYZ',
+                        'num_replies': '0',
+                        'title': 'A-Z Navigation Bar'},
+                       {'encoded': 'Topics A-Z',
+                        'num_replies': '0',
+                        'title': 'Responsive Topics Button'},
+                       {'encoded': 'Search',
+                        'num_replies': '0',
+                        'title': 'Responsive Search Button'},
+                       {'encoded': '211 Wisconsin(link is external) Call 211 '
+                                   'or 877-947-2211 to get referrals for '
+                                   'thousands of services across Wisconsin. '
+                                   'For COVID-19 questions, text COVID to '
+                                   '211-211. Language assistance is '
+                                   'available...',
+                        'num_replies': '0',
+                        'title': 'COVID-19: Resources'}],
+              'cse_image': [{'src': 'https://www.dhs.wisconsin.gov/sites/default/files/symptoms-ysts.png'}],
+              'cse_thumbnail': [{'height': '183',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVAMnHvb7iMeTtl495rh2_72_Fub2MapPFvc9M-3mW0LJTo7lhHM6LgzU',
+                                 'width': '275'}],
+              'metatags': [{'article:modified_time': '2022-01-06T15:26:20-06:00',
+                            'article:published_time': '2021-12-30T16:15:05-06:00',
+                            'handheldfriendly': 'true',
+                            'mobileoptimized': 'width',
+                            'og:description': '[[{"fid":"132833","view_mode":"default","fields":{"format":"default","field_file_image_title_text[und][0][value]":"Woman '
+                                              'Coughing Wearing Mask '
+                                              'YSTS","field_file_image_alt_text[und][0][value]":"Woman '
+                                              'Coughing Wearing Mask '
+                                              'YSTS"},"link_text":null,"type":"media","field_deltas":{"5":{"format":"default","field_file_image_title_text[und][0][value]":"Woman '
+                                              'Coughing Wearing Mask '
+                                              'YSTS","field_file_image_alt_text[und][0][value]":"Woman '
+                                              'Coughing Wearing Mask '
+                                              'YSTS"}},"attributes":{"alt":"Woman '
+                                              'Coughing Wearing Mask '
+                                              'YSTS","title":"Woman Coughing '
+                                              'Wearing Mask '
+                                              'YSTS","style":"float: right; '
+                                              'height: 267px; w',
+                            'og:site_name': 'Wisconsin Department of Health '
+                                            'Services',
+                            'og:title': 'COVID-19: Treatments and Medications',
+                            'og:type': 'article',
+                            'og:updated_time': '2022-01-06T15:26:20-06:00',
+                            'og:url': 'https://www.dhs.wisconsin.gov/covid-19/treatments.htm',
+                            'viewport': 'width=device-width',
+                            '”googlebot”': '”nosnippet”'}]},
+  'snippet': '7 days ago ... Evusheld. Used for prevention (before exposure) '
+             'of COVID-19; Available to people ages 12 and up with weakened '
+             'immune systems or those unable\xa0...',
+  'title': 'COVID-19: Treatments and Medications | Wisconsin Department of '
+           '...'},
+ {'cacheId': 'As5KyPQ6owAJ',
+  'displayLink': 'www.dhs.wisconsin.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.dhs.wisconsin.gov/publications/p02898.pdf',
+  'htmlFormattedUrl': 'https://www.dhs.wisconsin.gov/publications/p02898.pdf',
+  'htmlSnippet': 'Background. The COVID-19 pandemic has revealed the '
+                 'importance of developing and implementing protocols for the '
+                 'distribution of scarce therapeutics in&nbsp;...',
+  'htmlTitle': 'Ethical Framework for the Allocation of Therapeutics for '
+               'COVID-19 in ...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.dhs.wisconsin.gov/publications/p02898.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///268422413919e2df765f8a264889e95d3a8da4b015c8e2d40c4013e8193ed823'}],
+              'cse_thumbnail': [{'height': '201',
+                                 'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz5AU0eoZEkPyNZZGXhZj7zlQ2nyTTUxS3exxZHJ1gyR3OU2blMnKW4nHu',
+                                 'width': '251'}],
+              'metatags': [{'author': 'DHS',
+                            'creationdate': 'D:20210126162645Z',
+                            'creator': 'Acrobat PDFMaker 20 for Word',
+                            'moddate': 'D:20210126162645Z',
+                            'producer': 'Adobe PDF Library 20.13.106',
+                            'sourcemodified': 'D:20210126162642',
+                            'subject': 'SDMAC',
+                            'title': 'Ethical Framework for the Allocation of '
+                                     'Therapeutics for COVID-19 in Wisconsin, '
+                                     'P-02898'}]},
+  'snippet': 'Background. The COVID-19 pandemic has revealed the importance of '
+             'developing and implementing protocols for the distribution of '
+             'scarce therapeutics in\xa0...',
+  'title': 'Ethical Framework for the Allocation of Therapeutics for COVID-19 '
+           'in ...'}]

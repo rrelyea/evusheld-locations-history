@@ -1,46 +1,27 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'lElOCoENpiwJ',
-            'displayLink': 'health.hawaii.gov',
-            'formattedUrl': 'https://health.hawaii.gov/big-island/',
-            'htmlFormattedUrl': 'https://health.hawaii.gov/big-island/',
-            'htmlSnippet': 'The Hawai`i DHO serves the community with '
-                           'proficiencies in emergency preparedness, family '
-                           'health services, public health nursing, services '
-                           'for the&nbsp;...',
-            'htmlTitle': 'Hawaii District Health Offices',
-            'kind': 'customsearch#result',
-            'link': 'https://health.hawaii.gov/big-island/',
-            'pagemap': {'cse_image': [{'src': 'https://health.hawaii.gov/big-island/wp-content/themes/hic_state_template_parent/images/og-image.jpg'}],
-                        'cse_thumbnail': [{'height': '225',
-                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfmLoOtTIWMdQHnegLjWgM3CjdbUlQDRMo9NEtFzr23_MupbNoyJoGZsU',
-                                           'width': '225'}],
-                        'metatags': [{'og:description': 'State of Hawaii, '
-                                                        'Department of Health',
-                                      'og:image': 'https://health.hawaii.gov/big-island/wp-content/themes/hic_state_template_parent/images/og-image.jpg',
-                                      'og:title': 'Hawaii District Health '
-                                                  'Offices',
-                                      'og:type': 'website',
-                                      'og:url': 'https://health.hawaii.gov/big-island',
-                                      'twitter:card': 'summary',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1, '
-                                                  'shrink-to-fit=no'}]},
-            'snippet': 'The Hawai`i DHO serves the community with '
-                       'proficiencies in emergency preparedness, family health '
-                       'services, public health nursing, services for the\xa0'
-                       '...',
-            'title': 'Hawaii District Health Offices'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 1,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'hawaii.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '1'}]},
- 'searchInformation': {'totalResults': '1'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'lElOCoENpiwJ',
+  'displayLink': 'health.hawaii.gov',
+  'formattedUrl': 'https://health.hawaii.gov/big-island/',
+  'htmlFormattedUrl': 'https://health.hawaii.gov/big-island/',
+  'htmlSnippet': 'The Hawai`i DHO serves the community with proficiencies in '
+                 'emergency preparedness, family health services, public '
+                 'health nursing, services for the&nbsp;...',
+  'htmlTitle': 'Hawaii District Health Offices',
+  'kind': 'customsearch#result',
+  'link': 'https://health.hawaii.gov/big-island/',
+  'pagemap': {'cse_image': [{'src': 'https://health.hawaii.gov/big-island/wp-content/themes/hic_state_template_parent/images/og-image.jpg'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfmLoOtTIWMdQHnegLjWgM3CjdbUlQDRMo9NEtFzr23_MupbNoyJoGZsU',
+                                 'width': '225'}],
+              'metatags': [{'og:description': 'State of Hawaii, Department of '
+                                              'Health',
+                            'og:image': 'https://health.hawaii.gov/big-island/wp-content/themes/hic_state_template_parent/images/og-image.jpg',
+                            'og:title': 'Hawaii District Health Offices',
+                            'og:type': 'website',
+                            'og:url': 'https://health.hawaii.gov/big-island',
+                            'twitter:card': 'summary',
+                            'viewport': 'width=device-width, initial-scale=1, '
+                                        'shrink-to-fit=no'}]},
+  'snippet': 'The Hawai`i DHO serves the community with proficiencies in '
+             'emergency preparedness, family health services, public health '
+             'nursing, services for the\xa0...',
+  'title': 'Hawaii District Health Offices'}]

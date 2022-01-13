@@ -1,167 +1,156 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'displayLink': 'health.maryland.gov',
-            'formattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-begins-to- '
-                            'offer-FDA-authorized-oral-COVID-19-antiviral-medications-statewide.aspx',
-            'htmlFormattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-begins-to- '
-                                'offer-FDA-authorized-oral-COVID-19-antiviral-medications-statewide.aspx',
-            'htmlSnippet': 'Dec 31, 2021 <b>...</b> The FDA also recently '
-                           'issued an EUA for <b>Evusheld</b>, developed by '
-                           'AstraZeneca, the first preventive (prophylaxis) '
-                           'treatment for moderately to&nbsp;...',
-            'htmlTitle': 'Pages - Maryland Department of Health begins to '
-                         'offer FDA ...',
-            'kind': 'customsearch#result',
-            'link': 'https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-begins-to-offer-FDA-authorized-oral-COVID-19-antiviral-medications-statewide.aspx',
-            'pagemap': {'cse_image': [{'src': 'https://health.maryland.gov/newsroom/PublishingImages/image1.png'}],
-                        'cse_thumbnail': [{'height': '118',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ92Wy9pCJJ7aliBQm_1wiwhigtEGAuKGkc4_3M8FbZd2YySWLnwaUCxE0',
-                                           'width': '427'}],
-                        'metatags': [{'og:image': '/newsroom/_layouts/15/MDH/img/logo.png',
-                                      'og:image:alt': 'Agency Logo',
-                                      'og:site_name': 'Maryland.gov Enterprise '
-                                                      'Agency Template',
-                                      'og:type': 'website',
-                                      'og:url': '/newsroom/Pages/default.aspx',
-                                      'robot': 'noarchive',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1, '
-                                                  'shrink-to-fit=no'}]},
-            'snippet': 'Dec 31, 2021 ... The FDA also recently issued an EUA '
-                       'for Evusheld, developed by AstraZeneca, the first '
-                       'preventive (prophylaxis) treatment for moderately '
-                       'to\xa0...',
-            'title': 'Pages - Maryland Department of Health begins to offer '
-                     'FDA ...'},
-           {'displayLink': 'health.maryland.gov',
-            'formattedUrl': 'https://health.maryland.gov/',
-            'htmlFormattedUrl': 'https://health.maryland.gov/',
-            'htmlSnippet': 'An official website of the State of Maryland.',
-            'htmlTitle': 'Maryland Department of Health Home',
-            'kind': 'customsearch#result',
-            'link': 'https://health.maryland.gov/',
-            'pagemap': {'cse_image': [{'src': '/_layouts/15/MDH/img/logo.png'}],
-                        'metatags': [{'og:image': '/_layouts/15/MDH/img/logo.png',
-                                      'og:image:alt': 'Agency Logo',
-                                      'og:site_name': 'Maryland.gov Enterprise '
-                                                      'Agency Template',
-                                      'og:type': 'website',
-                                      'og:url': '/Pages/default.aspx',
-                                      'robot': 'noarchive',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1, '
-                                                  'shrink-to-fit=no'}]},
-            'snippet': 'An official website of the State of Maryland.',
-            'title': 'Maryland Department of Health Home'},
-           {'cacheId': 'eYMgtf1iqmMJ',
-            'displayLink': 'health.maryland.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://health.maryland.gov/.../https___health.maryland.gov_phpa_ '
-                            'Documents_Referring%20patients%20to%20mAb%20infusions, '
-                            '...',
-            'htmlFormattedUrl': 'https://health.maryland.gov/.../https___health.maryland.gov_phpa_ '
-                                'Documents_Referring%20patients%20to%20mAb%20infusions, '
-                                '...',
-            'htmlSnippet': 'Monoclonal antibodies (mAbs) directly neutralize '
-                           'the COVID-19 virus and are intended to prevent the '
-                           'progression of disease.',
-            'htmlTitle': 'Referring Patients to Monoclonal Antibody Infusions',
-            'kind': 'customsearch#result',
-            'link': 'https://health.maryland.gov/phpa/Documents/https___health.maryland.gov_phpa_Documents_Referring%20patients%20to%20mAb%20infusions,%20locations%20(2).pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'cse_image': [{'src': 'x-raw-image:///69270a224e8fbbe852bd056e77835da88627d204114ef55383e5bffe8e21f0ee'}],
-                        'cse_thumbnail': [{'height': '255',
-                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvE_406sXncDFFNLcFvwEq2l1YRSIIr0YFdx9gA6Fys8D2x4UYaUL1Wdcs',
-                                           'width': '197'}],
-                        'metatags': [{'author': 'Tammy Liu -MDH-',
-                                      'creationdate': "D:20210820204745+00'00'",
-                                      'creator': 'Canva',
-                                      'moddate': "D:20210820204745+00'00'",
-                                      'producer': 'Canva',
-                                      'title': 'Referring Patients to '
-                                               'Monoclonal Antibody '
-                                               'Infusions'}]},
-            'snippet': 'Monoclonal antibodies (mAbs) directly neutralize the '
-                       'COVID-19 virus and are intended to prevent the '
-                       'progression of disease.',
-            'title': 'Referring Patients to Monoclonal Antibody Infusions'},
-           {'displayLink': 'health.maryland.gov',
-            'formattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-encourages- '
-                            'physicians-and-patients-to-consider-monoclonal-antibody-treatment-for- '
-                            '...',
-            'htmlFormattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-encourages- '
-                                'physicians-and-patients-to-consider-monoclonal-antibody-treatment-for- '
-                                '...',
-            'htmlSnippet': 'Jan 27, 2021 <b>...</b> “While the distribution of '
-                           'vaccines is a top priority, monoclonal antibody '
-                           'treatments are another tool that can help patients '
-                           'fight COVID-19.',
-            'htmlTitle': 'Maryland Department of Health Maryland Department of '
-                         'Health ...',
-            'kind': 'customsearch#result',
-            'link': 'https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-encourages-physicians-and-patients-to-consider-monoclonal-antibody-treatment-for-COVID-19.aspx',
-            'pagemap': {'cse_image': [{'src': 'https://health.maryland.gov/newsroom/PublishingImages/press_release_header_dec2020.png'}],
-                        'cse_thumbnail': [{'height': '121',
-                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmStxPivyvDhh79eDvRiP_8O1s2i6MeeK-MZCeRhqcnwoJazgn_v-eog',
-                                           'width': '417'}],
-                        'metatags': [{'og:image': '/newsroom/_layouts/15/MDH/img/logo.png',
-                                      'og:image:alt': 'Agency Logo',
-                                      'og:site_name': 'Maryland.gov Enterprise '
-                                                      'Agency Template',
-                                      'og:type': 'website',
-                                      'og:url': '/newsroom/Pages/default.aspx',
-                                      'robot': 'noarchive',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1, '
-                                                  'shrink-to-fit=no'}]},
-            'snippet': 'Jan 27, 2021 ... “While the distribution of vaccines '
-                       'is a top priority, monoclonal antibody treatments are '
-                       'another tool that can help patients fight COVID-19.',
-            'title': 'Maryland Department of Health Maryland Department of '
-                     'Health ...'},
-           {'cacheId': 'l1D95NBFeAYJ',
-            'displayLink': 'health.maryland.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://health.maryland.gov/.../Clinician%20Letter_ '
-                            'Monoclonal%20Antibody%20Treatments%2012012020%20final%20signe...',
-            'htmlFormattedUrl': 'https://health.maryland.gov/.../Clinician%20Letter_ '
-                                'Monoclonal%20Antibody%20Treatments%2012012020%20final%20signe...',
-            'htmlSnippet': 'Dec 1, 2020 <b>...</b> We are writing to provide '
-                           'information regarding the announcement of recent '
-                           'United States. Food and Drug Administration (FDA) '
-                           'Emergency Use&nbsp;...',
-            'htmlTitle': 'December 1, 2020 Dear Colleague, We are writing to '
-                         'provide ...',
-            'kind': 'customsearch#result',
-            'link': 'https://health.maryland.gov/mdpcp/Documents/Clinician%20Letter_Monoclonal%20Antibody%20Treatments%2012012020%20final%20signed.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'cse_image': [{'src': 'x-raw-image:///639a120b532eec99e40100cb575f1b42c83382d9caedd8fffd0dbda65cd9e5a6'}],
-                        'cse_thumbnail': [{'height': '255',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxYvs45w8mDjsRLAkOrAlzX2ME8vOD-h9Efcgi-G-ZB5UXcxrXWYUyLck',
-                                           'width': '197'}],
-                        'metatags': [{'author': 'Maureen C. Regan -MDH-',
-                                      'creationdate': "D:20201201144417-05'00'",
-                                      'creator': 'Microsoft® Word for '
-                                                 'Microsoft 365',
-                                      'moddate': "D:20201201144417-05'00'",
-                                      'producer': 'Microsoft® Word for '
-                                                  'Microsoft 365'}]},
-            'snippet': 'Dec 1, 2020 ... We are writing to provide information '
-                       'regarding the announcement of recent United States. '
-                       'Food and Drug Administration (FDA) Emergency Use\xa0'
-                       '...',
-            'title': 'December 1, 2020 Dear Colleague, We are writing to '
-                     'provide ...'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 5,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'health.maryland.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '5'}]},
- 'searchInformation': {'totalResults': '5'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'displayLink': 'health.maryland.gov',
+  'formattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-begins-to- '
+                  'offer-FDA-authorized-oral-COVID-19-antiviral-medications-statewide.aspx',
+  'htmlFormattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-begins-to- '
+                      'offer-FDA-authorized-oral-COVID-19-antiviral-medications-statewide.aspx',
+  'htmlSnippet': 'Dec 31, 2021 <b>...</b> The FDA also recently issued an EUA '
+                 'for <b>Evusheld</b>, developed by AstraZeneca, the first '
+                 'preventive (prophylaxis) treatment for moderately '
+                 'to&nbsp;...',
+  'htmlTitle': 'Pages - Maryland Department of Health begins to offer FDA ...',
+  'kind': 'customsearch#result',
+  'link': 'https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-begins-to-offer-FDA-authorized-oral-COVID-19-antiviral-medications-statewide.aspx',
+  'pagemap': {'cse_image': [{'src': 'https://health.maryland.gov/newsroom/PublishingImages/image1.png'}],
+              'cse_thumbnail': [{'height': '118',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ92Wy9pCJJ7aliBQm_1wiwhigtEGAuKGkc4_3M8FbZd2YySWLnwaUCxE0',
+                                 'width': '427'}],
+              'metatags': [{'og:image': '/newsroom/_layouts/15/MDH/img/logo.png',
+                            'og:image:alt': 'Agency Logo',
+                            'og:site_name': 'Maryland.gov Enterprise Agency '
+                                            'Template',
+                            'og:type': 'website',
+                            'og:url': '/newsroom/Pages/default.aspx',
+                            'robot': 'noarchive',
+                            'viewport': 'width=device-width, initial-scale=1, '
+                                        'shrink-to-fit=no'}]},
+  'snippet': 'Dec 31, 2021 ... The FDA also recently issued an EUA for '
+             'Evusheld, developed by AstraZeneca, the first preventive '
+             '(prophylaxis) treatment for moderately to\xa0...',
+  'title': 'Pages - Maryland Department of Health begins to offer FDA ...'},
+ {'displayLink': 'health.maryland.gov',
+  'formattedUrl': 'https://health.maryland.gov/',
+  'htmlFormattedUrl': 'https://health.maryland.gov/',
+  'htmlSnippet': 'An official website of the State of Maryland.',
+  'htmlTitle': 'Maryland Department of Health Home',
+  'kind': 'customsearch#result',
+  'link': 'https://health.maryland.gov/',
+  'pagemap': {'cse_image': [{'src': '/_layouts/15/MDH/img/logo.png'}],
+              'metatags': [{'og:image': '/_layouts/15/MDH/img/logo.png',
+                            'og:image:alt': 'Agency Logo',
+                            'og:site_name': 'Maryland.gov Enterprise Agency '
+                                            'Template',
+                            'og:type': 'website',
+                            'og:url': '/Pages/default.aspx',
+                            'robot': 'noarchive',
+                            'viewport': 'width=device-width, initial-scale=1, '
+                                        'shrink-to-fit=no'}]},
+  'snippet': 'An official website of the State of Maryland.',
+  'title': 'Maryland Department of Health Home'},
+ {'displayLink': 'health.maryland.gov',
+  'formattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-encourages- '
+                  'physicians-and-patients-to-consider-monoclonal-antibody-treatment-for- '
+                  '...',
+  'htmlFormattedUrl': 'https://health.maryland.gov/.../Maryland-Department-of-Health-encourages- '
+                      'physicians-and-patients-to-consider-monoclonal-antibody-treatment-for- '
+                      '...',
+  'htmlSnippet': 'Jan 27, 2021 <b>...</b> “While the distribution of vaccines '
+                 'is a top priority, monoclonal antibody treatments are '
+                 'another tool that can help patients fight COVID-19.',
+  'htmlTitle': 'Maryland Department of Health Maryland Department of Health '
+               '...',
+  'kind': 'customsearch#result',
+  'link': 'https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-encourages-physicians-and-patients-to-consider-monoclonal-antibody-treatment-for-COVID-19.aspx',
+  'pagemap': {'cse_image': [{'src': 'https://health.maryland.gov/newsroom/PublishingImages/press_release_header_dec2020.png'}],
+              'cse_thumbnail': [{'height': '121',
+                                 'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmStxPivyvDhh79eDvRiP_8O1s2i6MeeK-MZCeRhqcnwoJazgn_v-eog',
+                                 'width': '417'}],
+              'metatags': [{'og:image': '/newsroom/_layouts/15/MDH/img/logo.png',
+                            'og:image:alt': 'Agency Logo',
+                            'og:site_name': 'Maryland.gov Enterprise Agency '
+                                            'Template',
+                            'og:type': 'website',
+                            'og:url': '/newsroom/Pages/default.aspx',
+                            'robot': 'noarchive',
+                            'viewport': 'width=device-width, initial-scale=1, '
+                                        'shrink-to-fit=no'}]},
+  'snippet': 'Jan 27, 2021 ... “While the distribution of vaccines is a top '
+             'priority, monoclonal antibody treatments are another tool that '
+             'can help patients fight COVID-19.',
+  'title': 'Maryland Department of Health Maryland Department of Health ...'},
+ {'cacheId': 'eYMgtf1iqmMJ',
+  'displayLink': 'health.maryland.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://health.maryland.gov/.../https___health.maryland.gov_phpa_ '
+                  'Documents_Referring%20patients%20to%20mAb%20infusions, ...',
+  'htmlFormattedUrl': 'https://health.maryland.gov/.../https___health.maryland.gov_phpa_ '
+                      'Documents_Referring%20patients%20to%20mAb%20infusions, '
+                      '...',
+  'htmlSnippet': 'Monoclonal antibodies (mAbs) directly neutralize the '
+                 'COVID-19 virus and are intended to prevent the progression '
+                 'of disease.',
+  'htmlTitle': 'Referring Patients to Monoclonal Antibody Infusions',
+  'kind': 'customsearch#result',
+  'link': 'https://health.maryland.gov/phpa/Documents/https___health.maryland.gov_phpa_Documents_Referring%20patients%20to%20mAb%20infusions,%20locations%20(2).pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///69270a224e8fbbe852bd056e77835da88627d204114ef55383e5bffe8e21f0ee'}],
+              'cse_thumbnail': [{'height': '255',
+                                 'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvE_406sXncDFFNLcFvwEq2l1YRSIIr0YFdx9gA6Fys8D2x4UYaUL1Wdcs',
+                                 'width': '197'}],
+              'metatags': [{'author': 'Tammy Liu -MDH-',
+                            'creationdate': "D:20210820204745+00'00'",
+                            'creator': 'Canva',
+                            'moddate': "D:20210820204745+00'00'",
+                            'producer': 'Canva',
+                            'title': 'Referring Patients to Monoclonal '
+                                     'Antibody Infusions'}]},
+  'snippet': 'Monoclonal antibodies (mAbs) directly neutralize the COVID-19 '
+             'virus and are intended to prevent the progression of disease.',
+  'title': 'Referring Patients to Monoclonal Antibody Infusions'},
+ {'cacheId': 'l1D95NBFeAYJ',
+  'displayLink': 'health.maryland.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://health.maryland.gov/.../Clinician%20Letter_ '
+                  'Monoclonal%20Antibody%20Treatments%2012012020%20final%20signe...',
+  'htmlFormattedUrl': 'https://health.maryland.gov/.../Clinician%20Letter_ '
+                      'Monoclonal%20Antibody%20Treatments%2012012020%20final%20signe...',
+  'htmlSnippet': 'Dec 1, 2020 <b>...</b> We are writing to provide information '
+                 'regarding the announcement of recent United States. Food and '
+                 'Drug Administration (FDA) Emergency Use&nbsp;...',
+  'htmlTitle': 'December 1, 2020 Dear Colleague, We are writing to provide ...',
+  'kind': 'customsearch#result',
+  'link': 'https://health.maryland.gov/mdpcp/Documents/Clinician%20Letter_Monoclonal%20Antibody%20Treatments%2012012020%20final%20signed.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///639a120b532eec99e40100cb575f1b42c83382d9caedd8fffd0dbda65cd9e5a6'}],
+              'cse_thumbnail': [{'height': '255',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxYvs45w8mDjsRLAkOrAlzX2ME8vOD-h9Efcgi-G-ZB5UXcxrXWYUyLck',
+                                 'width': '197'}],
+              'metatags': [{'author': 'Maureen C. Regan -MDH-',
+                            'creationdate': "D:20201201144417-05'00'",
+                            'creator': 'Microsoft® Word for Microsoft 365',
+                            'moddate': "D:20201201144417-05'00'",
+                            'producer': 'Microsoft® Word for Microsoft 365'}]},
+  'snippet': 'Dec 1, 2020 ... We are writing to provide information regarding '
+             'the announcement of recent United States. Food and Drug '
+             'Administration (FDA) Emergency Use\xa0...',
+  'title': 'December 1, 2020 Dear Colleague, We are writing to provide ...'},
+ {'cacheId': '_pny2y5Ns_oJ',
+  'displayLink': 'health.maryland.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://health.maryland.gov/.../COVID-19%20Update%20Webinars%20FAQs '
+                  '.pdf',
+  'htmlFormattedUrl': 'https://health.maryland.gov/.../COVID-19%20Update%20Webinars%20FAQs '
+                      '.pdf',
+  'htmlSnippet': '3 days ago <b>...</b> Can primary care refer '
+                 'immunocompromised patients for <b>Evusheld</b>? ○ Currently '
+                 'with limited supply, <b>Evusheld</b> is being allocated to '
+                 'hospitals.',
+  'htmlTitle': 'COVID-19 Update Webinars FAQs',
+  'kind': 'customsearch#result',
+  'link': 'https://health.maryland.gov/mdpcp/Documents/COVID-19%20Update%20Webinars%20FAQs.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'metatags': [{'producer': 'Skia/PDF m99 Google Docs Renderer',
+                            'title': 'COVID-19 Update Webinars FAQs'}]},
+  'snippet': '3 days ago ... Can primary care refer immunocompromised patients '
+             'for Evusheld? ○ Currently with limited supply, Evusheld is being '
+             'allocated to hospitals.',
+  'title': 'COVID-19 Update Webinars FAQs'}]

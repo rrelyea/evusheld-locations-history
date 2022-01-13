@@ -1,93 +1,65 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'MIiqEVPNZD0J',
-            'displayLink': 'www.coronavirus.in.gov',
-            'formattedUrl': 'https://www.coronavirus.in.gov/covid-19-treatment-information/',
-            'htmlFormattedUrl': 'https://www.coronavirus.in.gov/covid-19-treatment-information/',
-            'htmlSnippet': '6 days ago <b>...</b> <b>Evusheld</b> is the only '
-                           'monoclonal antibody therapy that helps prevent '
-                           'COVID-19 infection before exposure to the virus. '
-                           'Pre-exposure prevention&nbsp;...',
-            'htmlTitle': 'Novel Coronavirus (COVID-19): COVID-19 Treatment '
-                         'Information',
-            'kind': 'customsearch#result',
-            'link': 'https://www.coronavirus.in.gov/covid-19-treatment-information/',
-            'pagemap': {'cse_image': [{'src': 'https://www.coronavirus.in.gov/images/faqs-icon.svg'}],
-                        'cse_thumbnail': [{'height': '203',
-                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcgFSzRFnD2BeI-VfVNbDDZUIK70hIiAfvAn4827CtLxWrmvhWxQO4E4iw',
-                                           'width': '248'}],
-                        'metatags': [{'apple-mobile-web-app-capable': 'yes',
-                                      'article:modified_time': '2022-01-03T15:39:58-05:00',
-                                      'article:published_time': '2021-12-09T17:16:32-05:00',
-                                      'assetname': 'COVID19 Treatment '
-                                                   'Information',
-                                      'assettype': 'page_standard',
-                                      'dcterms.created': '2021-12-09T17:14:02-05:00',
-                                      'dcterms.creator': 'Novel Coronavirus '
-                                                         '(COVID-19)',
-                                      'dcterms.format': 'HTML',
-                                      'dcterms.identifier': 'https://www.in.gov/covid-19-treatment-information',
-                                      'dcterms.issued': '2021-12-09T17:16:32-05:00',
-                                      'dcterms.modified': '2022-01-03T15:39:58-05:00',
-                                      'dcterms.title': 'COVID-19 Treatment '
-                                                       'Information',
-                                      'og:site_name': 'Novel Coronavirus '
-                                                      '(COVID-19)',
-                                      'og:title': 'COVID-19 Treatment '
-                                                  'Information',
-                                      'og:type': 'website',
-                                      'og:url': 'https://www.in.gov/covid-19-treatment-information/',
-                                      'twitter:card': 'summary',
-                                      'twitter:title': 'COVID-19 Treatment '
-                                                       'Information',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1.0'}]},
-            'snippet': '6 days ago ... Evusheld is the only monoclonal '
-                       'antibody therapy that helps prevent COVID-19 infection '
-                       'before exposure to the virus. Pre-exposure '
-                       'prevention\xa0...',
-            'title': 'Novel Coronavirus (COVID-19): COVID-19 Treatment '
-                     'Information'},
-           {'cacheId': 'foiHnegG_ioJ',
-            'displayLink': 'health.vanderburghcounty.in.gov',
-            'formattedUrl': 'health.vanderburghcounty.in.gov/',
-            'htmlFormattedUrl': 'health.vanderburghcounty.in.gov/',
-            'htmlSnippet': 'COVID-19 Vaccination is available in our community '
-                           'for persons age 12+. Please visit ourshot.in.gov '
-                           '(linked below) to find a vaccination site and '
-                           'schedule an&nbsp;...',
-            'htmlTitle': 'Vanderburgh County Health Department: VCHD',
-            'kind': 'customsearch#result',
-            'link': 'http://health.vanderburghcounty.in.gov/',
-            'pagemap': {'cse_image': [{'src': 'https://vanderburghhealth.com/wp-content/uploads/2016/09/yousmoked.png'}],
-                        'cse_thumbnail': [{'height': '161',
-                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYjTHN1ofvNaanZDts0OnpltFrj5pJZxzzj__0lBD1d1nt_HQPjHoutog',
-                                           'width': '312'}],
-                        'metatags': [{'apple-mobile-web-app-capable': 'yes',
-                                      'apple-mobile-web-app-title': 'VCHD - '
-                                                                    'Vanderburgh '
-                                                                    'County '
-                                                                    'Health '
-                                                                    'Department',
-                                      'mobile-web-app-capable': 'yes',
-                                      'msapplication-tileimage': 'https://vanderburghhealth.org/wp-content/uploads/2020/02/cropped-Picture1-270x270.png',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'COVID-19 Vaccination is available in our community for '
-                       'persons age 12+. Please visit ourshot.in.gov (linked '
-                       'below) to find a vaccination site and schedule an\xa0'
-                       '...',
-            'title': 'Vanderburgh County Health Department: VCHD'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 2,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'in.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '2'}]},
- 'searchInformation': {'totalResults': '2'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'MIiqEVPNZD0J',
+  'displayLink': 'www.coronavirus.in.gov',
+  'formattedUrl': 'https://www.coronavirus.in.gov/covid-19-treatment-information/',
+  'htmlFormattedUrl': 'https://www.coronavirus.in.gov/covid-19-treatment-information/',
+  'htmlSnippet': '7 days ago <b>...</b> <b>Evusheld</b> is the only monoclonal '
+                 'antibody therapy that helps prevent COVID-19 infection '
+                 'before exposure to the virus. Pre-exposure '
+                 'prevention&nbsp;...',
+  'htmlTitle': 'Novel Coronavirus (COVID-19): COVID-19 Treatment Information',
+  'kind': 'customsearch#result',
+  'link': 'https://www.coronavirus.in.gov/covid-19-treatment-information/',
+  'pagemap': {'cse_image': [{'src': 'https://www.coronavirus.in.gov/images/contact-icon.svg'}],
+              'cse_thumbnail': [{'height': '225',
+                                 'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQVHHGWIneCLDM1_A0YtbrwLH5dgDYzGSAFuFirQ_oiSPvQmOQCy1mkQ',
+                                 'width': '225'}],
+              'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                            'article:modified_time': '2022-01-03T15:39:58-05:00',
+                            'article:published_time': '2021-12-09T17:16:32-05:00',
+                            'assetname': 'COVID19 Treatment Information',
+                            'assettype': 'page_standard',
+                            'dcterms.created': '2021-12-09T17:14:02-05:00',
+                            'dcterms.creator': 'Novel Coronavirus (COVID-19)',
+                            'dcterms.format': 'HTML',
+                            'dcterms.identifier': 'https://www.in.gov/covid-19-treatment-information',
+                            'dcterms.issued': '2021-12-09T17:16:32-05:00',
+                            'dcterms.modified': '2022-01-03T15:39:58-05:00',
+                            'dcterms.title': 'COVID-19 Treatment Information',
+                            'og:site_name': 'Novel Coronavirus (COVID-19)',
+                            'og:title': 'COVID-19 Treatment Information',
+                            'og:type': 'website',
+                            'og:url': 'https://www.in.gov/covid-19-treatment-information/',
+                            'twitter:card': 'summary',
+                            'twitter:title': 'COVID-19 Treatment Information',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1.0'}]},
+  'snippet': '7 days ago ... Evusheld is the only monoclonal antibody therapy '
+             'that helps prevent COVID-19 infection before exposure to the '
+             'virus. Pre-exposure prevention\xa0...',
+  'title': 'Novel Coronavirus (COVID-19): COVID-19 Treatment Information'},
+ {'cacheId': 'foiHnegG_ioJ',
+  'displayLink': 'health.vanderburghcounty.in.gov',
+  'formattedUrl': 'health.vanderburghcounty.in.gov/',
+  'htmlFormattedUrl': 'health.vanderburghcounty.in.gov/',
+  'htmlSnippet': 'COVID-19 Vaccination is available in our community for '
+                 'persons age 12+. Please visit ourshot.in.gov (linked below) '
+                 'to find a vaccination site and schedule an&nbsp;...',
+  'htmlTitle': 'Vanderburgh County Health Department: VCHD',
+  'kind': 'customsearch#result',
+  'link': 'http://health.vanderburghcounty.in.gov/',
+  'pagemap': {'cse_image': [{'src': 'https://vanderburghhealth.com/wp-content/uploads/2016/09/yousmoked.png'}],
+              'cse_thumbnail': [{'height': '161',
+                                 'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYjTHN1ofvNaanZDts0OnpltFrj5pJZxzzj__0lBD1d1nt_HQPjHoutog',
+                                 'width': '312'}],
+              'metatags': [{'apple-mobile-web-app-capable': 'yes',
+                            'apple-mobile-web-app-title': 'VCHD - Vanderburgh '
+                                                          'County Health '
+                                                          'Department',
+                            'mobile-web-app-capable': 'yes',
+                            'msapplication-tileimage': 'https://vanderburghhealth.org/wp-content/uploads/2020/02/cropped-Picture1-270x270.png',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'COVID-19 Vaccination is available in our community for persons '
+             'age 12+. Please visit ourshot.in.gov (linked below) to find a '
+             'vaccination site and schedule an\xa0...',
+  'title': 'Vanderburgh County Health Department: VCHD'}]

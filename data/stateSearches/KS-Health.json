@@ -1,13 +1,69 @@
-{'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 10,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'kdheks.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld'}]},
- 'searchInformation': {'totalResults': '0'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'pXHKfRNFHzwJ',
+  'displayLink': 'www.coronavirus.kdheks.gov',
+  'formattedUrl': 'https://www.coronavirus.kdheks.gov/CivicAlerts.aspx?AID=55',
+  'htmlFormattedUrl': 'https://www.coronavirus.kdheks.gov/CivicAlerts.aspx?AID=55',
+  'htmlSnippet': 'The monoclonal antibody treatment <b>Evusheld</b> (Astra '
+                 'Zeneca), as well as the oral antiviral therapies Paxlovid '
+                 '(Pfizer), and molnupiravir (Merck) are products&nbsp;...',
+  'htmlTitle': 'COVID-19 Therapeutics Locator',
+  'kind': 'customsearch#result',
+  'link': 'https://www.coronavirus.kdheks.gov/CivicAlerts.aspx?AID=55',
+  'pagemap': {'cse_image': [{'src': 'https://www.arcgis.com/sharing/rest/content/items/24f44ed51d2e4b1f82e9103fc7930138/resources/hhs-logo-blue.png'}],
+              'cse_thumbnail': [{'height': '151',
+                                 'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3S3TdI97xXirwvfXOiXqtghXBKHjvHqHPua-nJ6iLzj_EbtI7Oi6x6kZl',
+                                 'width': '146'}],
+              'metatags': [{'activation-engine/config/environment': '%7B%22modulePrefix%22%3A%22activation-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D',
+                            'application-name': 'COVID-19 Therapeutics Locator',
+                            'community-engine/config/environment': '%7B%22modulePrefix%22%3A%22community-engine%22%2C%22environment%22%3A%22production%22%7D',
+                            'content-library-engine/config/environment': '%7B%22modulePrefix%22%3A%22content-library-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D',
+                            'events-engine/config/environment': '%7B%22modulePrefix%22%3A%22events-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D',
+                            'feedback-engine/config/environment': '%7B%22modulePrefix%22%3A%22feedback-engine%22%2C%22environment%22%3A%22production%22%7D',
+                            'hub-components-assets-url': 'https://hubcdn.arcgis.com/opendata-ui/assets/hub-components/assets/i18n',
+                            'initiative-editor-engine/config/environment': '%7B%22modulePrefix%22%3A%22initiative-editor-engine%22%2C%22environment%22%3A%22production%22%7D',
+                            'layout-editor-engine/config/environment': '%7B%22modulePrefix%22%3A%22layout-editor-engine%22%2C%22environment%22%3A%22production%22%2C%22cedar%22%3A%7B%22amCharts%22%3A%7B%22dependencies%22%3A%5B%22amcharts.js%22%2C%22serial.js%22%2C%22xy.js%22%2C%22pie.js%22%2C%22radar.js%22%2C%22https%3A//unpkg.com/@esri/cedar@1.0.0-beta.9/dist/umd/themes/amCharts/calcite.js%22%5D%2C%22baseUrl%22%3A%22https%3A//www.amcharts.com/lib/3%22%7D%7D%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D',
+                            'msvalidate.01': '217F0EED65C5B131219477CE2CEAAF8E',
+                            'og:description': 'Discover, analyze and download '
+                                              'data from Department of Health '
+                                              'and Human Services (HHS) '
+                                              'COVID-19 Therapeutics Locator. '
+                                              'Download in CSV, KML, Zip, '
+                                              'GeoJSON, GeoTIFF or PNG. Find '
+                                              'API links for GeoServices, WMS, '
+                                              'and WFS. Analyze with charts '
+                                              'and thematic maps. Take the '
+                                              'next step and create StoryMaps '
+                                              'and Web Maps.',
+                            'og:image': 'https://www.arcgis.com/sharing/rest/content/items/24f44ed51d2e4b1f82e9103fc7930138/resources/hhs-logo-blue.png',
+                            'og:title': 'Department of Health and Human '
+                                        'Services (HHS) COVID-19 Therapeutics '
+                                        'Locator',
+                            'og:type': 'website',
+                            'og:url': 'https://covid-19-therapeutics-locator-dhhs.hub.arcgis.com/',
+                            'opendata-ui/config/asset-manifest': '%7B%22bundles%22%3A%7B%22activation-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/activation-engine/assets/engine-3d4793643d257bf4370702fa63b87513.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/activation-engine/config/environment-d06aa04d2f36ff47a188be6bd303a346.js%22%2C%22type%22%3A%22js%22%7D%5D%7D%2C%22community-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/community-engine/assets/engine-a815bf83c6180007822e5e25639dee94.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/community-engine/assets/engine-vendor-c1387b487912896a47ed725a8e4e02c5.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/community-engine/config/environment-cee635c8d4963be55eba4dc314f4a3f6.js%22%2C%22type%22%3A%22js%22%7D%5',
+                            'overview-engine/config/environment': '%7B%22modulePrefix%22%3A%22overview-engine%22%2C%22environment%22%3A%22production%22%7D',
+                            'solutions-engine/config/environment': '%7B%22modulePrefix%22%3A%22solutions-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D',
+                            'teams-engine/config/environment': '%7B%22modulePrefix%22%3A%22teams-engine%22%2C%22environment%22%3A%22production%22%2C%22ember-do-forms%22%3A%7B%22defaultClasses%22%3A%7B%22field%22%3A%5B%22field%22%5D%2C%22label%22%3A%5B%22label%22%5D%2C%22control%22%3A%5B%22control%22%5D%2C%22feedback%22%3A%5B%22feedback%22%5D%2C%22hint%22%3A%5B%22hint%22%5D%7D%2C%22validationClasses%22%3A%7B%22fieldSuccess%22%3A%5B%22field-success%22%5D%2C%22fieldError%22%3A%5B%22field-error%22%5D%2C%22controlSuccess%22%3A%5B%22control-success%22%5D%2C%22controlError%22%3A%5B%22control-error%22%5D%7D%7D%7D',
+                            'twitter:card': 'summary',
+                            'twitter:description': 'Discover, analyze and '
+                                                   'download data from '
+                                                   'Department of Health and '
+                                                   'Human Services (HHS) '
+                                                   'COVID-19 Therapeutics '
+                                                   'Locator. Download in CSV, '
+                                                   'KML, Zip, GeoJSON, GeoTIFF '
+                                                   'or PNG. Find API links for '
+                                                   'GeoServices, WMS, and WFS. '
+                                                   'Analyze with charts and '
+                                                   'thematic maps. Take the '
+                                                   'next step and create '
+                                                   'StoryMaps and Web Maps.',
+                            'twitter:image': 'https://www.arcgis.com/sharing/rest/content/items/24f44ed51d2e4b1f82e9103fc7930138/resources/hhs-logo-blue.png',
+                            'twitter:title': 'Department of Health and Human '
+                                             'Services (HHS) COVID-19 '
+                                             'Therapeutics Locator',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'The monoclonal antibody treatment Evusheld (Astra Zeneca), as '
+             'well as the oral antiviral therapies Paxlovid (Pfizer), and '
+             'molnupiravir (Merck) are products\xa0...',
+  'title': 'COVID-19 Therapeutics Locator'}]

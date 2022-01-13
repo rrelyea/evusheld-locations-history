@@ -1,89 +1,66 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'displayLink': 'www.nj.gov',
-            'formattedUrl': 'https://www.nj.gov/health/news/2021/approved/20211216a.shtml',
-            'htmlFormattedUrl': 'https://www.nj.gov/health/news/2021/approved/20211216a.shtml',
-            'htmlSnippet': 'Dec 16, 2021 <b>...</b> Recommendations Align with '
-                           'CDC Guidance. The New Jersey Department of Health '
-                           '(NJDOH) today updated quarantine recommendations '
-                           'for school&nbsp;...',
-            'htmlTitle': 'Department of Health | News | New Jersey Department '
-                         'of Health ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.nj.gov/health/news/2021/approved/20211216a.shtml',
-            'pagemap': {'metatags': [{'author': 'zbarby',
-                                      'modified': '12/16/2021',
-                                      'reviewed': '12/16/2021',
-                                      'revised': '12/16/2021',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Dec 16, 2021 ... Recommendations Align with CDC '
-                       'Guidance. The New Jersey Department of Health (NJDOH) '
-                       'today updated quarantine recommendations for school\xa0'
-                       '...',
-            'title': 'Department of Health | News | New Jersey Department of '
-                     'Health ...'},
-           {'cacheId': 'tdprIHcAhWYJ',
-            'displayLink': 'www.nj.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://www.nj.gov/health/cd/documents/topics/.../monoclonal-therapies.pdf',
-            'htmlFormattedUrl': 'https://www.nj.gov/health/cd/documents/topics/.../monoclonal-therapies.pdf',
-            'htmlSnippet': 'The United States FDA has made early treatment '
-                           'options available under an official process called '
-                           'an Emergency Use Authorization.',
-            'htmlTitle': 'NOW THAT YOU&#39;VE BEEN TESTED',
-            'kind': 'customsearch#result',
-            'link': 'https://www.nj.gov/health/cd/documents/topics/NCOV/monoclonal-therapies.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'cse_image': [{'src': 'x-raw-image:///78fad14449c3dc71297e83805f86f7db725d1bceef2e9886dadb9570610c1900'}],
-                        'cse_thumbnail': [{'height': '255',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTduPQpfBvT0tav3c8hnnaMGEmkE8cGtaMKs4lwhPvEhVskiwPslXuN8FI',
-                                           'width': '197'}],
-                        'metatags': [{'author': 'Temme, Marinee',
-                                      'creationdate': "D:20210406141128-04'00'",
-                                      'creator': 'Microsoft® Word for Office '
-                                                 '365',
-                                      'moddate': "D:20210406141128-04'00'",
-                                      'producer': 'Microsoft® Word for Office '
-                                                  '365'}]},
-            'snippet': 'The United States FDA has made early treatment options '
-                       'available under an official process called an '
-                       'Emergency Use Authorization.',
-            'title': "NOW THAT YOU'VE BEEN TESTED"},
-           {'displayLink': 'www.nj.gov',
-            'formattedUrl': 'https://www.nj.gov/health/legal/covid19/',
-            'htmlFormattedUrl': 'https://www.nj.gov/health/legal/covid19/',
-            'htmlSnippet': 'COVID-19 Temporary Operational Waivers and '
-                           'Guidelines &middot; Memos &middot; Executive '
-                           'Directives &middot; Health Facilities Waivers '
-                           '&middot; EMS Waivers &middot; Standing Orders '
-                           '&middot; Temporary Public&nbsp;...',
-            'htmlTitle': 'Department of Health | Legal and Regulatory '
-                         'Compliance | COVID ...',
-            'kind': 'customsearch#result',
-            'link': 'https://www.nj.gov/health/legal/covid19/',
-            'pagemap': {'metatags': [{'author': 'dpowell',
-                                      'modified': '01/11/2022',
-                                      'reviewed': '1/11/2022',
-                                      'revised': '01/11/2022',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'COVID-19 Temporary Operational Waivers and Guidelines '
-                       '· Memos · Executive Directives · Health Facilities '
-                       'Waivers · EMS Waivers · Standing Orders · Temporary '
-                       'Public\xa0...',
-            'title': 'Department of Health | Legal and Regulatory Compliance | '
-                     'COVID ...'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 3,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'nj.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '3'}]},
- 'searchInformation': {'totalResults': '3'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'displayLink': 'www.nj.gov',
+  'formattedUrl': 'https://www.nj.gov/health/news/2021/approved/20211216a.shtml',
+  'htmlFormattedUrl': 'https://www.nj.gov/health/news/2021/approved/20211216a.shtml',
+  'htmlSnippet': 'Dec 16, 2021 <b>...</b> Recommendations Align with CDC '
+                 'Guidance. The New Jersey Department of Health (NJDOH) today '
+                 'updated quarantine recommendations for school&nbsp;...',
+  'htmlTitle': 'Department of Health | News | New Jersey Department of Health '
+               '...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.nj.gov/health/news/2021/approved/20211216a.shtml',
+  'pagemap': {'metatags': [{'author': 'zbarby',
+                            'modified': '12/16/2021',
+                            'reviewed': '12/16/2021',
+                            'revised': '12/16/2021',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Dec 16, 2021 ... Recommendations Align with CDC Guidance. The '
+             'New Jersey Department of Health (NJDOH) today updated quarantine '
+             'recommendations for school\xa0...',
+  'title': 'Department of Health | News | New Jersey Department of Health ...'},
+ {'cacheId': 'tdprIHcAhWYJ',
+  'displayLink': 'www.nj.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://www.nj.gov/health/cd/documents/topics/.../monoclonal-therapies.pdf',
+  'htmlFormattedUrl': 'https://www.nj.gov/health/cd/documents/topics/.../monoclonal-therapies.pdf',
+  'htmlSnippet': 'The United States FDA has made early treatment options '
+                 'available under an official process called an Emergency Use '
+                 'Authorization.',
+  'htmlTitle': 'NOW THAT YOU&#39;VE BEEN TESTED',
+  'kind': 'customsearch#result',
+  'link': 'https://www.nj.gov/health/cd/documents/topics/NCOV/monoclonal-therapies.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///78fad14449c3dc71297e83805f86f7db725d1bceef2e9886dadb9570610c1900'}],
+              'cse_thumbnail': [{'height': '255',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTduPQpfBvT0tav3c8hnnaMGEmkE8cGtaMKs4lwhPvEhVskiwPslXuN8FI',
+                                 'width': '197'}],
+              'metatags': [{'author': 'Temme, Marinee',
+                            'creationdate': "D:20210406141128-04'00'",
+                            'creator': 'Microsoft® Word for Office 365',
+                            'moddate': "D:20210406141128-04'00'",
+                            'producer': 'Microsoft® Word for Office 365'}]},
+  'snippet': 'The United States FDA has made early treatment options available '
+             'under an official process called an Emergency Use Authorization.',
+  'title': "NOW THAT YOU'VE BEEN TESTED"},
+ {'displayLink': 'www.nj.gov',
+  'formattedUrl': 'https://www.nj.gov/health/legal/covid19/',
+  'htmlFormattedUrl': 'https://www.nj.gov/health/legal/covid19/',
+  'htmlSnippet': 'COVID-19 Temporary Operational Waivers and Guidelines '
+                 '&middot; Memos &middot; Executive Directives &middot; Health '
+                 'Facilities Waivers &middot; EMS Waivers &middot; Standing '
+                 'Orders &middot; Temporary Public&nbsp;...',
+  'htmlTitle': 'Department of Health | Legal and Regulatory Compliance | COVID '
+               '...',
+  'kind': 'customsearch#result',
+  'link': 'https://www.nj.gov/health/legal/covid19/',
+  'pagemap': {'metatags': [{'author': 'dpowell',
+                            'modified': '01/11/2022',
+                            'reviewed': '1/11/2022',
+                            'revised': '01/11/2022',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'COVID-19 Temporary Operational Waivers and Guidelines · Memos · '
+             'Executive Directives · Health Facilities Waivers · EMS Waivers · '
+             'Standing Orders · Temporary Public\xa0...',
+  'title': 'Department of Health | Legal and Regulatory Compliance | COVID '
+           '...'}]

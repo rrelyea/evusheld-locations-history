@@ -1,194 +1,153 @@
-{'context': {'title': 'Evusheld-search'},
- 'items': [{'cacheId': 'JhaODXMYjJ8J',
-            'displayLink': 'health.mn.gov',
-            'formattedUrl': 'https://health.mn.gov/diseases/coronavirus/meds.html',
-            'htmlFormattedUrl': 'https://health.mn.gov/diseases/coronavirus/meds.html',
-            'htmlSnippet': 'Monoclonal antibodies &middot; How can I get '
-                           'monoclonal antibody treatment? &middot; Oral '
-                           'antivirals &middot; <b>Evusheld</b> '
-                           '(tixagevimab/cilgavimab) &middot; Remdesivir and '
-                           'convalescent plasma.',
-            'htmlTitle': 'COVID-19 Medication Options - Minnesota Dept. of '
-                         'Health',
-            'kind': 'customsearch#result',
-            'link': 'https://health.mn.gov/diseases/coronavirus/meds.html',
-            'pagemap': {'metatags': [{'dc.creator.corporatename': 'Minnesota '
-                                                                  'Dept. of '
-                                                                  'Health',
-                                      'dc.creator.personalname': 'Lim, Sarah',
-                                      'dc.date.created': '2021-03-10',
-                                      'dc.date.modified': '2021-12-23',
-                                      'dc.language': 'en',
-                                      'dc.title': 'COVID-19 Medication Options '
-                                                  '- Minnesota Dept. of Health',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Monoclonal antibodies · How can I get monoclonal '
-                       'antibody treatment? · Oral antivirals · Evusheld '
-                       '(tixagevimab/cilgavimab) · Remdesivir and convalescent '
-                       'plasma.',
-            'title': 'COVID-19 Medication Options - Minnesota Dept. of Health'},
-           {'cacheId': 'PXbg26hK2lQJ',
-            'displayLink': 'health.mn.gov',
-            'formattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/therapeutic.html',
-            'htmlFormattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/therapeutic.html',
-            'htmlSnippet': '5 days ago <b>...</b> AstraZeneca – '
-                           '<b>Evusheld</b> (Tixagevimab/Cilgavimab) Oral '
-                           'antivirals. Remdesivir Convalescent plasma. '
-                           'Tocilizumab Baricitinib',
-            'htmlTitle': 'Therapeutic Options for COVID-19 Patients - '
-                         'Minnesota Dept. of ...',
-            'kind': 'customsearch#result',
-            'link': 'https://health.mn.gov/diseases/coronavirus/hcp/therapeutic.html',
-            'pagemap': {'metatags': [{'dc.creator.corporatename': 'Minnesota '
-                                                                  'Dept. of '
-                                                                  'Health',
-                                      'dc.creator.personalname': 'Lim, Sarah',
-                                      'dc.date.created': '2020-09-17',
-                                      'dc.date.modified': '2022-01-07',
-                                      'dc.language': 'en',
-                                      'dc.title': 'Therapeutic Options for '
-                                                  'COVID-19 Patients - '
-                                                  'Minnesota Dept. of Health',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': '5 days ago ... AstraZeneca – Evusheld '
-                       '(Tixagevimab/Cilgavimab) Oral antivirals. Remdesivir '
-                       'Convalescent plasma. Tocilizumab Baricitinib',
-            'title': 'Therapeutic Options for COVID-19 Patients - Minnesota '
-                     'Dept. of ...'},
-           {'cacheId': 'uJzqXEUDF-0J',
-            'displayLink': 'health.mn.gov',
-            'fileFormat': 'PDF/Adobe Acrobat',
-            'formattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/mabethical.pdf',
-            'htmlFormattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/mabethical.pdf',
-            'htmlSnippet': 'Dec 23, 2021 <b>...</b> On July 30, 2021, the FDA '
-                           'updated the EUA for casirivimab/imdevimab '
-                           '(Regeneron) to authorize use of this product for '
-                           'post-exposure&nbsp;...',
-            'htmlTitle': 'Ethical Framework for Allocation of Monoclonal '
-                         'Antibodies during ...',
-            'kind': 'customsearch#result',
-            'link': 'https://health.mn.gov/diseases/coronavirus/hcp/mabethical.pdf',
-            'mime': 'application/pdf',
-            'pagemap': {'cse_image': [{'src': 'x-raw-image:///badf11136758b8c814bdaa53dee539334bd4e98821e53a32d7d55d968822b2ef'}],
-                        'cse_thumbnail': [{'height': '268',
-                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudQpKpandWOwQw7nyE7SNV3v5c_7ruRoV7lpFh4BHPg7VYklUPcHEb4U',
-                                           'width': '188'}],
-                        'metatags': [{'_dlc_dociditemguid': 'b0c90959-1d59-48fe-a89f-4fdd3abfd834',
-                                      'author': 'Minnesota Department of '
-                                                'Health',
-                                      'comments': 'COVID template 2.3  Calibri '
-                                                  'font  update 3/11/21 '
-                                                  'removed h1 style from TOC  '
-                                                  'update 3/18/21 added gray '
-                                                  'icon bar above logo',
-                                      'company': 'State of Minnesota',
-                                      'contenttypeid': '0x0101004A79E00E9483884783B92450FA1867A9',
-                                      'creationdate': "D:20211223115134-06'00'",
-                                      'creator': 'Acrobat PDFMaker 21 for Word',
-                                      'moddate': "D:20211223120303-06'00'",
-                                      'producer': 'Adobe PDF Library 21.7.131',
-                                      'subject': 'Ethical Framework for '
-                                                 'Allocation of Monoclonal '
-                                                 'Antibodies during the '
-                                                 'COVID-19 Pandemic',
-                                      'title': 'Ethical Framework for '
-                                               'Allocation of Monoclonal '
-                                               'Antibodies during the COVID-19 '
-                                               'Pandemic'}]},
-            'snippet': 'Dec 23, 2021 ... On July 30, 2021, the FDA updated the '
-                       'EUA for casirivimab/imdevimab (Regeneron) to authorize '
-                       'use of this product for post-exposure\xa0...',
-            'title': 'Ethical Framework for Allocation of Monoclonal '
-                     'Antibodies during ...'},
-           {'cacheId': '7wdx4ba35C4J',
-            'displayLink': 'www.health.mn.gov',
-            'formattedUrl': 'www.health.mn.gov/',
-            'htmlFormattedUrl': 'www.health.mn.gov/',
-            'htmlSnippet': 'Topics &middot; Individual &amp; Family Health '
-                           'Birth records, immunizations, nutrition and '
-                           'physical activity &middot; Health Care Facilities, '
-                           'Providers &amp; Insurance Directories of&nbsp;...',
-            'htmlTitle': 'Minnesota Department of Health',
-            'kind': 'customsearch#result',
-            'link': 'http://www.health.mn.gov/',
-            'pagemap': {'metatags': [{'dc.creator.corporatename': 'Minnesota '
-                                                                  'Dept. of '
-                                                                  'Health',
-                                      'dc.date.modified': '2016-09-10',
-                                      'dc.description': 'Information for '
-                                                        'health professionals '
-                                                        'and citizens, \r\n'
-                                                        'including state '
-                                                        'health statistics, '
-                                                        'prevention and health '
-                                                        'promotion, and health '
-                                                        'care and \r\n'
-                                                        'health-related '
-                                                        'professions.',
-                                      'dc.language': 'en',
-                                      'dc.subject': 'homepage',
-                                      'dc.title': 'Minnesota Department of '
-                                                  'Health',
-                                      'p:domain_verify': '32733ae728971912914abe6d6ab52f55',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'Topics · Individual & Family Health Birth records, '
-                       'immunizations, nutrition and physical activity · '
-                       'Health Care Facilities, Providers & Insurance '
-                       'Directories of\xa0...',
-            'title': 'Minnesota Department of Health'},
-           {'cacheId': 'SOWErPSzmtkJ',
-            'displayLink': 'health.mn.gov',
-            'formattedUrl': 'https://health.mn.gov/about/tools/redcap.html',
-            'htmlFormattedUrl': 'https://health.mn.gov/about/tools/redcap.html',
-            'htmlSnippet': 'This page is for partners who have been invited to '
-                           'work on an MDH project in REDCap. If you have '
-                           'questions about using REDCap not answered below or '
-                           'about your&nbsp;...',
-            'htmlTitle': 'REDcap External Partner Help - Minnesota Dept. of '
-                         'Health',
-            'kind': 'customsearch#result',
-            'link': 'https://health.mn.gov/about/tools/redcap.html',
-            'pagemap': {'cse_image': [{'src': 'https://www.health.state.mn.us/about/images/rc01_login_450.png'}],
-                        'cse_thumbnail': [{'height': '197',
-                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9vdX0CjUQKMESIG8RTvssgk3LDqXdhq2OA9p9Y-_lS3T9U6012W5zYSFi',
-                                           'width': '256'}],
-                        'metatags': [{'dc.creator.corporatename': 'Minnesota '
-                                                                  'Dept. of '
-                                                                  'Health',
-                                      'dc.creator.personalname': 'Hawley '
-                                                                 'March, Allie',
-                                      'dc.date.created': '2018-01-08',
-                                      'dc.date.modified': '2019-02-14',
-                                      'dc.description': 'Technical assistance '
-                                                        'for partners using '
-                                                        'MDH REDcap.',
-                                      'dc.language': 'en',
-                                      'dc.subject': 'REDCap',
-                                      'dc.title': 'REDcap External Partner '
-                                                  'Help - Minnesota Dept. of '
-                                                  'Health',
-                                      'viewport': 'width=device-width, '
-                                                  'initial-scale=1'}]},
-            'snippet': 'This page is for partners who have been invited to '
-                       'work on an MDH project in REDCap. If you have '
-                       'questions about using REDCap not answered below or '
-                       'about your\xa0...',
-            'title': 'REDcap External Partner Help - Minnesota Dept. of '
-                     'Health'}],
- 'kind': 'customsearch#search',
- 'queries': {'request': [{'count': 5,
-                          'cx': '37cfbc896668324c4',
-                          'inputEncoding': 'utf8',
-                          'outputEncoding': 'utf8',
-                          'safe': 'off',
-                          'searchTerms': 'evusheld',
-                          'siteSearch': 'mn.gov',
-                          'startIndex': 1,
-                          'title': 'Google Custom Search - evusheld',
-                          'totalResults': '5'}]},
- 'searchInformation': {'totalResults': '5'},
- 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
-         'type': 'application/json'}}
+[{'cacheId': 'JhaODXMYjJ8J',
+  'displayLink': 'health.mn.gov',
+  'formattedUrl': 'https://health.mn.gov/diseases/coronavirus/meds.html',
+  'htmlFormattedUrl': 'https://health.mn.gov/diseases/coronavirus/meds.html',
+  'htmlSnippet': 'Monoclonal antibodies &middot; How can I get monoclonal '
+                 'antibody treatment? &middot; Oral antivirals &middot; '
+                 '<b>Evusheld</b> (tixagevimab/cilgavimab) &middot; Remdesivir '
+                 'and convalescent plasma.',
+  'htmlTitle': 'COVID-19 Medication Options - Minnesota Dept. of Health',
+  'kind': 'customsearch#result',
+  'link': 'https://health.mn.gov/diseases/coronavirus/meds.html',
+  'pagemap': {'metatags': [{'dc.creator.corporatename': 'Minnesota Dept. of '
+                                                        'Health',
+                            'dc.creator.personalname': 'Lim, Sarah',
+                            'dc.date.created': '2021-03-10',
+                            'dc.date.modified': '2022-01-12',
+                            'dc.language': 'en',
+                            'dc.title': 'COVID-19 Medication Options - '
+                                        'Minnesota Dept. of Health',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Monoclonal antibodies · How can I get monoclonal antibody '
+             'treatment? · Oral antivirals · Evusheld (tixagevimab/cilgavimab) '
+             '· Remdesivir and convalescent plasma.',
+  'title': 'COVID-19 Medication Options - Minnesota Dept. of Health'},
+ {'cacheId': 'PXbg26hK2lQJ',
+  'displayLink': 'health.mn.gov',
+  'formattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/therapeutic.html',
+  'htmlFormattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/therapeutic.html',
+  'htmlSnippet': 'Regeneron – REGEN-COV (Casirivimab and Imdevimab) Lilly – '
+                 'Bamlanivimab and Etesevimab GSK – Sotrovimab AstraZeneca – '
+                 '<b>Evusheld</b> (Tixagevimab/Cilgavimab)',
+  'htmlTitle': 'Therapeutic Options for COVID-19 Patients - Minnesota Dept. of '
+               '...',
+  'kind': 'customsearch#result',
+  'link': 'https://health.mn.gov/diseases/coronavirus/hcp/therapeutic.html',
+  'pagemap': {'metatags': [{'dc.creator.corporatename': 'Minnesota Dept. of '
+                                                        'Health',
+                            'dc.creator.personalname': 'Lim, Sarah',
+                            'dc.date.created': '2020-09-17',
+                            'dc.date.modified': '2022-01-07',
+                            'dc.language': 'en',
+                            'dc.title': 'Therapeutic Options for COVID-19 '
+                                        'Patients - Minnesota Dept. of Health',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Regeneron – REGEN-COV (Casirivimab and Imdevimab) Lilly – '
+             'Bamlanivimab and Etesevimab GSK – Sotrovimab AstraZeneca – '
+             'Evusheld (Tixagevimab/Cilgavimab)',
+  'title': 'Therapeutic Options for COVID-19 Patients - Minnesota Dept. of '
+           '...'},
+ {'cacheId': 'uJzqXEUDF-0J',
+  'displayLink': 'health.mn.gov',
+  'fileFormat': 'PDF/Adobe Acrobat',
+  'formattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/mabethical.pdf',
+  'htmlFormattedUrl': 'https://health.mn.gov/diseases/coronavirus/hcp/mabethical.pdf',
+  'htmlSnippet': 'Dec 23, 2021 <b>...</b> On July 30, 2021, the FDA updated '
+                 'the EUA for casirivimab/imdevimab (Regeneron) to authorize '
+                 'use of this product for post-exposure&nbsp;...',
+  'htmlTitle': 'Ethical Framework for Allocation of Monoclonal Antibodies '
+               'during ...',
+  'kind': 'customsearch#result',
+  'link': 'https://health.mn.gov/diseases/coronavirus/hcp/mabethical.pdf',
+  'mime': 'application/pdf',
+  'pagemap': {'cse_image': [{'src': 'x-raw-image:///bca70ce859d1c2acb1e1f753e50e863fa9caba4900112ca2258b3f75e34cdb46'}],
+              'cse_thumbnail': [{'height': '255',
+                                 'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9poxgXFsqzdpoq5GRaBaTgQgulR6snZ6kgA3n_8tZ8QJHhjkhd8r5giI',
+                                 'width': '197'}],
+              'metatags': [{'_dlc_dociditemguid': 'b0c90959-1d59-48fe-a89f-4fdd3abfd834',
+                            'author': 'Minnesota Department of Health',
+                            'comments': 'COVID template 2.3  Calibri font  '
+                                        'update 3/11/21 removed h1 style from '
+                                        'TOC  update 3/18/21 added gray icon '
+                                        'bar above logo',
+                            'company': 'State of Minnesota',
+                            'contenttypeid': '0x0101004A79E00E9483884783B92450FA1867A9',
+                            'creationdate': "D:20211223115134-06'00'",
+                            'creator': 'Acrobat PDFMaker 21 for Word',
+                            'moddate': "D:20211223120303-06'00'",
+                            'producer': 'Adobe PDF Library 21.7.131',
+                            'subject': 'Ethical Framework for Allocation of '
+                                       'Monoclonal Antibodies during the '
+                                       'COVID-19 Pandemic',
+                            'title': 'Ethical Framework for Allocation of '
+                                     'Monoclonal Antibodies during the '
+                                     'COVID-19 Pandemic'}]},
+  'snippet': 'Dec 23, 2021 ... On July 30, 2021, the FDA updated the EUA for '
+             'casirivimab/imdevimab (Regeneron) to authorize use of this '
+             'product for post-exposure\xa0...',
+  'title': 'Ethical Framework for Allocation of Monoclonal Antibodies during '
+           '...'},
+ {'cacheId': '7wdx4ba35C4J',
+  'displayLink': 'www.health.mn.gov',
+  'formattedUrl': 'www.health.mn.gov/',
+  'htmlFormattedUrl': 'www.health.mn.gov/',
+  'htmlSnippet': 'Topics &middot; Individual &amp; Family Health Birth '
+                 'records, immunizations, nutrition and physical activity '
+                 '&middot; Health Care Facilities, Providers &amp; Insurance '
+                 'Directories of&nbsp;...',
+  'htmlTitle': 'Minnesota Department of Health',
+  'kind': 'customsearch#result',
+  'link': 'http://www.health.mn.gov/',
+  'pagemap': {'metatags': [{'dc.creator.corporatename': 'Minnesota Dept. of '
+                                                        'Health',
+                            'dc.date.modified': '2016-09-10',
+                            'dc.description': 'Information for health '
+                                              'professionals and citizens, \r\n'
+                                              'including state health '
+                                              'statistics, prevention and '
+                                              'health promotion, and health '
+                                              'care and \r\n'
+                                              'health-related professions.',
+                            'dc.language': 'en',
+                            'dc.subject': 'homepage',
+                            'dc.title': 'Minnesota Department of Health',
+                            'p:domain_verify': '32733ae728971912914abe6d6ab52f55',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'Topics · Individual & Family Health Birth records, '
+             'immunizations, nutrition and physical activity · Health Care '
+             'Facilities, Providers & Insurance Directories of\xa0...',
+  'title': 'Minnesota Department of Health'},
+ {'cacheId': 'SOWErPSzmtkJ',
+  'displayLink': 'health.mn.gov',
+  'formattedUrl': 'https://health.mn.gov/about/tools/redcap.html',
+  'htmlFormattedUrl': 'https://health.mn.gov/about/tools/redcap.html',
+  'htmlSnippet': 'This page is for partners who have been invited to work on '
+                 'an MDH project in REDCap. If you have questions about using '
+                 'REDCap not answered below or about your&nbsp;...',
+  'htmlTitle': 'REDcap External Partner Help - Minnesota Dept. of Health',
+  'kind': 'customsearch#result',
+  'link': 'https://health.mn.gov/about/tools/redcap.html',
+  'pagemap': {'cse_image': [{'src': 'https://www.health.state.mn.us/about/images/rc01_login_450.png'}],
+              'cse_thumbnail': [{'height': '197',
+                                 'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9vdX0CjUQKMESIG8RTvssgk3LDqXdhq2OA9p9Y-_lS3T9U6012W5zYSFi',
+                                 'width': '256'}],
+              'metatags': [{'dc.creator.corporatename': 'Minnesota Dept. of '
+                                                        'Health',
+                            'dc.creator.personalname': 'Hawley March, Allie',
+                            'dc.date.created': '2018-01-08',
+                            'dc.date.modified': '2019-02-14',
+                            'dc.description': 'Technical assistance for '
+                                              'partners using MDH REDcap.',
+                            'dc.language': 'en',
+                            'dc.subject': 'REDCap',
+                            'dc.title': 'REDcap External Partner Help - '
+                                        'Minnesota Dept. of Health',
+                            'viewport': 'width=device-width, '
+                                        'initial-scale=1'}]},
+  'snippet': 'This page is for partners who have been invited to work on an '
+             'MDH project in REDCap. If you have questions about using REDCap '
+             'not answered below or about your\xa0...',
+  'title': 'REDcap External Partner Help - Minnesota Dept. of Health'}]
