@@ -1,5 +1,7 @@
 # Ways to view current Evusheld order/inventory data for all 50 states
 
+- HHS Map Based Search (New as of 1/17)!! - https://covid-19-therapeutics-locator-dhhs.hub.arcgis.com/
+
 - Simple CSV file viewer in webpage: https://github.com/rrelyea/evusheld-locations-history/blob/main/evusheld-data.csv
   - tip: type county or city name into search "Search this file..." field
 - Excel Spreadsheet: https://1drv.ms/x/s!AhC1RgsYG5Ltv55eBLmCP2tJomHPFQ?e=XbsTzD
