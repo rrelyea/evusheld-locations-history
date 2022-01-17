@@ -8,7 +8,7 @@
 
 - View source of data on HealthData.gov (not presorted, or filtered to Evusheld only data): https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data
 
-- EARLY VERSION: better web page: https://rrelyea.github.io/evusheld
+- TEST AN EARLY VERSION: better web page: https://rrelyea.github.io/evusheld
   - source code/issues for that web page: https://github.com/rrelyea/evusheld
   
 # Where does this data comes from?
