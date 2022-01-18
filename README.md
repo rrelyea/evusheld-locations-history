@@ -1,27 +1,18 @@
 # Ways to view current Evusheld order/inventory data for all 50 states
 
-- HHS Map Based Search (New as of 1/17)!! - https://covid-19-therapeutics-locator-dhhs.hub.arcgis.com/
+- Use https://rrelyea.github.io/evusheld
 
-- Simple CSV file viewer in webpage: https://github.com/rrelyea/evusheld-locations-history/blob/main/evusheld-data.csv
-  - tip: type county or city name into search "Search this file..." field
-- Excel Spreadsheet: https://1drv.ms/x/s!AhC1RgsYG5Ltv55eBLmCP2tJomHPFQ?e=XbsTzD
-- Google Sheet: https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing
-- download CSV File "evusheld-data.csv": https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv
-
-- View source of data on HealthData.gov (not presorted, or filtered to Evusheld only data): https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data
-
-- TEST AN EARLY VERSION: better web page: https://rrelyea.github.io/evusheld
-  - source code/issues for that web page: https://github.com/rrelyea/evusheld
+  - or view same data in [a searchable map (HHS)](https://covid-19-therapeutics-locator-dhhs.hub.arcgis.com/), (Microsoft Excel)[https://1drv.ms/x/s!AhC1RgsYG5Ltv55eBLmCP2tJomHPFQ?e=XbsTzD], (Google Sheets)[https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing], (CSV File)[https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv], or (HealthData.gov)[https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data]
   
 # Where does this data comes from?
 HealthData.gov collects all medical facilities with Evusheld orders/inventory and publishes it to https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
 
 Every 20 minutes, this site:
-- gets the latest version of https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld
+- check for a newer version of https://healthdata.gov/resource/rxn6-qnx8.csv?order_label=Evusheld
 - sorts it by state, county, city, providerName
 - saves it as [evusheld-data.csv](https://github.com/rrelyea/evusheld-locations-history/blob/main/evusheld-data.csv)
 
-HealthData.gov has been updating the data feed about 1 times per weekday)
+HealthData.gov has been updating the data feed about 1 time per weekday)
 
 # How can we improve Evusheld dose flow to people who need it?
 - Read this set of suggestions...and send me ideas, or edit (wiki): [evusheld-requests](https://github.com/rrelyea/evusheld-locations-history/wiki/Evusheld-Requests)
