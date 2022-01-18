@@ -2,7 +2,7 @@
 
 - Use https://rrelyea.github.io/evusheld
 
-  - or view same data in [a searchable map (HHS)](https://covid-19-therapeutics-locator-dhhs.hub.arcgis.com/), (Microsoft Excel)[https://1drv.ms/x/s!AhC1RgsYG5Ltv55eBLmCP2tJomHPFQ?e=XbsTzD], (Google Sheets)[https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing], (CSV File)[https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv], or (HealthData.gov)[https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data]
+  - or view same data in [a searchable map (HHS)](https://covid-19-therapeutics-locator-dhhs.hub.arcgis.com/), [Microsoft Excel](https://1drv.ms/x/s!AhC1RgsYG5Ltv55eBLmCP2tJomHPFQ?e=XbsTzD), [Google Sheets](https://docs.google.com/spreadsheets/d/14jiaYK5wzTWQ6o_dZogQjoOMWZopamrfAlWLBKWocLs/edit?usp=sharing), [CSV File](https://raw.githubusercontent.com/rrelyea/evusheld-locations-history/main/evusheld-data.csv), or [HealthData.gov](https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data)
   
 # Where does this data comes from?
 HealthData.gov collects all medical facilities with Evusheld orders/inventory and publishes it to https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8
