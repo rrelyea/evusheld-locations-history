@@ -27,7 +27,7 @@ jobs:
       shell: sh
     - name: keep track of data updates for evusheld-data.csv
       run: |-
-        git log -100 --oneline ./evusheld-data.csv
+        git log -100 --oneline ./evusheld-data.csv > data/evusheld-data-updates.log
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
