@@ -1,6 +1,6 @@
 import pandas as pd
   
-evusheldData = pd.read_csv("data/mAbs-Evusheld-data.csv")
+evusheldData = pd.read_csv("evusheld-data.csv")
   
 evusheldData.sort_values(["state_code", "county", "city", "provider_name"], 
                     axis=0,
