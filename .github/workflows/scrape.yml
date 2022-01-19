@@ -16,7 +16,7 @@ jobs:
         fetch-depth: '100'
     - name: Fetch latest Evusheld data
       run: |-
-        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?`$limit=10000&order_label=Evusheld" > evusheld-data.csv
+        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?`$`limit=10000&order_label=Evusheld" > evusheld-data.csv
     - name: Fetch latest HHS_IDs
       run: |-
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/vz64-k9wr.csv > data/HHS_IDs.csv
