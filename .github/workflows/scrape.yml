@@ -29,6 +29,10 @@ jobs:
     - name: keep track of data updates for evusheld-data.csv
       run: |-
         git log -100 --pretty=format:'%ad,%h' ./evusheld-data.csv > data/evusheld-data-updates.log
+    - name: download state population info from census.gov
+      run: |-
+        curl https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/state/totals/NST-EST2021-alldata.csv > data/state-populations.csv
+
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
