@@ -1,7 +1,11 @@
 import pandas as pd
   
 evusheldData = pd.read_csv("evusheld-data.csv")
-  
+
+# ensure standard casing, so that sorting works better.
+evusheldData['city'] = evusheldData['city'].str.title()
+evusheldData['county'] = evusheldData['county'].str.title()
+
 evusheldData.sort_values(["state_code", "county", "city", "provider_name"], 
                     axis=0,
                     ascending=[True, True, True, True], 

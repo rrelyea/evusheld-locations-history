@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Get latest data
 
 on:
   push:
