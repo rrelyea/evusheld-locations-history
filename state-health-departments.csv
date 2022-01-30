@@ -21,10 +21,10 @@ kdheks.gov,kansas.gov,Kansas,KS,KDHE,,,www.kdhe.ks.gov/Search?searchPhrase=KEYWO
 chfs.ky.gov,ky.gov,Kentucky,KY,chfsky,,,chfs.ky.gov/pages/search.aspx?affiliateId=CHFS&terms=KEYWORD,govstatus.egov.com/kycovid19,,
 ldh.la.gov,louisiana.gov,Louisiana,LA,LADeptHealth,,,cse.google.com/cse?cx=005152534869167781137%3Aa06uf5rkrww&ie=UTF-8&q=KEYWORD,ldh.la.gov/coronavirus,Therapeutics Locations,ldh.la.gov/page/monoclonal-antibodies
 maine.gov/dhhs,maine.gov,Maine,ME,MEPublicHealth,,,www.maine.gov/search?searchquery=KEYWORD&as_sitesearch=https%3A%2F%2Fwww.maine.gov%2Fdhhs%2F&site=test_collection&output=xml_no_dtd&client=test_collection&proxystylesheet=test_collection,www.maine.gov/covid19,,
-health.maryland.gov,maryland.gov,Maryland,MD,MDHealthDept,,,health.maryland.gov/search/Pages/Pages.aspx?k=KEYWORD&u=health.maryland.gov,,,
-mass.gov/dph,mass.gov,Massachusetts,MA,MassDPH,,,search.mass.gov/?q=KEYWORD,,,
-michigan.gov/mdhhs,michigan.gov,Michigan,MI,MichiganHHS,,,search.michigan.gov/AppBuilder/search?ctx=MDHHS&q=KEYWORD,,,
-health.state.mn.us,mn.gov,Minnesota,MN,MNHealth,,,mn.gov/mdh/search/?query=KEYWORD,,,
+health.maryland.gov,maryland.gov,Maryland,MD,MDHealthDept,,,health.maryland.gov/search/Pages/Pages.aspx?k=KEYWORD&u=health.maryland.gov,covidlink.maryland.gov/content/,Treatment Options,covidlink.maryland.gov/content/testing/treatment-options/
+mass.gov/dph,mass.gov,Massachusetts,MA,MassDPH,,,search.mass.gov/?q=KEYWORD,www.mass.gov/coronavirus-disease-2019-covid-19,Therapeutic Treatments,www.mass.gov/info-details/therapeutic-treatments-for-covid-19
+michigan.gov/mdhhs,michigan.gov,Michigan,MI,MichiganHHS,,,search.michigan.gov/AppBuilder/search?ctx=MDHHS&q=KEYWORD,www.michigan.gov/coronavirus,,
+health.state.mn.us,mn.gov,Minnesota,MN,MNHealth,,,mn.gov/mdh/search/?query=KEYWORD,www.health.state.mn.us/diseases/coronavirus/index.html,Therapeutics,www.health.state.mn.us/diseases/coronavirus/hcp/therapeutic.html
 msdh.ms.gov,ms.gov,Mississippi,MS,msdh,,,msdh.ms.gov/msdhsite/search/index.cfm?criteria=KEYWORD,www.coronavirus.ms.gov/,,
 health.mo.gov,mo.gov,Missouri,MO,HealthyLivingMo,,,health.mo.gov/results.php?q=KEYWORD,,,
 dphhs.mt.gov,mt.gov,Montana,MT,DPHHSMT,,,dphhs.mt.gov/search?q=KEYWORD,,,
