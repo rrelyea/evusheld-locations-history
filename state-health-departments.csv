@@ -14,9 +14,9 @@ dph.georgia.gov,georgia.gov,Georgia,GA,GaDPH,,404-657-2700,dph.georgia.gov/searc
 dphss.guam.gov,guam.gov,Guam,GU,GuamDPHSS,,,,dphss.guam.gov/covid-19,,
 health.hawaii.gov,hawaii.gov,Hawaii,HI,HawaiiDOH,,,,hawaiicovid19.com,,
 healthandwelfare.idaho.gov,idaho.gov,Idaho,ID,IDHW,,,healthandwelfare.idaho.gov/search?k=KEYWORD,,,
-dph.illinois.gov,illinois.gov,Illinois,IL,IDPH,,,dph.illinois.gov/search.html?q=KEYWORD&contentType=everything,,,
-in.gov/health,in.gov,Indiana,IN,StateHealthIN,,,www.in.gov/health/search-results/?profile=isdh&query=KEYWORD&collection=agencies1,,,
-idph.iowa.gov,iowa.gov,Iowa,IA,IAPublicHealth,,,www.iowa.gov/search/google?ia_slv=1642901735782#gsc.tab=0&gsc.q=KEYWORD&gsc.sort=,,,
+dph.illinois.gov,illinois.gov,Illinois,IL,IDPH,,,dph.illinois.gov/search.html?q=KEYWORD&contentType=everything,dph.illinois.gov/covid19.html,Therapy Locator,dph.illinois.gov/covid19/covid-19-outpatient-therapy-locator.html
+in.gov/health,in.gov,Indiana,IN,StateHealthIN,,,www.in.gov/health/search-results/?profile=isdh&query=KEYWORD&collection=agencies1,www.coronavirus.in.gov/,,
+idph.iowa.gov,iowa.gov,Iowa,IA,IAPublicHealth,,,www.iowa.gov/search/google?ia_slv=1642901735782#gsc.tab=0&gsc.q=KEYWORD&gsc.sort=,idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus,,
 kdheks.gov,kansas.gov,Kansas,KS,KDHE,,,www.kdhe.ks.gov/Search?searchPhrase=KEYWORD,,,
 chfs.ky.gov,ky.gov,Kentucky,KY,chfsky,,,chfs.ky.gov/pages/search.aspx?affiliateId=CHFS&terms=KEYWORD,,,
 ldh.la.gov,louisiana.gov,Louisiana,LA,LADeptHealth,,,cse.google.com/cse?cx=005152534869167781137%3Aa06uf5rkrww&ie=UTF-8&q=KEYWORD,,,
