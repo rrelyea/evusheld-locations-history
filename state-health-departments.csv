@@ -1,6 +1,6 @@
 healthDept_site,state_site,state,state_code,healthDept_twitter,healthDept_email,healthDept_phone,healthDept_search,covid_site,mabInfoLink,mabInfoUrl
 dhss.alaska.gov,alaska.gov,Alaska,AK,Alaska_DHSS,,,dhss.alaska.gov/pages/search.aspx?q=KEYWORD,,Outpatient Treatment,dhss.alaska.gov/dph/epi/id/pages/covid-19/outpatienttreatment.aspx
-alabamapublichealth.gov,alabama.gov,Alabama,AL,ALPublicHealth,,,www.alabamapublichealth.gov/search/index.html?query=KEYWORD,,Prevention and Treatement,www.alabamapublichealth.gov/covid19/prevention.html
+alabamapublichealth.gov,alabama.gov,Alabama,AL,ALPublicHealth,,,www.alabamapublichealth.gov/search/index.html?query=KEYWORD,,Prevention and Treatment,www.alabamapublichealth.gov/covid19/prevention.html
 americansamoa.gov/departments,,American Samoa,AS,,,,,,,
 azdhs.gov,az.gov,Arizona,AZ,azdhs,,,azdhs.gov/search/index.php?q=KEYWORD,,,
 healthy.arkansas.gov,arkansas.gov,Arkansas,AR,adhpio,,,,,Therapeutic Locations,www.healthy.arkansas.gov/programs-services/topics/covid-19-guidance-on-therapeutics
@@ -25,9 +25,9 @@ health.maryland.gov,maryland.gov,Maryland,MD,MDHealthDept,,,health.maryland.gov/
 mass.gov/dph,mass.gov,Massachusetts,MA,MassDPH,,,search.mass.gov/?q=KEYWORD,www.mass.gov/coronavirus-disease-2019-covid-19,Therapeutic Treatments,www.mass.gov/info-details/therapeutic-treatments-for-covid-19
 michigan.gov/mdhhs,michigan.gov,Michigan,MI,MichiganHHS,,,search.michigan.gov/AppBuilder/search?ctx=MDHHS&q=KEYWORD,www.michigan.gov/coronavirus,,
 health.state.mn.us,mn.gov,Minnesota,MN,MNHealth,,,mn.gov/mdh/search/?query=KEYWORD,www.health.state.mn.us/diseases/coronavirus/index.html,Therapeutics,www.health.state.mn.us/diseases/coronavirus/hcp/therapeutic.html
-msdh.ms.gov,ms.gov,Mississippi,MS,msdh,,,msdh.ms.gov/msdhsite/search/index.cfm?criteria=KEYWORD,www.coronavirus.ms.gov/,,
-health.mo.gov,mo.gov,Missouri,MO,HealthyLivingMo,,,health.mo.gov/results.php?q=KEYWORD,,,
-dphhs.mt.gov,mt.gov,Montana,MT,DPHHSMT,,,dphhs.mt.gov/search?q=KEYWORD,,,
+msdh.ms.gov,ms.gov,Mississippi,MS,msdh,,,msdh.ms.gov/msdhsite/search/index.cfm?criteria=KEYWORD,www.coronavirus.ms.gov/,Treatments,"msdh.ms.gov/msdhsite/_static/14,23537,420,878.html"
+health.mo.gov,mo.gov,Missouri,MO,HealthyLivingMo,,,health.mo.gov/results.php?q=KEYWORD,,Therapeutics,health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/covid-therapeutics.php
+dphhs.mt.gov,mt.gov,Montana,MT,DPHHSMT,,,dphhs.mt.gov/search?q=KEYWORD,dphhs.mt.gov/publichealth/cdepi/diseases/CoronavirusMT/index,Therapeutics,dphhs.mt.gov/publichealth/cdepi/diseases/CoronavirusMT/monoclonalantibody
 dhhs.ne.gov,ne.gov,Nebraska,NE,NEDHHS,,,dhhs.ne.gov/_layouts/15/osssearchresults.aspx?u=https%3A%2F%2Fdhhs%2Ene%2Egov&k=KEYWORD,,,
 dhhs.nv.gov,nv.gov,Nevada,NV,DhhsNevada,,,,,,
 dhhs.nh.gov,nh.gov,New Hampshire,NH,nhdhhspio,,,,,,
