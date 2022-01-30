@@ -45,9 +45,9 @@ salud.gov.pr,gov.pr,Puerto Rico,PR,desaludpr,,,www.salud.gov.pr/CMS/8?TXTsearch=
 health.ri.gov,ri.gov,Rhode Island,RI,rihealth,,,www.ri.gov/search/result.php?q=KEYWORD,covid.ri.gov/,Treatments,covid.ri.gov/covid-19-prevention/treatment
 scdhec.gov,sc.gov,South Carolina,SC,scdhec,,,scdhec.gov/search?keywords=KEYWORD,scdhec.gov/covid19,Monoclonal Antibody,scdhec.gov/covid19/monoclonal-antibodies
 doh.sd.gov,sd.gov,South Dakota,SD,SDDOH,,,cse.google.com/cse?cx=012382400048732927914%3Av2d9d_dbrdw&q=KEYWORD&sa=&siteurl=doh.sd.gov,doh.sd.gov/COVID/,Treatments & Therapeutics,doh.sd.gov/COVID/YourHealth.aspx
-tn.gov/health.html,tn.gov,Tennessee,TN,TNDeptofHealth,,,www.tn.gov/health/search-results.html?q=KEYWORD,,,
-dshs.state.tx.us,texas.gov,Texas,TX,TexasDSHS,,,dshs.state.tx.us/Search/?q=KEYWORD,,Therapeutics Locator,tdem.maps.arcgis.com/apps/webappviewer/index.html?id=993e2c2079f8487cafcec74e00e84991&fbclid=IwAR3thAzVNA74YljG1Gfwh3Ayvi_8VDP-m2HtV21feQSNt5MHXWbogsi5k_k
-doh.vi.gov,vi.gov,U.S. Virgin Islands,VI,USVIDOH,,,doh.vi.gov/search/node/KEYWORD,,,
+tn.gov/health.html,tn.gov,Tennessee,TN,TNDeptofHealth,,,www.tn.gov/health/search-results.html?q=KEYWORD,covid19.tn.gov/,,
+dshs.state.tx.us,texas.gov,Texas,TX,TexasDSHS,,,dshs.state.tx.us/Search/?q=KEYWORD,dshs.state.tx.us/coronavirus/,Therapeutics Locator,tdem.maps.arcgis.com/apps/webappviewer/index.html?id=993e2c2079f8487cafcec74e00e84991&fbclid=IwAR3thAzVNA74YljG1Gfwh3Ayvi_8VDP-m2HtV21feQSNt5MHXWbogsi5k_k
+doh.vi.gov,vi.gov,U.S. Virgin Islands,VI,USVIDOH,,,doh.vi.gov/search/node/KEYWORD,www.covid19usvi.com/,,
 health.utah.gov,utah.gov,Utah,UT,UtahDepOfHealth,,,health.utah.gov/?s=KEYWORD,,,
 healthvermont.gov,vermont.gov,Vermont,VT,HealthVermont,,,www.healthvermont.gov/search/site/KEYWORD,,,
 vdh.virginia.gov,virginia.gov,Virginia,VA,VDHgov,,,www.vdh.virginia.gov/?s=KEYWORD,,,
