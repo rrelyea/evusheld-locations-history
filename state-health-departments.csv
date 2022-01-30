@@ -18,9 +18,9 @@ dph.illinois.gov,illinois.gov,Illinois,IL,IDPH,,,dph.illinois.gov/search.html?q=
 in.gov/health,in.gov,Indiana,IN,StateHealthIN,,,www.in.gov/health/search-results/?profile=isdh&query=KEYWORD&collection=agencies1,www.coronavirus.in.gov/,,
 idph.iowa.gov,iowa.gov,Iowa,IA,IAPublicHealth,,,www.iowa.gov/search/google?ia_slv=1642901735782#gsc.tab=0&gsc.q=KEYWORD&gsc.sort=,idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus,,
 kdheks.gov,kansas.gov,Kansas,KS,KDHE,,,www.kdhe.ks.gov/Search?searchPhrase=KEYWORD,,,
-chfs.ky.gov,ky.gov,Kentucky,KY,chfsky,,,chfs.ky.gov/pages/search.aspx?affiliateId=CHFS&terms=KEYWORD,,,
-ldh.la.gov,louisiana.gov,Louisiana,LA,LADeptHealth,,,cse.google.com/cse?cx=005152534869167781137%3Aa06uf5rkrww&ie=UTF-8&q=KEYWORD,,,
-maine.gov/dhhs,maine.gov,Maine,ME,MEPublicHealth,,,www.maine.gov/search?searchquery=KEYWORD&as_sitesearch=https%3A%2F%2Fwww.maine.gov%2Fdhhs%2F&site=test_collection&output=xml_no_dtd&client=test_collection&proxystylesheet=test_collection,,,
+chfs.ky.gov,ky.gov,Kentucky,KY,chfsky,,,chfs.ky.gov/pages/search.aspx?affiliateId=CHFS&terms=KEYWORD,govstatus.egov.com/kycovid19,,
+ldh.la.gov,louisiana.gov,Louisiana,LA,LADeptHealth,,,cse.google.com/cse?cx=005152534869167781137%3Aa06uf5rkrww&ie=UTF-8&q=KEYWORD,ldh.la.gov/coronavirus,Therapeutics Locations,ldh.la.gov/page/monoclonal-antibodies
+maine.gov/dhhs,maine.gov,Maine,ME,MEPublicHealth,,,www.maine.gov/search?searchquery=KEYWORD&as_sitesearch=https%3A%2F%2Fwww.maine.gov%2Fdhhs%2F&site=test_collection&output=xml_no_dtd&client=test_collection&proxystylesheet=test_collection,www.maine.gov/covid19,,
 health.maryland.gov,maryland.gov,Maryland,MD,MDHealthDept,,,health.maryland.gov/search/Pages/Pages.aspx?k=KEYWORD&u=health.maryland.gov,,,
 mass.gov/dph,mass.gov,Massachusetts,MA,MassDPH,,,search.mass.gov/?q=KEYWORD,,,
 michigan.gov/mdhhs,michigan.gov,Michigan,MI,MichiganHHS,,,search.michigan.gov/AppBuilder/search?ctx=MDHHS&q=KEYWORD,,,
