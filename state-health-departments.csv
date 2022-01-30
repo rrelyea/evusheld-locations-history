@@ -33,14 +33,14 @@ dhhs.nv.gov,nv.gov,Nevada,NV,DhhsNevada,,,,,,
 dhhs.nh.gov,nh.gov,New Hampshire,NH,nhdhhspio,,,www.covid19.nh.gov/search?keys=KEYWORD,www.covid19.nh.gov/,Therapeutics,www.covid19.nh.gov/resources/covid-19-treatment-resources
 nj.gov/health,nj.gov,New Jersey,NJ,NJDeptofHealth,,,nj.gov/search/?qt=KEYWORD,,Therapeutics,www.state.nj.us/health/cd/topics/covid2019_community.shtml?_gl=1*1ippqm2*_ga*MTM1NDI3Nzk1Ny4xNjQyOTAyNjcy*_ga_5PWJJG6642*MTY0MzU4NDMzMy4yLjAuMTY0MzU4NDMzMy4w#3
 nmhealth.org,newmexico.gov,New Mexico,NM,nmdoh,,,www.nmhealth.org/search/?keyword=KEYWORD&search=search,cv.nmhealth.org/,Therapeutics,cv.nmhealth.org/covid-19-monoclonal-antibody-patient-treatment-info/
-health.ny.gov,ny.gov,New York,NY,healthnygov,,,search.health.ny.gov/search?q=KEYWORD&btnG=Search&site=doh_collection&client=default_frontend&proxystylesheet=default_frontend&output=xml_no_dtd,,Therapeutics,coronavirus.health.ny.gov/monoclonal-antibody-therapeutics
-ncdhhs.gov,nc.gov,North Carolina,NC,ncdhhs,,,www.ncdhhs.gov/search/cse?keys=KEYWORD#gsc.tab=0&gsc.q=KEYWORD&gsc.sort=,,,
-health.nd.gov,nd.gov,North Dakota,ND,nddoh,,,www.health.nd.gov/search?query=KEYWORD,,,
+health.ny.gov,ny.gov,New York,NY,healthnygov,,,search.health.ny.gov/search?q=KEYWORD&btnG=Search&site=doh_collection&client=default_frontend&proxystylesheet=default_frontend&output=xml_no_dtd,coronavirus.health.ny.gov/home,Therapeutics,coronavirus.health.ny.gov/monoclonal-antibody-therapeutics
+ncdhhs.gov,nc.gov,North Carolina,NC,ncdhhs,,,www.ncdhhs.gov/search/cse?keys=KEYWORD#gsc.tab=0&gsc.q=KEYWORD&gsc.sort=,covid19.ncdhhs.gov/,Treatments,covid19.ncdhhs.gov/treatment
+health.nd.gov,nd.gov,North Dakota,ND,nddoh,,,www.health.nd.gov/search?query=KEYWORD,,Treatments,www.health.nd.gov/covidtreatment
 chcc.gov.mp,,Northern Mariana Islands,CM,cnmichcc,,,,,,
 odh.ohio.gov,ohio.gov,Ohio,OH,OHdeptofhealth,,,odh.ohio.gov/wps/portal/gov/odh/search/?search_query=KEYWORD,,,
-ok.gov/health,ok.gov,Oklahoma,OK,HealthyOklahoma,,,oklahoma.gov/health/search.html?q=KEYWORD,,,
-public.health.oregon.gov,oregon.gov,Oregon,OR,OHAOregon,,,www.oregon.gov/oha/Pages/search-results.aspx?q=KEYWORD,,,
-health.pa.gov,pa.gov,Pennsylvania,PA,PAHealthDept,,,,,,
+ok.gov/health,ok.gov,Oklahoma,OK,HealthyOklahoma,,,oklahoma.gov/health/search.html?q=KEYWORD,oklahoma.gov/covid19.html,,
+public.health.oregon.gov,oregon.gov,Oregon,OR,OHAOregon,,,www.oregon.gov/oha/Pages/search-results.aspx?q=KEYWORD,govstatus.egov.com/OR-OHA-COVID-19,Monoclonal Antibody Treatments,www.oregon.gov/oha/covid19/Pages/monoclonal-antibody-therapy.aspx
+health.pa.gov,pa.gov,Pennsylvania,PA,PAHealthDept,,,,www.health.pa.gov/topics/disease/coronavirus/Pages/Coronavirus.aspx,Prevention &amp; Treatment,www.health.pa.gov/topics/disease/coronavirus/Pages/Prevention-Treatment.aspx
 salud.gov.pr,gov.pr,Puerto Rico,PR,desaludpr,,,www.salud.gov.pr/CMS/8?TXTsearch=KEYWORD,,,
 health.ri.gov,ri.gov,Rhode Island,RI,rihealth,,,www.ri.gov/search/result.php?q=KEYWORD,,,
 scdhec.gov,sc.gov,South Carolina,SC,scdhec,,,scdhec.gov/search?keywords=KEYWORD,,,
