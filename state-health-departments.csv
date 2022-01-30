@@ -28,12 +28,12 @@ health.state.mn.us,mn.gov,Minnesota,MN,MNHealth,,,mn.gov/mdh/search/?query=KEYWO
 msdh.ms.gov,ms.gov,Mississippi,MS,msdh,,,msdh.ms.gov/msdhsite/search/index.cfm?criteria=KEYWORD,www.coronavirus.ms.gov/,Treatments,msdh.ms.gov/msdhsite/_static/14%2C23537%2C420%2C878.html
 health.mo.gov,mo.gov,Missouri,MO,HealthyLivingMo,,,health.mo.gov/results.php?q=KEYWORD,,Therapeutics,health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/covid-therapeutics.php
 dphhs.mt.gov,mt.gov,Montana,MT,DPHHSMT,,,dphhs.mt.gov/search?q=KEYWORD,dphhs.mt.gov/publichealth/cdepi/diseases/CoronavirusMT/index,Therapeutics,dphhs.mt.gov/publichealth/cdepi/diseases/CoronavirusMT/monoclonalantibody
-dhhs.ne.gov,ne.gov,Nebraska,NE,NEDHHS,,,dhhs.ne.gov/_layouts/15/osssearchresults.aspx?u=https%3A%2F%2Fdhhs%2Ene%2Egov&k=KEYWORD,,,
+dhhs.ne.gov,ne.gov,Nebraska,NE,NEDHHS,,,dhhs.ne.gov/_layouts/15/osssearchresults.aspx?u=https%3A%2F%2Fdhhs%2Ene%2Egov&k=KEYWORD,dhhs.ne.gov/Pages/Coronavirus.aspx,,
 dhhs.nv.gov,nv.gov,Nevada,NV,DhhsNevada,,,,,,
-dhhs.nh.gov,nh.gov,New Hampshire,NH,nhdhhspio,,,,,,
-nj.gov/health,nj.gov,New Jersey,NJ,NJDeptofHealth,,,nj.gov/search/?qt=KEYWORD,,,
-nmhealth.org,newmexico.gov,New Mexico,NM,nmdoh,,,www.nmhealth.org/search/?keyword=KEYWORD&search=search,,Therapeutics,coronavirus.health.ny.gov/monoclonal-antibody-therapeutics
-health.ny.gov,ny.gov,New York,NY,healthnygov,,,search.health.ny.gov/search?q=KEYWORD&btnG=Search&site=doh_collection&client=default_frontend&proxystylesheet=default_frontend&output=xml_no_dtd,,,
+dhhs.nh.gov,nh.gov,New Hampshire,NH,nhdhhspio,,,www.covid19.nh.gov/search?keys=KEYWORD,www.covid19.nh.gov/,Therapeutics,www.covid19.nh.gov/resources/covid-19-treatment-resources
+nj.gov/health,nj.gov,New Jersey,NJ,NJDeptofHealth,,,nj.gov/search/?qt=KEYWORD,,Therapeutics,www.state.nj.us/health/cd/topics/covid2019_community.shtml?_gl=1*1ippqm2*_ga*MTM1NDI3Nzk1Ny4xNjQyOTAyNjcy*_ga_5PWJJG6642*MTY0MzU4NDMzMy4yLjAuMTY0MzU4NDMzMy4w#3
+nmhealth.org,newmexico.gov,New Mexico,NM,nmdoh,,,www.nmhealth.org/search/?keyword=KEYWORD&search=search,cv.nmhealth.org/,Therapeutics,cv.nmhealth.org/covid-19-monoclonal-antibody-patient-treatment-info/
+health.ny.gov,ny.gov,New York,NY,healthnygov,,,search.health.ny.gov/search?q=KEYWORD&btnG=Search&site=doh_collection&client=default_frontend&proxystylesheet=default_frontend&output=xml_no_dtd,,Therapeutics,coronavirus.health.ny.gov/monoclonal-antibody-therapeutics
 ncdhhs.gov,nc.gov,North Carolina,NC,ncdhhs,,,www.ncdhhs.gov/search/cse?keys=KEYWORD#gsc.tab=0&gsc.q=KEYWORD&gsc.sort=,,,
 health.nd.gov,nd.gov,North Dakota,ND,nddoh,,,www.health.nd.gov/search?query=KEYWORD,,,
 chcc.gov.mp,,Northern Mariana Islands,CM,cnmichcc,,,,,,
