@@ -48,10 +48,10 @@ doh.sd.gov,sd.gov,South Dakota,SD,SDDOH,,,cse.google.com/cse?cx=0123824000487329
 tn.gov/health.html,tn.gov,Tennessee,TN,TNDeptofHealth,,,www.tn.gov/health/search-results.html?q=KEYWORD,covid19.tn.gov/,,
 dshs.state.tx.us,texas.gov,Texas,TX,TexasDSHS,,,dshs.state.tx.us/Search/?q=KEYWORD,dshs.state.tx.us/coronavirus/,Therapeutics Locator,tdem.maps.arcgis.com/apps/webappviewer/index.html?id=993e2c2079f8487cafcec74e00e84991&fbclid=IwAR3thAzVNA74YljG1Gfwh3Ayvi_8VDP-m2HtV21feQSNt5MHXWbogsi5k_k
 doh.vi.gov,vi.gov,U.S. Virgin Islands,VI,USVIDOH,,,doh.vi.gov/search/node/KEYWORD,www.covid19usvi.com/,,
-health.utah.gov,utah.gov,Utah,UT,UtahDepOfHealth,,,health.utah.gov/?s=KEYWORD,,,
-healthvermont.gov,vermont.gov,Vermont,VT,HealthVermont,,,www.healthvermont.gov/search/site/KEYWORD,,,
-vdh.virginia.gov,virginia.gov,Virginia,VA,VDHgov,,,www.vdh.virginia.gov/?s=KEYWORD,,,
-doh.wa.gov,wa.gov,Washington,WA,WADeptHealth,,,www.doh.wa.gov/SearchResults?q=KEYWORD,,,
-dhhr.wv.gov,wv.gov,West Virginia,WV,WV_DHHR,,,dhhr.wv.gov/Pages/Search.aspx?q=KEYWORD,,,
-dhs.wisconsin.gov,wisconsin.gov,Wisconsin,WI,DHSWI,,,www.dhs.wisconsin.gov/search?search=KEYWORD,,,
-health.wyo.gov,wyo.gov,Wyoming,WY,health_wyoming,,,health.wyo.gov/?s=KEYWORD,,,
+health.utah.gov,utah.gov,Utah,UT,UtahDepOfHealth,,,health.utah.gov/?s=KEYWORD,coronavirus.utah.gov/,Monoclonal Antibodies,coronavirus.utah.gov/noveltherapeutics/
+healthvermont.gov,vermont.gov,Vermont,VT,HealthVermont,,,www.healthvermont.gov/search/site/KEYWORD,www.healthvermont.gov/covid-19,Treatments,www.healthvermont.gov/covid-19/symptoms-sickness/treatment-covid-19
+vdh.virginia.gov,virginia.gov,Virginia,VA,VDHgov,,,www.vdh.virginia.gov/?s=KEYWORD,www.vdh.virginia.gov/coronavirus/,Therapeutics,www.vdh.virginia.gov/coronavirus/get-the-latest-guidance/health-professionals/therapeutics/
+doh.wa.gov,wa.gov,Washington,WA,WADeptHealth,,,www.doh.wa.gov/SearchResults?q=KEYWORD,www.doh.wa.gov/Emergencies/COVID19,Therapeutics,www.doh.wa.gov/Emergencies/COVID19/Therapeutics
+dhhr.wv.gov,wv.gov,West Virginia,WV,WV_DHHR,,,dhhr.wv.gov/Pages/Search.aspx?q=KEYWORD,dhhr.wv.gov/COVID-19/Pages/generalinfo.aspx,,
+dhs.wisconsin.gov,wisconsin.gov,Wisconsin,WI,DHSWI,,,www.dhs.wisconsin.gov/search?search=KEYWORD,www.dhs.wisconsin.gov/covid-19,Treatments,www.dhs.wisconsin.gov/covid-19/treatments.htm
+health.wyo.gov,wyo.gov,Wyoming,WY,health_wyoming,,,health.wyo.gov/?s=KEYWORD,health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,Treatments,www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html
