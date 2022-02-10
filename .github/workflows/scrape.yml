@@ -14,21 +14,19 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: '100'
-    - name: Fetch latest Evusheld data
+    - name: Fetch latest dose data
       run: |-
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?\$limit=50000&order_label=Evusheld" > evusheld-data.csv
-        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?\$limit=50000" > data/mAbs-data.csv
-    - name: Fetch latest HHS_IDs
-      run: |-
-        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" https://healthdata.gov/resource/vz64-k9wr.csv > data/HHS_IDs.csv
-    - name: Sort csv by state, county, city, medical center
+        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?\$limit=50000&order_label=Paxlovid" > paxlovid-data.csv
+    - name: Sort data files by state, county, city, medical center
       run: |-
         pip install pandas
         python src/get-and-transform-data.py
       shell: sh
-    - name: keep track of data updates for evusheld-data.csv
+    - name: keep track of data updates for *-data.csv
       run: |-
         git log -100 --pretty=format:'%ad,%h' ./evusheld-data.csv > data/evusheld-data-updates.log
+        git log -100 --pretty=format:'%ad,%h' ./paxlovid-data.csv > data/paxlovid-data-updates.log
     - name: download state population info from census.gov
       run: |-
         curl https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/state/totals/NST-EST2021-alldata.csv > data/state-populations.csv
