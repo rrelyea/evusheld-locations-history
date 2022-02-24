@@ -15,4 +15,6 @@ def sortDataFile(fileName):
   dataFile.to_csv(fileName, index=False)
 
 sortDataFile("evusheld-data.csv")
+sortDataFile("sotrovimab-data.csv")
+sortDataFile("bebtelovimab-data.csv")
 sortDataFile("paxlovid-data.csv")
