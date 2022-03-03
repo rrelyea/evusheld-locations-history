@@ -20,6 +20,7 @@ jobs:
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?\$limit=50000&order_label=Sotrovimab" > sotrovimab-data.csv
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?\$limit=50000&order_label=Bebtelovimab" > bebtelovimab-data.csv
         curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/rxn6-qnx8.csv?\$limit=50000&order_label=Paxlovid" > paxlovid-data.csv
+        curl --header "X-App-Token: ${{ secrets.HEALTHDATA_APPTOKEN }}" "https://healthdata.gov/resource/j7fh-jg79.json" > therapeutics-archive.json
     - name: Sort data files by state, county, city, medical center
       run: |-
         pip install pandas
@@ -31,6 +32,7 @@ jobs:
         git log -100 --pretty=format:'%ad,%h' ./sotrovimab-data.csv > data/sotrovimab-data-updates.log
         git log -100 --pretty=format:'%ad,%h' ./bebtelovimab-data.csv > data/bebtelovimab-data-updates.log
         git log -100 --pretty=format:'%ad,%h' ./paxlovid-data.csv > data/paxlovid-data-updates.log
+        git log -100 --pretty=format:'%ad,%h' ./therapeutics-archive.json > data/therapeutics-archive-updates.log
     - name: download state population info from census.gov
       run: |-
         curl https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/state/totals/NST-EST2021-alldata.csv > data/state-populations.csv
