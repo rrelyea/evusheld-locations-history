@@ -7,12 +7,23 @@ import requests
 from urllib.parse import urlparse
 import csv
 
-with open("../../therapeutics-archive.json", "r") as read_file:
+debuggingLocal = False
+localBasePath = "../" if debuggingLocal else ""
+
+with open(localBasePath + "../data/therapeutics-last-processed.txt", "r") as lastProcessed_file:
+  lastProcessedDate = lastProcessed_file.readline()
+  print("last processed: " + lastProcessedDate)
+
+newLastProcessDate = None
+with open(localBasePath + "../data/therapeutics-archive.json", "r") as read_file:
     publishings = json.load(read_file)
     urls = []
 
     for publishing in publishings:
-      urls.append(publishing["archive_link"]["url"])
+      updateDate = publishing["update_date"]
+      if updateDate > lastProcessedDate:
+        urls.append(publishing["archive_link"]["url"])
+        newLastProcessDate = updateDate
 
 # download all new files
 for url in sorted(urls):
@@ -37,7 +48,7 @@ print(str(len(zipSet)) + ' zipcodes:')
 for zipCode in sorted(zipSet):
   print(zipCode, end=', ', flush=True)
 
-  with open(str(zipCode)+'.csv', "w") as f:
+  with open(localBasePath + '../data/dose-details/'+str(zipCode)+'.csv', "a") as f:
     for url in sorted(urls):
       filename = os.path.basename(urlparse(url).path)
       localFile = 'archive/'+filename
@@ -58,3 +69,6 @@ for zipCode in sorted(zipSet):
                 f.write(',')
             f.write('\n')
     f.close()
+
+with open("../../data/therapeutics-last-processed.txt", "w") as lastProcessed_file:
+  lastProcessedDate = lastProcessed_file.write(newLastProcessDate)
