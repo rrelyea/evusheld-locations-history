@@ -34,6 +34,9 @@ with open(localBasePath + "data/therapeutics-archive.json", "r") as read_file:
 # download all new files
 for url in sorted(urls):
   filename = os.path.basename(urlparse(url).path)
+  targetPath = './data/therapeutics/'
+  while not os.path.exists(targetPath):
+    os.mkdir(targetPath)
   localFile = localBasePath + 'data/therapeutics/' + filename
   if not exists(localFile):
     r = requests.get(url, allow_redirects=True)
@@ -58,7 +61,10 @@ if len(urls) > 0:
     for zipCode in sorted(zipSet):
       print(zipCode, end=', ', flush=True)
 
-      with open(localBasePath + 'data/dose-details/' + mab.lower() + '/'+str(zipCode)+'.csv', "a") as f:
+      targetPath = './data/dose-details/' + mab.lower() + '/'
+      while not os.path.exists(targetPath):
+        os.mkdir(targetPath)
+      with open(localBasePath + 'data/dose-details/' + mab.lower() + '/' + str(zipCode)+'.csv', "a") as f:
         for url in sorted(urls):
           filename = os.path.basename(urlparse(url).path)
           localFile = 'archive/'+filename
