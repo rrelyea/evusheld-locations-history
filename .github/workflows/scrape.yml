@@ -40,7 +40,7 @@ jobs:
 
     - name: download county adjacency info from census.gov
       run: |-
-        curl https://www2.census.gov/geo/docs/reference/county_adjacency.txt > data/county_adjacency.txt
+        curl https://www2.census.gov/geo/docs/reference/county_adjacency.txt > data/county-adjacency/county_adjacency.txt
 
     - name: Commit and push if it changed
       run: |-
