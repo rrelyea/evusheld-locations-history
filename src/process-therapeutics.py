@@ -8,8 +8,13 @@ import requests
 from urllib.parse import urlparse
 import csv
 
-# locally, when I test, I need to pass "../../" as argv[1]
-localBasePath = sys.argv[1] if len(sys.argv) > 1 else ""
+mab = sys.argv[1] if len(sys.argv) > 1 else ""
+
+if mab == "":
+  print("need to pass in mAb name as first param (like 'Evusheld')")
+  quit()
+
+localBasePath = ""
 
 with open(localBasePath + "data/therapeutics-last-processed.txt", "r") as lastProcessed_file:
   lastProcessedDate = lastProcessed_file.readline()
@@ -46,14 +51,14 @@ if len(urls) > 0:
       reader = csv.reader(data)
       for columns in reader:
         zip = columns[6]
-        if zip != "Zip" and 'Evusheld' == columns[8]:
+        if zip != "Zip" and mab == columns[8]:
           zipSet.add(zip[0:5])
 
     print(str(len(zipSet)) + ' zipcodes:')
     for zipCode in sorted(zipSet):
       print(zipCode, end=', ', flush=True)
 
-      with open(localBasePath + 'data/dose-details/'+str(zipCode)+'.csv', "a") as f:
+      with open(localBasePath + 'data/dose-details/' + mab.lower() + '/'+str(zipCode)+'.csv', "a") as f:
         for url in sorted(urls):
           filename = os.path.basename(urlparse(url).path)
           localFile = 'archive/'+filename
@@ -65,7 +70,7 @@ if len(urls) > 0:
               provider = columns[0]
               if "," in provider:
                 provider = '"' + provider + '"'
-              if zip[0:5] == zipCode and 'Evusheld' == columns[8]:
+              if zip[0:5] == zipCode and mab == columns[8]:
                 f.write(timeStamp + ',' + zip + ',' + provider)
                 for i in range(9, 14):
                   if i < len(columns):
@@ -75,5 +80,7 @@ if len(urls) > 0:
                 f.write('\n')
         f.close()
 
-    with open("../../data/therapeutics-last-processed.txt", "w") as lastProcessed_file:
-      lastProcessedDate = lastProcessed_file.write(newLastProcessDate)
+    # update lastProcessedDate unless passed in a flag not to.
+    if len(sys.argv) < 3 or sys.argv[2] != "updateLastProcessed=false":
+      with open("../../data/therapeutics-last-processed.txt", "w") as lastProcessed_file:
+        lastProcessedDate = lastProcessed_file.write(newLastProcessDate)

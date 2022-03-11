@@ -51,9 +51,17 @@ jobs:
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
 
-    - name: Update zip code files
+    - name: Update zip code files for Evusheld
       run: |-
-        python src/process-therapeutics.py
+        python src/process-therapeutics.py Evusheld updateLastProcessed=false
+      shell: sh
+    - name: Update zip code files for Paxlovid
+      run: |-
+        python src/process-therapeutics.py Paxlovid updateLastProcessed=false
+      shell: sh
+    - name: Update zip code files for Sotrovimab
+      run: |-
+        python src/process-therapeutics.py Sotrovimab
       shell: sh
     - name: Commit and push if it changed
       run: |-
