@@ -18,7 +18,7 @@ def get5digitZip(rawZip):
   elif len(rawZip) > 5:
     return rawZip[0:5]
     
-def updateZipCodeFilesForDrug( localBasePath, drugs ):
+def updateZipCodeFilesForDrug(localBasePath, drugs):
   with open(localBasePath + "data/therapeutics-last-processed.txt", "r") as lastProcessed_file:
     lastProcessedDate = lastProcessed_file.readline()
     print("last processed: " + lastProcessedDate)
@@ -103,7 +103,7 @@ def updateZipCodeFilesForDrug( localBasePath, drugs ):
   return newLastProcessedDate
 
 localBasePath = ""
-lastProcessedDate = updateZipCodeFilesForDrug(['Evusheld', 'Paxlovid', 'Sotrovimab', 'Bebtelovimab'])
+lastProcessedDate = updateZipCodeFilesForDrug(localBasePath, ['Evusheld', 'Paxlovid', 'Sotrovimab', 'Bebtelovimab'])
 with open(localBasePath + "data/therapeutics-last-processed.txt", "w") as lastProcessed_file:
   lastProcessed_file.write(lastProcessedDate)
   print("updated data/therapeutics-last-processed.txt to " + lastProcessedDate)
