@@ -18,9 +18,7 @@ def get5digitZip(rawZip):
   elif len(rawZip) > 5:
     return rawZip[0:5]
     
-def updateZipCodeFilesForDrug( drugs ):
-  localBasePath = ""
-
+def updateZipCodeFilesForDrug( localBasePath, drugs ):
   with open(localBasePath + "data/therapeutics-last-processed.txt", "r") as lastProcessed_file:
     lastProcessedDate = lastProcessed_file.readline()
     print("last processed: " + lastProcessedDate)
@@ -55,8 +53,12 @@ def updateZipCodeFilesForDrug( drugs ):
       while not os.path.exists(targetPath):
         os.mkdir(targetPath)
 
-  # calculate all zip codes, by looking at latest data file
-  url = sorted(urls)[len(urls) - 1]
+  # calculate all zip codes, by looking at latest data file, if there is one.
+  if len(urls) == 0:
+    print("complete. no new data to process.")
+    sys.exit()
+
+  url = sorted(urls)[len(sorted(urls)) - 1]
   filename = os.path.basename(urlparse(url).path)
   targetPath = localBasePath + 'data/therapeutics/'
   while not os.path.exists(targetPath):
@@ -74,7 +76,7 @@ def updateZipCodeFilesForDrug( drugs ):
   print('zip codes for ' + mabsFile + ':' + str(len(zipSet)))
 
   for zipCode in sorted(zipSet):
-    print(zipCode, end=', ', flush=True)
+    # print(zipCode, end=', ', flush=True)
     zipFile = [None] * len(drugs)
     filename = os.path.basename(urlparse(url).path)
     therapeuticsFile = localBasePath + 'data/therapeutics/'+filename
@@ -100,7 +102,9 @@ def updateZipCodeFilesForDrug( drugs ):
           f.write('\n')
   return newLastProcessedDate
 
-lastProcessedDate = updateZipCodeFilesForDrug(['Evusheld','Paxlovid','Sotrovimab', 'Bebtelovimab'])
-with open("../../data/therapeutics-last-processed.txt", "w") as lastProcessed_file:
+localBasePath = ""
+lastProcessedDate = updateZipCodeFilesForDrug(['Evusheld', 'Paxlovid', 'Sotrovimab', 'Bebtelovimab'])
+with open(localBasePath + "data/therapeutics-last-processed.txt", "w") as lastProcessed_file:
   lastProcessed_file.write(lastProcessedDate)
+  print("updated data/therapeutics-last-processed.txt to " + lastProcessedDate)
 
