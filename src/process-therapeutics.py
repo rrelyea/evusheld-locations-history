@@ -19,7 +19,7 @@ def get5digitZip(rawZip):
     return rawZip[0:5]
     
 def updateZipCodeFilesForDrug( drugs ):
-  localBasePath = "../../"
+  localBasePath = ""
 
   with open(localBasePath + "data/therapeutics-last-processed.txt", "r") as lastProcessed_file:
     lastProcessedDate = lastProcessed_file.readline()
