@@ -32,7 +32,7 @@ def after(value, a):
     return value[adjusted_pos_a:]
 
 def createCountyAdjacenyFiles(localBasePath):
-  with open(localBasePath + "data/county-adjacency/county_adjacency.txt", "r") as countiesFile:
+  with open(localBasePath + "data/county-adjacency/county_adjacency.txt", "r", encoding='utf8') as countiesFile:
     currentCounty = ""
     currentState = ""
     currentCountyNumber = 0
