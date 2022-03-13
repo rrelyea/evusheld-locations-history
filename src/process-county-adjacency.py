@@ -39,8 +39,10 @@ def createCountyAdjacenyFiles(localBasePath):
     file = None
     lineNo = 0
     while True:
-      line = countiesFile.readline()
-
+      try:
+        line = countiesFile.readline()
+      except UnicodeDecodeError:
+        sys.exit("unicodedecodeerror at line# " +str(lineNo))
       # if line is empty
       # end of file is reached
       if not line:
