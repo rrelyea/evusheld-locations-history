@@ -38,6 +38,11 @@ def createCountyAdjacenyFiles(localBasePath):
     file = None
     lineNo = 0
     firstCountyInFile = False
+    lastState = None
+    firstCountyInStateFile = False
+    firstCountyInFile = None
+    countiesPerStateFile = None
+    
     while True:
       try:
         line = countiesFile.readline()
@@ -55,6 +60,21 @@ def createCountyAdjacenyFiles(localBasePath):
       if chunks[0] != '':
         currentCounty = getCounty(chunks[0])
         currentState = getState(chunks[0])
+        if currentState != lastState:
+          if countiesPerStateFile != None:
+            countiesPerStateFile.close()
+          countiesPerStateFilePath = localBasePath + "data/county-data/" + currentState + ".csv"
+          countiesPerStateFile = open(countiesPerStateFilePath, 'w')
+          firstCountyInStateFile = True
+          lastState = currentState
+
+        if firstCountyInStateFile:
+          firstCountyInStateFile = False
+        else:
+          countiesPerStateFile.write('\n')
+
+        countiesPerStateFile.write(currentCounty)
+
         targetPath = localBasePath + "data/county-adjacency/" + currentState + "/" 
         countyFile = targetPath + currentCounty.lower() + ".csv" 
         if currentCounty == "":
@@ -65,6 +85,7 @@ def createCountyAdjacenyFiles(localBasePath):
           file.flush()
           os.fsync(file)
           file.close()
+        file = None
         file = open(countyFile, 'w')
         firstCountyInFile = True
       try:
