@@ -3,7 +3,6 @@ import os
 import sys
 from os.path import exists
 from pandas import to_numeric
-from urllib.parse import urlparse
 
 def getCounty(fullCountyName):
   county = before(fullCountyName, ",")[1:]
@@ -41,8 +40,11 @@ def createCountyAdjacenyFiles(localBasePath):
     while True:
       try:
         line = countiesFile.readline()
-      except UnicodeDecodeError:
-        sys.exit("unicodedecodeerror at line# " +str(lineNo))
+      except UnicodeDecodeError as e:
+        print("while processing line# " + str(lineNo) + " in county: " + currentCounty + ", " + currentState + " - " + str(e))
+        line = "\t\t\t\t"
+        lineNo = lineNo + 1
+        continue
       # if line is empty
       # end of file is reached
       if not line:
@@ -52,21 +54,27 @@ def createCountyAdjacenyFiles(localBasePath):
       if chunks[0] != '':
         currentCounty = getCounty(chunks[0])
         currentState = getState(chunks[0])
-        currentCountyNumber = to_numeric(chunks[1][0:5])
-        if currentState == '':
-          sys.exit("errored at line: " + str(lineNo))
         targetPath = localBasePath + "data/county-adjacency/" + currentState + "/" 
         countyFile = targetPath + currentCounty.lower() + ".csv" 
-
+        if currentCounty == "":
+          print("while processing line# " + str(lineNo) + " in county: " + currentCounty + ", " + currentState)
         while not os.path.exists(targetPath):
           os.mkdir(targetPath)
         if file != None:
           file.close()
         file = open(countyFile, 'w')
-      adjacentCounty = getCounty(chunks[2])
-      adjacentState = getState(chunks[2])
-      adjacentCountyNumber = to_numeric(chunks[3][0:5])
-      file.write(adjacentCounty.lower() + "," + adjacentState + '\n')
+      try:
+        adjacentCounty = getCounty(chunks[2])
+        adjacentState = getState(chunks[2])
+      except IndexError as e:
+        print("while processing line# " + str(lineNo) + " in county: " + currentCounty + ", " + currentState + " - " + str(e))
+        lineNo = lineNo + 1
+        continue
+        print(str(e))
+        print(str(lineNo) + ": " + line)
+        print(str(lineNo) + ":chunks: " + str(chunks))
+      if not (adjacentCounty == currentCounty and adjacentState == currentState):
+        file.write(adjacentCounty.lower() + "," + adjacentState + '\n')
       lineNo = lineNo + 1
     file.close()
 
