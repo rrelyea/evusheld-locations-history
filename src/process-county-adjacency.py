@@ -37,6 +37,7 @@ def createCountyAdjacenyFiles(localBasePath):
     currentCountyNumber = 0
     file = None
     lineNo = 0
+    firstCountyInFile = False
     while True:
       try:
         line = countiesFile.readline()
@@ -63,6 +64,7 @@ def createCountyAdjacenyFiles(localBasePath):
         if file != None:
           file.close()
         file = open(countyFile, 'w')
+        firstCountyInFile = True
       try:
         adjacentCounty = getCounty(chunks[2])
         adjacentState = getState(chunks[2])
@@ -74,7 +76,11 @@ def createCountyAdjacenyFiles(localBasePath):
         print(str(lineNo) + ": " + line)
         print(str(lineNo) + ":chunks: " + str(chunks))
       if not (adjacentCounty == currentCounty and adjacentState == currentState):
-        file.write(adjacentCounty.lower() + "," + adjacentState + '\n')
+        if firstCountyInFile:
+          firstCountyInFile = False
+        else:
+          file.write('\n')
+        file.write(adjacentCounty.lower() + "," + adjacentState)
       lineNo = lineNo + 1
     file.close()
 
