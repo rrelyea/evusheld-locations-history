@@ -65,15 +65,10 @@ def createCountyAdjacenyFiles(localBasePath):
             countiesPerStateFile.close()
           countiesPerStateFilePath = localBasePath + "data/county-data/" + currentState + ".csv"
           countiesPerStateFile = open(countiesPerStateFilePath, 'w')
-          firstCountyInStateFile = True
+          countiesPerStateFile.write("< county >")
           lastState = currentState
 
-        if firstCountyInStateFile:
-          firstCountyInStateFile = False
-        else:
-          countiesPerStateFile.write('\n')
-
-        countiesPerStateFile.write(currentCounty)
+        countiesPerStateFile.write('\n'+currentCounty)
 
         targetPath = localBasePath + "data/county-adjacency/" + currentState + "/" 
         countyFile = targetPath + currentCounty.lower() + ".csv" 
