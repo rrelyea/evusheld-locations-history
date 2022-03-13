@@ -62,7 +62,7 @@ def createCountyAdjacenyFiles(localBasePath):
         while not os.path.exists(targetPath):
           os.mkdir(targetPath)
         if file != None:
-          file.fluah()
+          file.flush()
           os.fsync(file)
           file.close()
         file = open(countyFile, 'w')
