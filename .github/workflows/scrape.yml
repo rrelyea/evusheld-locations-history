@@ -26,13 +26,6 @@ jobs:
         pip install pandas
         python src/get-and-transform-data.py
       shell: sh
-    - name: keep track of data updates for *-data.csv
-      run: |-
-        git log -100 --pretty=format:'%ad,%h' ./evusheld-data.csv > data/evusheld-data-updates.log
-        git log -100 --pretty=format:'%ad,%h' ./sotrovimab-data.csv > data/sotrovimab-data-updates.log
-        git log -100 --pretty=format:'%ad,%h' ./bebtelovimab-data.csv > data/bebtelovimab-data-updates.log
-        git log -100 --pretty=format:'%ad,%h' ./paxlovid-data.csv > data/paxlovid-data-updates.log
-        git log -100 --pretty=format:'%ad,%h' ./data/therapeutics-archive.json > data/therapeutics-archive-updates.log
 
     - name: download state population info from census.gov
       run: |-
