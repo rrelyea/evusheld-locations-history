@@ -1,3 +1,4 @@
+from asyncio.windows_events import NULL
 from fileinput import filename
 import json
 from io import StringIO
@@ -17,6 +18,8 @@ def get5digitZip(rawZip):
     return rawZip 
   elif len(rawZip) > 5:
     return rawZip[0:5]
+  else:
+    return NULL
     
 def updateZipCodeFilesForDrug(localBasePath, drugs):
   with open(localBasePath + "data/therapeutics-last-processed.txt", "r") as lastProcessed_file:
@@ -69,8 +72,10 @@ def updateZipCodeFilesForDrug(localBasePath, drugs):
   reader = csv.reader(therapeuticsFile)
   for columns in reader:
     zip = get5digitZip(columns[6])
-    if zip != "00Zip" and (columns[8] in drugs):
+    if zip != "00Zip" and zip != NULL and (columns[8] in drugs):
       zipSet.add(zip)
+    else:
+      print("skipped" + str(columns))
   therapeuticsFile.close()
 
   print('zip codes for ' + mabsFile + ':' + str(len(zipSet)))
