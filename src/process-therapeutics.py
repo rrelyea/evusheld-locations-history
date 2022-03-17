@@ -78,10 +78,9 @@ def updateZipCodeFilesForDrug(localBasePath, drugs):
       print("skipped" + str(columns))
   therapeuticsFile.close()
 
-  print('zip codes for ' + mabsFile + ':' + str(len(zipSet)))
+  print('zip codes for ' + mabsFile + ':' + str(len(zipSet)), flush=True)
 
   for zipCode in sorted(zipSet):
-    # print(zipCode, end=', ', flush=True)
     zipFile = [None] * len(drugs)
     filename = os.path.basename(urlparse(url).path)
     therapeuticsFile = localBasePath + 'data/therapeutics/'+filename
@@ -99,11 +98,19 @@ def updateZipCodeFilesForDrug(localBasePath, drugs):
             zipFile[index] = open(localBasePath + 'data/dose-details/' + columns[8].lower() + '/' + str(zipCode)+'.csv', "a",encoding='utf8')
           f = zipFile[index]
           f.write(timeStamp + ',' + zip + ',' + provider)
-          for i in range(9, 14):
-            if i < len(columns):
-              f.write(',' + columns[i])
-            else:
-              f.write(',')
+          if (timeStamp < "2022-03-17"):
+            for i in range(9, 14):
+              if i < len(columns):
+                f.write(',' + columns[i])
+              else:
+                f.write(',')
+          else:
+            f.write(",NoLongerPublished") #allotted_update  - no longer published by healthdata.gov 
+            f.write(",NoLongerPublished") #last delivery    - no longer published by healthdata.gov
+            f.write(",NoLongerPublished") #allotted doses   - no longer published by healthdata.gov
+            f.write("," + columns[9])     #available doses
+            f.write("," + columns[13])    #last report date
+
           f.write('\n')
   return newLastProcessedDate
 
